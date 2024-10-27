@@ -118,6 +118,10 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material, as long as appropriate credit is given.
 
+## About
+
+[About](https://t2m.io/KTAZ44M)
+
 ## Note
 
 I started publishing this work around 2006. It will take a week or two to bring the data over to this
