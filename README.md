@@ -45,10 +45,6 @@ To dive into this project:
 
 This project is open to collaborative insights and suggestions. If you're interested in contributing to the Unified Field Theory development, please open a pull request or reach out with feedback!
 
-## License
-
-This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material, as long as appropriate credit is given.
-
 ## Discussions & Issues
 
 To discuss UFT, see [Discussions](https://github.com/cpsource/UFT/discussions)
@@ -60,6 +56,10 @@ For any issues relating to this repository, see [Issues](https://github.com/cpso
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
 What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
+
+## License
+
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material, as long as appropriate credit is given.
 
 ## Note
 
