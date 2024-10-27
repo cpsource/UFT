@@ -26,6 +26,9 @@ def main():
     # Ensure output directory exists
     os.makedirs(output_dir, exist_ok=True)
 
+    # GitHub repository base URL for link generation
+    github_base_url = "https://github.com/cpsource/UFT/blob/main/mdgithub"
+
     # Find all .md files in the src directory
     for input_md in glob.glob(os.path.join(src_dir, "*.md")):
         # Define the corresponding output file path in the mdgithub directory
@@ -41,12 +44,15 @@ def main():
                 print(f"No update needed for {output_md}; it is up to date.")
                 os.remove(temp_output)
             else:
-                print(f"Updating {output_md} with new content.")
+                # Update the file and print the GitHub link
                 os.replace(temp_output, output_md)
+                print(f"Updated file: {output_md}")
+                print(f"{github_base_url}/{base_name}")
         else:
             # Convert and create the output file if it doesn’t exist
             print(f"Creating new output file: {output_md}")
             convert_to_github_latex_format(input_md, output_md)
+            print(f"{github_base_url}/{base_name}")
 
 if __name__ == "__main__":
     main()
