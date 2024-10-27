@@ -49,16 +49,22 @@ This project is open to collaborative insights and suggestions. If you're intere
 
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material, as long as appropriate credit is given.
 
-## Note
+## Discussions & Issues
 
-I started publishing this work around 2006. It will take a week or two to bring the data over to this
-repository.
+To discuss UFT, see [Discussions](https://github.com/cpsource/UFT/discussions)
+<br>
+For any issues relating to this repository, see [Issues](https://github.com/cpsource/UFT/issues)
 
 ## Misc Musings
 
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
 What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
+
+## Note
+
+I started publishing this work around 2006. It will take a week or two to bring the data over to this
+repository.
 
 ---
 
