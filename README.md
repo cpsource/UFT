@@ -54,6 +54,10 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 I started publishing this work around 2006. It will take a week or two to bring the data over to this
 repository.
 
+## Misc Musings
+
+What are the implications if we redefine c. [Click Here](https://github.com/cpsource/UFT/blob/main/mdgithub/README-redefine-c.md)
+
 ---
 
 *“UFT: Presenting a Unified Field Theory, Now Revealed”*
