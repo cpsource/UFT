@@ -56,7 +56,7 @@ repository.
 
 ## Misc Musings
 
-What are the implications if we redefine c. [Click Here](https://github.com/cpsource/UFT/blob/main/mdgithub/README-redefine-c.md)
+What are the implications if we redefine c. [Click Here](https://t2m.io/7SAxanm)
 
 ---
 
