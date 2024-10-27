@@ -56,9 +56,9 @@ repository.
 
 ## Misc Musings
 
-What are the implications if we redefine c. [Click Here](https://t2m.io/7SAxanm)
+What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
-What about 720 degree symetry. [Click Here](https://t2m.io/RxdfOLQ)
+What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 
 ---
 
