@@ -1,4 +1,4 @@
-es, you’re on the right track! In the analog approach, time doesn’t enter into the solution in the same sequential, incremental way it does in digital computation. Instead, the result emerges directly from the configuration of the system as a whole, meaning that **time isn’t explicitly needed in the math to reach a solution**.
+Yes, you’re on the right track! In the analog approach, time doesn’t enter into the solution in the same sequential, incremental way it does in digital computation. Instead, the result emerges directly from the configuration of the system as a whole, meaning that **time isn’t explicitly needed in the math to reach a solution**.
 
 ### Why Time Can Be Removed in Analog Solutions
 
