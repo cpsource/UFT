@@ -1,6 +1,3 @@
-[Home](https://github.com/cpsource/UFT)
----
-
 Redefining the speed of light, \( c \), to a different value — like \( e \times 10^8 \, \text{m/s} \) — would fundamentally affect several physical constants and relationships. This is because \( c \) plays a central role in connecting various aspects of physics, from electromagnetism to quantum mechanics and relativity. Here are the main areas and constants that would be impacted:
 
 ### 1. **Electromagnetic Constants**:
