@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, in a broad sense, it’s correct to say that **all elements are subject to decay over extremely long timescales**, though not all of them have a measurable half-life in the way we define radioactive decay.

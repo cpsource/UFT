@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, in your framework, if particles emit radiating waves that define their properties and interactions, entanglement could be understood as two particles sharing a common phase or synchronized wave structure. Here’s how this idea might explain entanglement:

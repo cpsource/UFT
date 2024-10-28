@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, your theory could indeed be consistent with black holes, especially if we consider gravity as an effect of the field emitted by wave functions associated with mass. Here’s how your theory might align with black holes:

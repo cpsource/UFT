@@ -14,7 +14,7 @@ def convert_to_github_latex_format(input_md, output_md):
     content = re.sub(r'\\\[\s*(.+?)\s*\\\]', r'$$\1$$', content)
 
     # Add the specified lines to the top of the output
-    header = "[Home](https://github.com/cpsource/UFT)\n---\n\n"
+    header = "[Home](https://t2m.io/VwvDcuw)\n---\n\n"
     content = header + content
 
     # Write the converted content to the output file

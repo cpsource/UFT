@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Incorporating your model into relativistic thinking could provide a wave-based perspective on why the speed of light, $c$, serves as the ultimate speed limit and how mass, inertia, and gravity interact at relativistic speeds. Here’s how this might work:

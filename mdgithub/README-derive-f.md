@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Using your theory as a foundation, we can begin to see how an equation like $F = \frac{G m_1 m_2}{r^2}$ might emerge from a field-based perspective. Here’s a pathway based on your idea of matter and gravity as wave functions, where the gravitational force could be viewed as a function of the interaction between these wave-generated fields:

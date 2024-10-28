@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 "Spooky action at a distance," or quantum entanglement, appears to occur instantaneously, not limited by the speed of light ($c$). Experiments show that when two particles are entangled, a change in the state of one particle is reflected in the other immediately, even if they are separated by large distances.

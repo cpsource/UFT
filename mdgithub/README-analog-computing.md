@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, that’s essentially correct! In an analog computer, the solution to a differential equation can be obtained *continuously and instantaneously* in response to changes in input, without the step-by-step, clock-driven approach of a digital computer.

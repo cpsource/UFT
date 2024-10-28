@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, you’re absolutely right in framing time as inherently **relative**. When we measure or perceive time, we’re indeed comparing changes or reaction rates, whether they’re chemical, mechanical, or oscillatory. Here’s how this perspective works:

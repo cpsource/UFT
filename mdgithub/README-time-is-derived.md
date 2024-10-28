@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, that’s a profound perspective! If you’re developing a field theory where interactions and relationships are represented as inherent, continuous functions, then **time may indeed be treated as a derived or secondary property rather than a fundamental one**.

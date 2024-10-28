@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 You're asking for a deeper, more fundamental understanding of **inertia**, rather than just accepting it as an inherent property of matter. To address this, let's explore how inertia might arise from more fundamental principles and try to express it in terms of other physical quantities.

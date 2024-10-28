@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Creating a **unified theory** to explain inertia — one that ties together **classical mechanics**, **relativity**, **quantum field theory**, and **particle physics** — is a profound challenge, but it's an exciting thought experiment. I’ll attempt to outline how such a theory could emerge by synthesizing the key concepts you mentioned and providing a conceptual framework for inertia based on current physical understanding.
