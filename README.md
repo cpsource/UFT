@@ -60,31 +60,57 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 ## Concepts in no particular order (TODO - Organize!)
 
 [README-more-on-time.md](https://t2m.io/rcuMkk8)
+
 [README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
+
 [README-more-thinking.md](https://t2m.io/aLAOv3s)
+
 [README-relativism.md](https://t2m.io/bcX9wFa)
+
 [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
+
 [README-dark-matter.md](https://t2m.io/dqht6sN)
+
 [README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
+
 [README-decay.md](https://t2m.io/2oUoGUf)
+
 [README-define-inertia.md](https://t2m.io/RWx6nNj)
+
 [README-zero-k.md](https://t2m.io/JQCJn6p)
+
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
+
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
+
 [README-space-time.md](https://t2m.io/zjVrZAT)
+
 [README-time-is-relative.md](https://t2m.io/QK1xNy9)
+
 [README-define-mass.md](https://t2m.io/e9RAVQW)
+
 [README-time-is-derived.md](https://t2m.io/u0WvK1q)
+
 [README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
+
 [README-derive-f.md](https://t2m.io/qifOSa0)
+
 [README-computing-stages.md](https://t2m.io/5zQ9i76)
+
 [README-analog-computing.md](https://t2m.io/aftdKzA)
+
 [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
+
 [README-spooky-action.md](https://t2m.io/neagq7w)
+
 [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
+
 [README-derive-fema.md](https://t2m.io/i1SNwFO)
+
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
+
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
+
 [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU)
 
 ## License
