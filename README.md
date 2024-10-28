@@ -123,8 +123,7 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 
 ## Note
 
-I started publishing this work around 2006. It will take a week or two to bring the data over to this
-repository.
+Order of presentation is a work in progress.
 
 ---
 
