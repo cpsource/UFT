@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 This is a fascinating hypothesis! Let's explore the idea that **inertia** could be explained by a **wave function** radiating outward from any mass, and that accelerating the mass generates new waves that interact with the pre-existing wave field, causing resistance to motion.

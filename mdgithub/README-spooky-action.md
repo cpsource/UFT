@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, your hypothesis about inertia as a wave function emitted by mass could potentially offer a framework for understanding "spooky action at a distance" in a new way. Here’s how it might connect to non-local phenomena, like quantum entanglement:

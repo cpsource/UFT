@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 To derive the speed of light, $c$, without directly referencing time ($t$), we need to shift our focus to quantities that express the relationship between space, energy, and other fundamental constants. In essence, $c$ can be understood in terms of **properties of spacetime and electromagnetic fields**, allowing us to bypass explicit references to time as a fundamental component. Here’s a way to think about deriving $c$ without invoking time:

@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Your idea of dark matter as a byproduct of wave functions that nearly form stable structures—but ultimately decay—provides an intriguing framework for explaining the elusive nature of dark matter. Here's how your concept might offer insight into dark matter's gravitational effects and its apparent invisibility:

@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Yes, you can think of solving a differential equation with a digital computer in terms of discrete stages, where each stage represents one clock cycle. This breakdown can help us conceptualize the solution as a sequence of operations, each taking a finite amount of time to complete. Here’s how this works and how it could be implemented with multiple computers or "stages" in parallel:

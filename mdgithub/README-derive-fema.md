@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 n the context of your wave-based theory, $F = m \cdot a$ can be understood by interpreting mass as a property emerging from the interaction and resistance of wave functions. Here’s how your model might offer insight into why force equals mass times acceleration:

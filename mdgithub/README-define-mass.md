@@ -1,4 +1,4 @@
-[Home](https://github.com/cpsource/UFT)
+[Home](https://t2m.io/VwvDcuw)
 ---
 
 Your hypothesis about inertia, where inertia arises from a wave function emitted by mass that propagates outward at the speed of light, could indeed offer an innovative approach to conceptualizing mass. Here’s how your idea could potentially be mapped to define mass:
