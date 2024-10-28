@@ -60,7 +60,7 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 ## Concepts in no particular order (TODO - Organize!)
 
 [README-more-on-time.md](https://t2m.io/rcuMkk8)
-
+<br>
 [README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
 
 [README-more-thinking.md](https://t2m.io/aLAOv3s)
