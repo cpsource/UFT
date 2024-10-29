@@ -34,28 +34,40 @@ This repository includes:
 - **Mathematical and Computational Models**: Ongoing development of equations and simulations to test these theories.
 - **Supporting Research**: Files and notes on alternative interpretations of quantum mechanics, relativistic physics, and cosmology.
 
-## Getting Started
-
-To dive into this project:
-1. Review the theoretical documents in `docs/` for detailed explanations of each hypothesis.
-2. Explore the `src/` directory for models, code, and simulations that aim to apply these theories in practical contexts.
-3. Check out `examples/` for specific applications, including calculations related to wave-based gravity and simulations of dark matter effects.
-
 ## Contributing
 
-This project is open to collaborative insights and suggestions. If you're interested in contributing to the Unified Field Theory development, please open a pull request or reach out with feedback!
+Before we dive into the theory, a bit of housekeeping. This project is open to collaborative insights and suggestions. If you're interested in contributing to the Unified Field Theory development, please open a pull request or reach out with feedback!
 
 - **To Discuss**        see [Discussions](https://github.com/cpsource/UFT/discussions)
 - **Repository Issues** see [Issues](https://github.com/cpsource/UFT/issues)
 
+## The Unified Field Theory (UFT) Framework
+
+Fundamentally, this **Unified Field Theory (UFT)** proposes that every entity radiates a field outward at the speed of light, **c**. This framework will use the concept of this outward-radiating field to derive various effects that, today, are considered fundamental properties of matter.
+
+In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of UFT.
+
+To dive into this project, step to each section in turn, as following concepts will build on preceeding ones.
+
+### Inertia
+
+In classical thinking, inertia is defined as the resistance of a mass (a property) to a change in velosity.
+
+Using *UFT* though, we define intertia as the interaction between a current radiated field, and the next
+one generated as the object moves. More detail here: [README-define-inertia.md](https://t2m.io/RWx6nNj)
+
+### Dark Matter
+
+*UFT* sees dark matter as bits trying to become stable, but they mostly fail. More detail here: [README-dark-matter.md](https://t2m.io/dqht6sN)
+
 ## Derivations
 
-This theory can be used to derive fundamentals such as:
+*UFT* can be used to derive fundamentals such as:
 
 - Derive $F = m \cdot a$ [See Derivation](https://t2m.io/i1SNwFO)
 - Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/qifOSa0)
 
-## Misc Musings
+## Misc Musings and work in progress.
 
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
@@ -72,15 +84,23 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-relativism.md](https://t2m.io/bcX9wFa)
 <br>
 [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
+
+<!--
 <br>
 [README-dark-matter.md](https://t2m.io/dqht6sN)
+-->
+
 <br>
 [README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
 <br>
 [README-decay.md](https://t2m.io/2oUoGUf)
 <br>
+
+<!--
 [README-define-inertia.md](https://t2m.io/RWx6nNj)
 <br>
+-->
+
 [README-zero-k.md](https://t2m.io/JQCJn6p)
 <br>
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
@@ -96,12 +116,14 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-time-is-derived.md](https://t2m.io/u0WvK1q)
 <br>
 [README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
+
 <!--
 [README-derive-f.md](https://t2m.io/qifOSa0)
 <br>
 [README-derive-fema.md](https://t2m.io/i1SNwFO)
 <br>
 -->
+
 [README-computing-stages.md](https://t2m.io/5zQ9i76)
 <br>
 [README-analog-computing.md](https://t2m.io/aftdKzA)
