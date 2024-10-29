@@ -70,6 +70,8 @@ one generated as the object moves. More detail here: [README-fascinating-hypothe
 
 ### Quantum Entanglement
 
+Classical quantum entanglement properties detailed here: [README-spooky-action.md](https://t2m.io/neagq7w)
+
 **UFT** explains quantum entanglement. More detail here: [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU) and here: [README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
 
 ### Bose–Einstein Condensate
@@ -101,8 +103,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-decay.md](https://t2m.io/2oUoGUf)
 <br>
-
-
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
 <br>
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
@@ -121,13 +121,12 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 <br>
-[README-spooky-action.md](https://t2m.io/neagq7w)
-<br>
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 <br>
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
 <!-- Integrated Ideas
+[README-spooky-action.md](https://t2m.io/neagq7w)
 [README-zero-k.md](https://t2m.io/JQCJn6p)
 [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU)
 [README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
