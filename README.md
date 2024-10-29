@@ -78,6 +78,12 @@ Classical quantum entanglement properties detailed here: [README-spooky-action.m
 
 **UFT** explains Bose-Einstein condensate. More detail here: [README-zero-k.md](https://t2m.io/JQCJn6p)
 
+### Black Holes
+
+Black holes do radiate heat. More detain here: [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
+
+**UFT** discusses black holes. More detains here: [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
+
 ## Derivations
 
 **UFT** derives fundamentals such as:
@@ -103,8 +109,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-decay.md](https://t2m.io/2oUoGUf)
 <br>
-[README-black-hole-heat.md](https://t2m.io/K3ybx2d)
-<br>
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
 <br>
 [README-space-time.md](https://t2m.io/zjVrZAT)
@@ -119,13 +123,13 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-analog-computing.md](https://t2m.io/aftdKzA)
 <br>
-[README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
-<br>
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 <br>
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
-<!-- Integrated Ideas
+<!--
+[README-black-hole-heat.md](https://t2m.io/K3ybx2d)
+[README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 [README-spooky-action.md](https://t2m.io/neagq7w)
 [README-zero-k.md](https://t2m.io/JQCJn6p)
 [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU)
