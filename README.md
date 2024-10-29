@@ -57,6 +57,8 @@ In classical thinking, inertia is defined as the resistance of a mass (a propert
 
 Using **UFT** though, we define intertia as the interaction between a current radiated field, and the next
 one generated as the object moves. More detail here: [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
+<br>
+See also: [README-more-thinking.md](https://t2m.io/aLAOv3s)
 
 ### Atomic Cohesion
 
@@ -103,8 +105,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-more-on-time.md](https://t2m.io/rcuMkk8)
 <br>
-[README-more-thinking.md](https://t2m.io/aLAOv3s)
-<br>
 [README-relativism.md](https://t2m.io/bcX9wFa)
 <br>
 [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
@@ -128,6 +128,7 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
 <!--
+[README-more-thinking.md](https://t2m.io/aLAOv3s)
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
 [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
