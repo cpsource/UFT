@@ -52,9 +52,9 @@ This project is open to collaborative insights and suggestions. If you're intere
 
 This theory can be used to derive fundamentals such as:
 
-- [Derive $F = ma$](https://t2m.io/qifOSa0)
+- Derive $F = ma$ [Derivation](https://t2m.io/qifOSa0)
 
-- [Derive $F = \frac{G m_1 m_2}{r^2}$](https://t2m.io/i1SNwFO)
+- Derive $F = \frac{G m_1 m_2}{r^2}$ [Derivaton](https://t2m.io/i1SNwFO)
 
 ## Misc Musings
 
