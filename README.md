@@ -45,24 +45,24 @@ Before we dive into the theory, a bit of housekeeping. This project is open to c
 
 Fundamentally, this **Unified Field Theory (UFT)** proposes that every entity radiates a field outward at the speed of light, **c**. This framework will use the concept of this outward-radiating field to derive various effects that, today, are considered fundamental properties of matter.
 
-In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of UFT.
+In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of **UFT**.
 
 To dive into this project, step to each section in turn, as following concepts will build on preceeding ones.
 
 ### Inertia
 
-In classical thinking, inertia is defined as the resistance of a mass (a property) to a change in velosity.
+In classical thinking, inertia is defined as the resistance of a mass (a property) to a change in velosity. More detail here: [README-define-inertia.md](https://t2m.io/RWx6nNj)
 
-Using *UFT* though, we define intertia as the interaction between a current radiated field, and the next
-one generated as the object moves. More detail here: [README-define-inertia.md](https://t2m.io/RWx6nNj)
+Using **UFT** though, we define intertia as the interaction between a current radiated field, and the next
+one generated as the object moves. More detail here: [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
 
 ### Dark Matter
 
-*UFT* sees dark matter as bits trying to become stable, but they mostly fail. More detail here: [README-dark-matter.md](https://t2m.io/dqht6sN)
+**UFT** sees dark matter as bits trying to become stable, but they mostly fail. More detail here: [README-dark-matter.md](https://t2m.io/dqht6sN)
 
 ## Derivations
 
-*UFT* can be used to derive fundamentals such as:
+**UFT** can be used to derive fundamentals such as:
 
 - Derive $F = m \cdot a$ [See Derivation](https://t2m.io/i1SNwFO)
 - Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/qifOSa0)
@@ -131,8 +131,12 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 <br>
 [README-spooky-action.md](https://t2m.io/neagq7w)
+
+<!--
 <br>
 [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
+-->
+
 <br>
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 <br>
