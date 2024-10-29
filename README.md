@@ -43,6 +43,8 @@ Before we dive into the theory, a bit of housekeeping. This project is open to c
 
 ## The Unified Field Theory (UFT) Framework
 
+Current theories discuss free space. More detail here: [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
+
 Fundamentally, this **Unified Field Theory (UFT)** proposes that every entity radiates a field outward at the speed of light, **c**. This framework will use the concept of this outward-radiating field to derive various effects that, today, are considered fundamental properties of matter.
 
 In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of **UFT**.
@@ -123,11 +125,10 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-analog-computing.md](https://t2m.io/aftdKzA)
 <br>
-[README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
-<br>
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
 <!--
+[README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
 [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 [README-spooky-action.md](https://t2m.io/neagq7w)
