@@ -48,6 +48,14 @@ This project is open to collaborative insights and suggestions. If you're intere
 - **To Discuss**        see [Discussions](https://github.com/cpsource/UFT/discussions)
 - **Repository Issues** see [Issues](https://github.com/cpsource/UFT/issues)
 
+## Derivations
+
+This theory can be used to derive fundamentals such as:
+
+- [Derive \( F = ma \)](https://t2m.io/qifOSa0)
+
+- [Derive \( F = \frac{G m_1 m_2}{r^2} \)](https://t2m.io/i1SNwFO)
+
 ## Misc Musings
 
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
