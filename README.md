@@ -52,9 +52,8 @@ This project is open to collaborative insights and suggestions. If you're intere
 
 This theory can be used to derive fundamentals such as:
 
-- Derive $F = ma$ [See Derivation](https://t2m.io/qifOSa0)
-
-- Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/i1SNwFO)
+- Derive $F = ma$ [See Derivation](https://t2m.io/i1SNwFO)
+- Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/qifOSa0)
 
 ## Misc Musings
 
@@ -97,7 +96,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-time-is-derived.md](https://t2m.io/u0WvK1q)
 <br>
 [README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
-<br>
 <!--
 [README-derive-f.md](https://t2m.io/qifOSa0)
 <br>
