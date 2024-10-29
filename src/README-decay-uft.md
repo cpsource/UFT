@@ -1,6 +1,3 @@
-[Home](https://t2m.io/VwvDcuw)
----
-
 # Unified Field Theory and Radioactive Decay
 
 In the context of **Unified Field Theory (UFT)**, radioactive decay can be viewed as a consequence of the underlying field dynamics. According to UFT, every entity emits a field outward at the speed of light, **c**, which interacts with the entity’s internal structure and contributes to both stability and instability in atomic nuclei.
