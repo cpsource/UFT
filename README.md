@@ -103,6 +103,10 @@ Black holes do radiate heat. More detain here: [README-black-hole-heat.md](https
 
 **UFT** discusses black holes. More detains here: [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 
+### Relativism
+
+**UFT** redefines thinking about relativism. More details here: [README-relativism.md](https://t2m.io/bcX9wFa)
+
 ### Derive $c$ Without Time
 
 More details here: [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
@@ -124,8 +128,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-more-on-time.md](https://t2m.io/rcuMkk8)
 <br>
-[README-relativism.md](https://t2m.io/bcX9wFa)
-<br>
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
 <br>
 [README-time-is-relative.md](https://t2m.io/QK1xNy9)
@@ -139,6 +141,7 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
 <!--
+[README-relativism.md](https://t2m.io/bcX9wFa)
 [README-decay.md](https://t2m.io/2oUoGUf)
 [README-decay-uft.md](https://t2m.io/ZMTFqh9)
 [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
