@@ -58,7 +58,12 @@ In classical thinking, inertia is defined as the resistance of a mass (a propert
 Using **UFT** though, we define intertia as the interaction between a current radiated field, and the next
 one generated as the object moves. More detail here: [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
 <br>
+<br>
 See also: [README-more-thinking.md](https://t2m.io/aLAOv3s)
+
+### Mass
+
+**UFT** defines mass. More detail here: [README-define-mass.md](https://t2m.io/e9RAVQW)
 
 ### Atomic Cohesion
 
@@ -67,6 +72,10 @@ See also: [README-more-thinking.md](https://t2m.io/aLAOv3s)
 ### Electrostatic and Magnetic Forces
 
 **UFT** explains electrostatic and magnetic forces. More detail here: [README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
+
+### Warping SpaceTime
+
+**UFT** Speaks to the warpingof SpaceTime. More details here: [README-space-time.md](https://t2m.io/zjVrZAT)
 
 ### Dark Matter
 
@@ -88,6 +97,10 @@ Black holes do radiate heat. More detain here: [README-black-hole-heat.md](https
 
 **UFT** discusses black holes. More detains here: [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 
+### Derive $c$ Without Time
+
+More details here: [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
+
 ## Derivations
 
 **UFT** derives fundamentals such as:
@@ -107,17 +120,11 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-relativism.md](https://t2m.io/bcX9wFa)
 <br>
-[README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
-<br>
 [README-decay.md](https://t2m.io/2oUoGUf)
 <br>
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
 <br>
-[README-space-time.md](https://t2m.io/zjVrZAT)
-<br>
 [README-time-is-relative.md](https://t2m.io/QK1xNy9)
-<br>
-[README-define-mass.md](https://t2m.io/e9RAVQW)
 <br>
 [README-time-is-derived.md](https://t2m.io/u0WvK1q)
 <br>
@@ -128,6 +135,9 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
 <!--
+[README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
+[README-space-time.md](https://t2m.io/zjVrZAT)
+[README-define-mass.md](https://t2m.io/e9RAVQW)
 [README-more-thinking.md](https://t2m.io/aLAOv3s)
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
