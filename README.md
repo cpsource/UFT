@@ -107,6 +107,27 @@ Black holes do radiate heat. More detain here: [README-black-hole-heat.md](https
 
 **UFT** redefines thinking about relativism. More details here: [README-relativism.md](https://t2m.io/bcX9wFa)
 
+### Time
+
+**UFT** does not operate in the time dimension as time is considered a derived quantity.
+
+(To Be Organized)
+
+<br>
+[README-more-on-time.md](https://t2m.io/rcuMkk8)
+<br>
+[README-time-quanta.md](https://t2m.io/9qGjEnX)
+<br>
+[README-time-is-relative.md](https://t2m.io/QK1xNy9)
+<br>
+[README-time-is-derived.md](https://t2m.io/u0WvK1q)
+<br>
+[README-computing-stages.md](https://t2m.io/5zQ9i76)
+<br>
+[README-analog-computing.md](https://t2m.io/aftdKzA)
+<br>
+[README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
+
 ### Derive $c$ Without Time
 
 More details here: [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
@@ -124,23 +145,8 @@ What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
 What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 
-## Concepts in no particular order (TODO - Organize!)
-<br>
-[README-more-on-time.md](https://t2m.io/rcuMkk8)
-<br>
-[README-time-quanta.md](https://t2m.io/9qGjEnX)
-<br>
-[README-time-is-relative.md](https://t2m.io/QK1xNy9)
-<br>
-[README-time-is-derived.md](https://t2m.io/u0WvK1q)
-<br>
-[README-computing-stages.md](https://t2m.io/5zQ9i76)
-<br>
-[README-analog-computing.md](https://t2m.io/aftdKzA)
-<br>
-[README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
-
 <!--
+## Concepts in no particular order (TODO - Organize!)
 [README-relativism.md](https://t2m.io/bcX9wFa)
 [README-decay.md](https://t2m.io/2oUoGUf)
 [README-decay-uft.md](https://t2m.io/ZMTFqh9)
@@ -171,10 +177,6 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 ## About
 
 [About](https://t2m.io/KTAZ44M)
-
-## Note
-
-Order of presentation is a work in progress.
 
 ---
 
