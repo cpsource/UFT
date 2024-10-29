@@ -52,9 +52,9 @@ This project is open to collaborative insights and suggestions. If you're intere
 
 This theory can be used to derive fundamentals such as:
 
-- Derive $F = ma$ [Derivation](https://t2m.io/qifOSa0)
+- Derive $F = ma$ [See Derivation](https://t2m.io/qifOSa0)
 
-- Derive $F = \frac{G m_1 m_2}{r^2}$ [Derivaton](https://t2m.io/i1SNwFO)
+- Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/i1SNwFO)
 
 ## Misc Musings
 
@@ -98,8 +98,12 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
 <br>
+<!--
 [README-derive-f.md](https://t2m.io/qifOSa0)
 <br>
+[README-derive-fema.md](https://t2m.io/i1SNwFO)
+<br>
+-->
 [README-computing-stages.md](https://t2m.io/5zQ9i76)
 <br>
 [README-analog-computing.md](https://t2m.io/aftdKzA)
@@ -109,8 +113,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-spooky-action.md](https://t2m.io/neagq7w)
 <br>
 [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
-<br>
-[README-derive-fema.md](https://t2m.io/i1SNwFO)
 <br>
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 <br>
