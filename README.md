@@ -45,11 +45,8 @@ To dive into this project:
 
 This project is open to collaborative insights and suggestions. If you're interested in contributing to the Unified Field Theory development, please open a pull request or reach out with feedback!
 
-## Discussions & Issues
-
-To discuss UFT, see [Discussions](https://github.com/cpsource/UFT/discussions)
-<br>
-For any issues relating to this repository, see [Issues](https://github.com/cpsource/UFT/issues)
+- **To Discuss**        see [Discussions](https://github.com/cpsource/UFT/discussions)
+- **Repository Issues** see [Issues](https://github.com/cpsource/UFT/issues)
 
 ## Misc Musings
 
