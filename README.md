@@ -56,53 +56,53 @@ In classical thinking, inertia is defined as the resistance of a mass (a propert
 Using **UFT** though, we define intertia as the interaction between a current radiated field, and the next
 one generated as the object moves. More detail here: [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
 
+### Atomic Cohesion
+
+**UFT** explains atomic cohesion. More detail here: [README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
+
+### Electrostatic and Magnetic Forces
+
+**UFT** explains electrostatic and magnetic forces. More detail here: [README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
+
 ### Dark Matter
 
 **UFT** sees dark matter as bits trying to become stable, but they mostly fail. More detail here: [README-dark-matter.md](https://t2m.io/dqht6sN)
 
+### Quantum Entanglement
+
+**UFT** explains quantum entanglement. More detail here: [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU) and here: [README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
+
+### Bose–Einstein Condensate
+
+**UFT** explains Bose-Einstein condensate. More detail here: [README-zero-k.md](https://t2m.io/JQCJn6p)
+
 ## Derivations
 
-**UFT** can be used to derive fundamentals such as:
+**UFT** derives fundamentals such as:
 
 - Derive $F = m \cdot a$ [See Derivation](https://t2m.io/i1SNwFO)
 - Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/qifOSa0)
 
-## Misc Musings and work in progress.
+## Miscellaneous Musings and work in progress.
 
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
 What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 
 ## Concepts in no particular order (TODO - Organize!)
-
-[README-more-on-time.md](https://t2m.io/rcuMkk8)
 <br>
-[README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
+[README-more-on-time.md](https://t2m.io/rcuMkk8)
 <br>
 [README-more-thinking.md](https://t2m.io/aLAOv3s)
 <br>
 [README-relativism.md](https://t2m.io/bcX9wFa)
 <br>
 [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
-
-<!--
-<br>
-[README-dark-matter.md](https://t2m.io/dqht6sN)
--->
-
-<br>
-[README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
 <br>
 [README-decay.md](https://t2m.io/2oUoGUf)
 <br>
 
-<!--
-[README-define-inertia.md](https://t2m.io/RWx6nNj)
-<br>
--->
 
-[README-zero-k.md](https://t2m.io/JQCJn6p)
-<br>
 [README-black-hole-heat.md](https://t2m.io/K3ybx2d)
 <br>
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
@@ -115,15 +115,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-time-is-derived.md](https://t2m.io/u0WvK1q)
 <br>
-[README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
-
-<!--
-[README-derive-f.md](https://t2m.io/qifOSa0)
-<br>
-[README-derive-fema.md](https://t2m.io/i1SNwFO)
-<br>
--->
-
 [README-computing-stages.md](https://t2m.io/5zQ9i76)
 <br>
 [README-analog-computing.md](https://t2m.io/aftdKzA)
@@ -131,18 +122,23 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-more-on-black-holes.md](https://t2m.io/UL2rHD5)
 <br>
 [README-spooky-action.md](https://t2m.io/neagq7w)
-
-<!--
-<br>
-[README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
--->
-
 <br>
 [README-properties-of-free-space.md](https://t2m.io/pw6z7c7)
 <br>
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
-<br>
+
+<!-- Integrated Ideas
+[README-zero-k.md](https://t2m.io/JQCJn6p)
 [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU)
+[README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
+[README-dark-matter.md](https://t2m.io/dqht6sN)
+[README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
+[README-define-inertia.md](https://t2m.io/RWx6nNj)
+[README-snow-plow-analogy.md](https://t2m.io/2t0iUHY)
+[README-derive-f.md](https://t2m.io/qifOSa0)
+[README-derive-fema.md](https://t2m.io/i1SNwFO)
+[README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
+-->
 
 ## License
 
