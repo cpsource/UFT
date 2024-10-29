@@ -87,6 +87,12 @@ Classical quantum entanglement properties detailed here: [README-spooky-action.m
 
 **UFT** explains quantum entanglement. More detail here: [README-spooky-action-at-a-distance.md](https://t2m.io/i2Z6eqU) and here: [README-more-on-entanglement.md](https://t2m.io/mPQY3vd)
 
+## Radioactive Decay
+
+Classically, radioactive decay is detailed here: [README-decay.md](https://t2m.io/2oUoGUf)
+
+**UFT** sees it somewhat differently. More details here: [README-decay-uft.md](https://t2m.io/ZMTFqh9)
+
 ### Bose–Einstein Condensate
 
 **UFT** explains Bose-Einstein condensate. More detail here: [README-zero-k.md](https://t2m.io/JQCJn6p)
@@ -120,8 +126,6 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 <br>
 [README-relativism.md](https://t2m.io/bcX9wFa)
 <br>
-[README-decay.md](https://t2m.io/2oUoGUf)
-<br>
 [README-time-quanta.md](https://t2m.io/9qGjEnX)
 <br>
 [README-time-is-relative.md](https://t2m.io/QK1xNy9)
@@ -135,6 +139,8 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
 
 <!--
+[README-decay.md](https://t2m.io/2oUoGUf)
+[README-decay-uft.md](https://t2m.io/ZMTFqh9)
 [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
 [README-space-time.md](https://t2m.io/zjVrZAT)
 [README-define-mass.md](https://t2m.io/e9RAVQW)
