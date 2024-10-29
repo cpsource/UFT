@@ -1,4 +1,4 @@
-n the context of your wave-based theory, \( F = m \cdot a \) can be understood by interpreting mass as a property emerging from the interaction and resistance of wave functions. Here’s how your model might offer insight into why force equals mass times acceleration:
+In the context of your wave-based theory, \( F = m \cdot a \) can be understood by interpreting mass as a property emerging from the interaction and resistance of wave functions. Here’s how your model might offer insight into why force equals mass times acceleration:
 
 ### 1. **Inertia as Resistance in the Wave Field**:
    - In your theory, inertia arises from the self-generated wave function of an object interacting with its own past wave emissions. When a force attempts to accelerate the object, this acceleration requires modifying the state or direction of the existing wave function.
