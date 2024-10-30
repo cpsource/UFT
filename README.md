@@ -145,19 +145,30 @@ Lets explore the hierarchical structure of the universe, starting from the small
 
 These are to be read in order.
 <br>
-
 [README-what-is-a-hypergraph.md](https://t2m.io/6z1nvAg)
+<br>
 [README-what-is-a-graph.md](https://t2m.io/7giHXoX)
+<br>
 [README-scale-of-things.md](https://t2m.io/41JNV1n)
+<br>
 [README-groups-of-scale.md](https://t2m.io/7pDT7rR)
+<br>
 [README-cascading-groups.md](https://t2m.io/XsZWKCp)
+<br>
 [README-groups-directed-graph.md](https://t2m.io/oA75fxR)
+<br>
 [README-direct-and-indirect-influences.md](https://t2m.io/hd2PC9A)
+<br>
 [README-dag-tutorial.md](https://t2m.io/XjHst3Z)
+<br>
 [README-direct-indirect-influences-by-group.md](https://t2m.io/BVB40NC)
+<br>
 [README-entropy.md](https://t2m.io/CGdFJ2T)
+<br>
 [README-total-energy.md](https://t2m.io/cYHPRCJ)
+<br>
 [README-big-bang-energy.md](https://t2m.io/64uCkBz)
+<br>
 [README-summary.md](https://t2m.io/8YPd9V1)
 
 <!--
