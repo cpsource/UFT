@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rotating Pendulum with Slower Phase Vector</title>
+  <title>Rotating Pendulum with Phase Vector</title>
   <style>
     body {
       display: flex;
@@ -77,8 +77,8 @@
       // Angle for back-and-forth swing
       const angle = Math.sin(normalizedTime) * Math.PI / 6;
       
-      // Phase angle for the vector (half the speed of normalized time)
-      const phaseAngle = normalizedTime / 2;
+      // Phase angle for the vector
+      const phaseAngle = normalizedTime;
       
       // Check for completing a full swing (back and forth), update rotation every half period
       if (time < 50 && normalizedTime > Math.PI) {
