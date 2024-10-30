@@ -55,3 +55,7 @@ In this case:
 - A directed edge from City A to City B would indicate a one-way road from City A to City B.
   
 In summary, graphs are powerful structures that let us represent complex networks of relationships through simple concepts: nodes (entities) and edges (relationships).
+
+---
+
+[Next](https://t2m.io/41JNV1n)

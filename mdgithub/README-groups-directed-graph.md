@@ -75,3 +75,6 @@ This graph structure highlights the layered, hierarchical nature of the scales, 
 
 By visualizing it as a directed graph, we reveal the structured dependency and interrelation between the scales, making it clear that our understanding of the universe flows naturally from the smallest quantum scale up to the largest cosmic structures.
 
+---
+
+[Next](https://t2m.io/hd2PC9A)
