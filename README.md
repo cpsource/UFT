@@ -91,9 +91,10 @@ See also: [README-more-thinking.md](https://t2m.io/aLAOv3s)
 (Another curious side note: If you project a circular field onto a grid, you get something resembling a magnetic field. Consider
 these two images:
 
+<div style="display: flex; justify-content: center;">
   <img src="http://unifyinggravity.com/earthmas.gif" width="200" alt="Earth Magnetism">
-
   <img src="https://unifyinggravity.com/magnetism.jpeg" width="200" alt="Magnetic Interfearance">
+</div>
 
 ### Warping Space-Time
 
