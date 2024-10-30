@@ -49,7 +49,9 @@ Fundamentally, this **Unified Field Theory (UFT)** proposes that every entity ra
 
 Graphically, and simply, you can visualize this.
 
-<img src="http://unifyinggravity.com/theunatom.jpeg" width="200" alt="The Unatom Image">
+<div align="center">
+  <img src="https://unifyinggravity.com/theunatom.jpeg" width="200" alt="The Unatom Image">
+</div>
 
 In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of **UFT**.
 
