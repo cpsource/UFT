@@ -53,6 +53,12 @@ Graphically, and simply, you can visualize this.
   <img src="https://unifyinggravity.com/theunatom.jpeg" width="200" alt="The Unatom Image">
 </div>
 
+Two atoms would interact with their projected fields. This can be visulized.
+
+<div align="center">
+  <img src="https://unifyinggravity.com/twounatoms.jpeg" width="200" alt="The Unatom Image">
+</div>
+
 In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of **UFT**.
 
 To dive into this project, step into each section in turn, as the following concepts will build on the preceding ones.
