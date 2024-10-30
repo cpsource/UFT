@@ -53,6 +53,9 @@ Graphically, and simply, you can visualize this.
   <img src="https://unifyinggravity.com/theunatom.jpeg" width="200" alt="The Unatom Image">
 </div>
 
+(An interesting side note: depending on your monitor, you will see four interfearance patterns radiating outward at the four corners of the compass. It
+has to do with the concentric circles being projected onto your monitors grid of pixels.)
+
 Two atoms would interact with their projected fields. This can be visualized.
 
 <div align="center">
@@ -84,6 +87,13 @@ See also: [README-more-thinking.md](https://t2m.io/aLAOv3s)
 ### Electrostatic and Magnetic Forces
 
 **UFT** explains electrostatic and magnetic forces. More detail here: [README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
+
+(Another curious side note: If you project a circular field onto a grid, you get something resembling a magnetic field. Consider
+these two images:
+
+  <img src="http://unifyinggravity.com/earthmas.gif" width="200" alt="Earth Magnetism">
+
+  <img src="https://unifyinggravity.com/magnetism.jpeg" width="200" alt="Magnetic Interfearance">
 
 ### Warping Space-Time
 
