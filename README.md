@@ -259,4 +259,4 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 
 [View interactive demo](https://cpsource.github.io/UFT/index.html)
 <br>
-[View pendulum demo](https://cpsource.github.io/UFT/pendulum1.html)
+[View pendulum demo](https://cpsource.github.io/UFT/pendulum3.html)
