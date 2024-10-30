@@ -111,7 +111,7 @@ Black holes do radiate heat. More detain here: [README-black-hole-heat.md](https
 
 **UFT** does not operate in the time dimension as time is considered a derived quantity.
 
-Traditional theories have not settled on whether time moves in steps or transistions smoothly. More details here: [Home](https://t2m.io/VwvDcuw)
+Traditional theories have not settled on whether time moves in steps or transistions smoothly. More details here: [README-time-quanta.md](https://t2m.io/9qGjEnX)
 
 How can we remove time from our considerations?
 
