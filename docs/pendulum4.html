@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pendulum with Slow Vector</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    canvas {
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="pendulumCanvas" width="400" height="400"></canvas>
+
+  <script>
+    const canvas = document.getElementById("pendulumCanvas");
+    const ctx = canvas.getContext("2d");
+
+    const originX = canvas.width / 2;
+    const originY = 50;
+    const pendulumLength = 150;
+    const bobRadius = 20;
+    const pendulumPeriod = 5000; // Pendulum period in milliseconds (5 seconds)
+    const vectorPeriod = 10000; // Vector period in milliseconds (10 seconds)
+
+    function drawPendulum(angle, vectorAngle) {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      // Calculate pendulum bob position
+      const bobX = originX + pendulumLength * Math.sin(angle);
+      const bobY = originY + pendulumLength * Math.cos(angle);
+
+      // Draw pendulum arm
+      ctx.beginPath();
+      ctx.moveTo(originX, originY);
+      ctx.lineTo(bobX, bobY);
+      ctx.strokeStyle = "#333";
+      ctx.lineWidth = 2;
+      ctx.stroke();
+
+      // Draw pendulum bob
+      ctx.beginPath();
+      ctx.arc(bobX, bobY, bobRadius, 0, Math.PI * 2);
+      ctx.fillStyle = "#007bff";
+      ctx.fill();
+      ctx.strokeStyle = "#333";
+      ctx.stroke();
+
+      // Draw rotating vector from the center of the pendulum bob
+      const vectorLength = 50;
+      const vectorX = bobX + vectorLength * Math.cos(vectorAngle);
+      const vectorY = bobY + vectorLength * Math.sin(vectorAngle);
+      ctx.beginPath();
+      ctx.moveTo(bobX, bobY);
+      ctx.lineTo(vectorX, vectorY);
+      ctx.strokeStyle = "red";
+      ctx.lineWidth = 2;
+      ctx.stroke();
+    }
+
+    function animatePendulum() {
+      const pendulumTime = Date.now() % pendulumPeriod;
+      const vectorTime = Date.now() % vectorPeriod;
+
+      // Calculate angles for pendulum swing and rotating vector
+      const pendulumAngle = Math.sin((pendulumTime / pendulumPeriod) * 2 * Math.PI) * Math.PI / 6;
+      const vectorAngle = (vectorTime / vectorPeriod) * 2 * Math.PI;
+
+      drawPendulum(pendulumAngle, vectorAngle);
+      requestAnimationFrame(animatePendulum);
+    }
+
+    animatePendulum();
+  </script>
+</body>
+</html>
+
