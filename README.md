@@ -53,7 +53,7 @@ Graphically, and simply, you can visualize this.
   <img src="https://unifyinggravity.com/theunatom.jpeg" width="200" alt="The Unatom Image">
 </div>
 
-Two atoms would interact with their projected fields. This can be visulized.
+Two atoms would interact with their projected fields. This can be visualized.
 
 <div align="center">
   <img src="https://unifyinggravity.com/twounatoms.jpeg" width="200" alt="The Unatom Image">
