@@ -116,3 +116,6 @@ The total energy in each group increases with the scale, as each level incorpora
 2. **Dominant Energy Types**: Lower scales are dominated by rest energy and molecular interactions, while higher scales are dominated by mass-energy of celestial bodies, gravitational energy, and dark energy.
 3. **Unified Scale in eV**: Using electron volts highlights the exponential increase in energy as we move from fundamental particles to the entire universe, emphasizing the vast energy hierarchy across scales.
 
+---
+
+[Next](https://t2m.io/64uCkBz)

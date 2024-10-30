@@ -77,3 +77,6 @@ Using directed edges in graph theory, we can effectively model systems where ent
   
 This model not only captures the **strength** and **immediacy** of relationships but also provides a framework for understanding how influences propagate across scales, from the molecular to the ecological level.
 
+---
+
+[Next](https://t2m.io/XjHst3Z)

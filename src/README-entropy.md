@@ -58,3 +58,6 @@ In the context of the scales we've discussed, **entropy does indeed "flow"** in 
 
 Thus, entropy can be seen as a **fundamental flow** that progresses across scales, shaping the universe’s structure from the smallest particles to the largest cosmic formations, ultimately guiding the evolution toward a state of maximum disorder.
 
+---
+
+[Next](https://t2m.io/cYHPRCJ)

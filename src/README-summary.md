@@ -22,3 +22,6 @@ Certainly! Here’s a summary table that organizes each discussion point from ou
 | **Total energy in each group using physics definition** | Energy in each scale, measured in eV for consistency, increases across scales from fundamental particles to cosmic structures. Total energy builds as systems aggregate into larger structures. | - Quantum energy ~MeV-GeV<br>- Molecular energy ~keV-Gev<br>- Human scale ~10²¹ eV<br>- Earth ~10⁴¹ eV, Sun ~10⁴⁷ eV, Galaxy ~10⁵⁷ eV, Universe ~10⁶⁹ eV |
 | **Comparing Big Bang energy with observable universe’s energy** | The estimated total energy in the observable universe today (~\(10^{70}\) eV) likely aligns with the initial energy of the Big Bang, considering mass-energy and dark energy contributions. | - Energy estimates for visible matter, dark matter, and dark energy<br>- Current universe’s total energy aligns with Big Bang estimates
 
+---
+
+[Home](https://t2m.io/VwvDcuw)

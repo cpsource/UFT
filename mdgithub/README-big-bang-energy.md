@@ -33,3 +33,6 @@ One complexity is that the **Big Bang likely began as pure energy**, without dis
 
 However, the **total energy density** observed across the universe today, which includes visible matter, dark matter, and dark energy, should theoretically be equivalent to the energy of the Big Bang — just vastly more dispersed due to cosmic expansion. Thus, the estimated energy of **$1.3 \times 10^{70}$ eV** aligns well with current models of the Big Bang’s total energy content.
 
+---
+
+[Next](https://t2m.io/8YPd9V1)

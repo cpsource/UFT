@@ -34,3 +34,6 @@ Each scale has specific **direct influences** that actively impact the next scal
 
 By framing each scale with both direct and indirect influences, we see how each scale sets up the foundational conditions necessary for the next, either by providing structural stability, energetic inputs, or environmental conditions that support complex interactions at larger scales. This layered approach clarifies how the universe's hierarchical structure emerges through interconnected scientific principles across scales.
 
+---
+
+[Next](https://t2m.io/CGdFJ2T)
