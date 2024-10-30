@@ -47,6 +47,10 @@ Current theories discuss free space. More detail here: [README-properties-of-fre
 
 Fundamentally, this **Unified Field Theory (UFT)** proposes that every entity radiates a field outward at the speed of light, **c**. This framework will use the concept of this outward-radiating field to derive various effects that, today, are considered fundamental properties of matter.
 
+Graphically, and simply, you can visualize this.
+
+<img src="http://unifyinggravity.com/theunatom.jpeg" width="400" alt="The Unatom Image">
+
 In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of **UFT**.
 
 To dive into this project, step into each section in turn, as the following concepts will build on the preceding ones.
