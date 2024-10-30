@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pendulum with Angle Graph</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+    #pendulum {
+      width: 2px;
+      height: 200px;
+      background-color: black;
+      position: absolute;
+      top: 30%;
+      left: 50%;
+      transform-origin: 50% 0;
+      animation: swing 2s infinite alternate ease-in-out;
+    }
+    canvas {
+      margin-top: 50px;
+      border: 1px solid #ccc;
+    }
+    @keyframes swing {
+      from { transform: rotate(-20deg); }
+      to { transform: rotate(20deg); }
+    }
+  </style>
+</head>
+<body>
+  <div id="pendulum"></div>
+  <canvas id="graphCanvas" width="400" height="150"></canvas>
+
+  <script>
+    const graphCanvas = document.getElementById("graphCanvas");
+    const graphCtx = graphCanvas.getContext("2d");
+
+    const maxDataPoints = graphCanvas.width;
+    const graphData = [];
+    let angle = 0;
+
+    // Function to map animation time to angle
+    function updateAngle() {
+      // Calculate the angle based on elapsed time within the 2s swing period
+      const time = Date.now() % 2000; // 2-second animation cycle
+      angle = (time / 2000) * 40 - 20; // Maps to -20 to 20 degrees
+      graphData.push(angle);
+
+      // Limit data points to match the graph canvas width
+      if (graphData.length > maxDataPoints) {
+        graphData.shift();
+      }
+    }
+
+    function drawGraph() {
+      graphCtx.clearRect(0, 0, graphCanvas.width, graphCanvas.height);
+
+      // Plot angle over time as a line graph
+      graphCtx.beginPath();
+      graphCtx.strokeStyle = "blue";
+      for (let i = 1; i < graphData.length; i++) {
+        const x1 = i - 1;
+        const y1 = graphCanvas.height / 2 - graphData[i - 1];
+        const x2 = i;
+        const y2 = graphCanvas.height / 2 - graphData[i];
+        graphCtx.moveTo(x1, y1);
+        graphCtx.lineTo(x2, y2);
+      }
+      graphCtx.stroke();
+    }
+
+    function animate() {
+      updateAngle();
+      drawGraph();
+      requestAnimationFrame(animate);
+    }
+
+    animate();
+  </script>
+</body>
+</html>
+
