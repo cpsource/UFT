@@ -111,22 +111,36 @@ Black holes do radiate heat. More detain here: [README-black-hole-heat.md](https
 
 **UFT** does not operate in the time dimension as time is considered a derived quantity.
 
-(To Be Organized)
+Traditional theories have not settled on whether time moves in steps or transistions smoothly. More details here: [Home](https://t2m.io/VwvDcuw)
 
-<br>
-[README-more-on-time.md](https://t2m.io/rcuMkk8)
-<br>
-[README-time-quanta.md](https://t2m.io/9qGjEnX)
-<br>
-[README-time-is-relative.md](https://t2m.io/QK1xNy9)
-<br>
-[README-time-is-derived.md](https://t2m.io/u0WvK1q)
-<br>
-[README-computing-stages.md](https://t2m.io/5zQ9i76)
-<br>
-[README-analog-computing.md](https://t2m.io/aftdKzA)
-<br>
-[README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
+How can we remove time from our considerations?
+
+It's done all the time. In electrical engineering, we can move from the time domain to the frequency domain
+using forier analysis.
+
+Computing offers another example.
+
+A digital computer lays out a problem in a series of time steps. More details here: [README-computing-stages.md](https://t2m.io/5zQ9i76)
+
+However, we can remove time from the solution by considering an analog computer. More details here: [README-analog-computing.md](https://t2m.io/aftdKzA)
+
+More details on this point are here: [README-more-on-time.md](https://t2m.io/rcuMkk8)
+
+Time must be a relative quantity. When I look at the 'time' it took, we are comparing our 'time' with the 'time' of the observation. More details here: [README-time-is-relative.md](https://t2m.io/QK1xNy9)
+
+Time must therefore be relative. More details here: [README-time-is-derived.md](https://t2m.io/u0WvK1q)
+
+Finally, how does **UFT** relate? More details here: [README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
+
+<!--
+#[README-more-on-time.md](https://t2m.io/rcuMkk8)
+#[README-time-quanta.md](https://t2m.io/9qGjEnX)
+#[README-time-is-relative.md](https://t2m.io/QK1xNy9)
+#[README-time-is-derived.md](https://t2m.io/u0WvK1q)
+#[README-computing-stages.md](https://t2m.io/5zQ9i76)
+#[README-analog-computing.md](https://t2m.io/aftdKzA)
+#[README-time-and-my-theory.md](https://t2m.io/xMfBBn1)
+-->
 
 ### Derive $c$ Without Time
 
