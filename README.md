@@ -139,6 +139,31 @@ More details here: [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
 - Derive $F = m \cdot a$ [See Derivation](https://t2m.io/i1SNwFO)
 - Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/qifOSa0)
 
+## Exploration
+
+Lets explore the hierarchical structure of the universe, starting from the smallest quantum scales and building up through molecular, biological, geological, planetary, and cosmic levels. Each scale operates with unique principles but relies on the foundational rules of previous levels, creating an interdependent system where phenomena like entropy and energy flow across scales. We used graph theory, specifically directed acyclic graphs (DAGs), to illustrate direct and indirect influences between these groups, highlighting how simpler structures give rise to complexity. We examined entropy’s role in increasing disorder and energy’s cumulative presence from atomic particles to galaxies, estimating that the observable universe’s energy—largely originating from the Big Bang—matches predictions based on mass-energy and dark energy distributions today. This layered approach reveals the interconnected nature of physical laws across the scales of existence.
+
+These are to be read in order.
+<br>
+
+[README-what-is-a-hypergraph.md](https://t2m.io/6z1nvAg)
+[README-what-is-a-graph.md](https://t2m.io/7giHXoX)
+[README-scale-of-things.md](https://t2m.io/41JNV1n)
+[README-groups-of-scale.md](https://t2m.io/7pDT7rR)
+[README-cascading-groups.md](https://t2m.io/XsZWKCp)
+[README-groups-directed-graph.md](https://t2m.io/oA75fxR)
+[README-direct-and-indirect-influences.md](https://t2m.io/hd2PC9A)
+[README-dag-tutorial.md](https://t2m.io/XjHst3Z)
+[README-direct-indirect-influences-by-group.md](https://t2m.io/BVB40NC)
+[README-entropy.md](https://t2m.io/CGdFJ2T)
+[README-total-energy.md](https://t2m.io/cYHPRCJ)
+[README-big-bang-energy.md](https://t2m.io/64uCkBz)
+[README-summary.md](https://t2m.io/8YPd9V1)
+
+<!--
+[README-summarize.md](https://t2m.io/Q0tp15y)
+-->
+
 ## Miscellaneous Musings and work in progress.
 
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
