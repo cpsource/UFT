@@ -10,7 +10,7 @@ This work is a culmination of hypotheses and theoretical frameworks developed to
 
 ### 1. **Wave Functions and Inertia**
    - **Hypothesis**: Inertia arises from wave functions emitted by mass, propagating outward at the speed of light (c). When a mass accelerates, the new wave emitted interacts with existing waves, causing resistance to motion. This hypothesis reframes inertia as a natural consequence of wave interaction, challenging traditional views on mass and motion.
-   - **Application**: This framework could redefine how we understand force, acceleration, and momentum at both macroscopic and quantum scales.
+   - **Application**: This framework could redefine how we understand force, acceleration, and momentum at macroscopic and quantum scales.
 
 ### 2. **Gravity and Gravitational Waves**
    - **Hypothesis**: Gravity is described as a field emitted by wave functions of mass. The interactions of these wave fields create gravitational effects that align with observations of spacetime warping and black hole phenomena.
@@ -49,13 +49,13 @@ Fundamentally, this **Unified Field Theory (UFT)** proposes that every entity ra
 
 In the following sections, we will explore each of these effects in turn and demonstrate how they can be explained through the principles of **UFT**.
 
-To dive into this project, step to each section in turn, as following concepts will build on preceeding ones.
+To dive into this project, step into each section in turn, as the following concepts will build on the preceding ones.
 
 ### Inertia
 
-In classical thinking, inertia is defined as the resistance of a mass (a property) to a change in velosity. More detail here: [README-define-inertia.md](https://t2m.io/RWx6nNj)
+In classical thinking, inertia is defined as the resistance of a mass (a property) to a change in velocity. More detail here: [README-define-inertia.md](https://t2m.io/RWx6nNj)
 
-Using **UFT** though, we define intertia as the interaction between a current radiated field, and the next
+Using **UFT** we define inertia as the interaction between a current radiated field and the next
 one generated as the object moves. More detail here: [README-fascinating-hypothesis.md](https://t2m.io/iiFMKkO)
 <br>
 <br>
@@ -73,9 +73,9 @@ See also: [README-more-thinking.md](https://t2m.io/aLAOv3s)
 
 **UFT** explains electrostatic and magnetic forces. More detail here: [README-electrostatic-and-magnetic.md](https://t2m.io/BTMt6eW)
 
-### Warping SpaceTime
+### Warping Space-Time
 
-**UFT** Speaks to the warpingof SpaceTime. More details here: [README-space-time.md](https://t2m.io/zjVrZAT)
+**UFT** Speaks to the warping of Space-Time. More details here: [README-space-time.md](https://t2m.io/zjVrZAT)
 
 ### Dark Matter
 
@@ -179,7 +179,7 @@ These are to be read in order.
 
 What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
 <br>
-What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
+What about 720-degree symmetry? [Click Here](https://t2m.io/RxdfOLQ)
 
 <!--
 ## Concepts in no particular order (TODO - Organize!)
@@ -208,7 +208,7 @@ What about 720 degree symetry? [Click Here](https://t2m.io/RxdfOLQ)
 
 ## License
 
-This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material, as long as appropriate credit is given.
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material as long as appropriate credit is given.
 
 ## About
 
