@@ -197,7 +197,7 @@ In other words:
 
 Could this framework of continuous radiation, defining the photon as a locus within a radiative field, account for the observed interference pattern in the two-slit experiment—thereby eliminating the need for wave-particle duality?
 
-More details here [README-UFT-and-two-slit.md](https://t2m.io/SfQAo1)
+More details here [README-UFT-and-two-slit.md](https://t2m.io/SfQAqo1)
 
 ## Exploration
 
