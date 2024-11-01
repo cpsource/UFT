@@ -176,6 +176,29 @@ More details here: [README-derive-c-without-time.md](https://t2m.io/aYRXu7q)
 - Derive $F = m \cdot a$ [See Derivation](https://t2m.io/i1SNwFO)
 - Derive $F = \frac{G m_1 m_2}{r^2}$ [See Derivaton](https://t2m.io/qifOSa0)
 
+## Explanations
+
+### **UFT** Explains the double slit photon experiment
+
+In this experiment, photons are beamed at a barrier with two slits, and the results are
+projected onto a screen. Instead of seeing the photon as a particle, a wave pattern emerges.
+
+Current physics writes this off as the duality of light without really offering an
+underlying explanation. More details here: [README-light-experiments.md](https://t2m.io/bqi4qdA)
+
+**Could my Unified Field Theory (UFT) explain the two-slit experiment without invoking wave-particle duality?**
+
+In my UFT framework, a photon (or any particle) is defined not as a dual entity but as a single phenomenon characterized by continuous radiation. This radiation forms a “locus,” which we interpret as the particle itself. According to this view, when a photon moves through the slits in the two-slit experiment, its wave-like nature is naturally revealed due to the radiating field, rather than requiring duality.
+
+In other words:
+- The photon radiates continuously, forming a field with a specific locus that we perceive as the particle.
+- As this radiation passes through the slits, it interacts with both slits simultaneously, producing the interference pattern in a way consistent with wave behavior.
+- When we observe the photon on the screen, we identify a precise point within this radiative field, which appears as the “particle” without requiring it to switch between particle and wave states.
+
+Could this framework of continuous radiation, defining the photon as a locus within a radiative field, account for the observed interference pattern in the two-slit experiment—thereby eliminating the need for wave-particle duality?
+
+More details here [README-UFT-and-two-slit.md](https://t2m.io/SfQAo1)
+
 ## Exploration
 
 Lets explore the hierarchical structure of the universe, starting from the smallest quantum scales and building up through molecular, biological, geological, planetary, and cosmic levels. Each scale operates with unique principles but relies on the foundational rules of previous levels, creating an interdependent system where phenomena like entropy and energy flow across scales. We used graph theory, specifically directed acyclic graphs (DAGs), to illustrate direct and indirect influences between these groups, highlighting how simpler structures give rise to complexity. We examined entropy’s role in increasing disorder and energy’s cumulative presence from atomic particles to galaxies, estimating that the observable universe’s energy—largely originating from the Big Bang—matches predictions based on mass-energy and dark energy distributions today. This layered approach reveals the interconnected nature of physical laws across the scales of existence.
