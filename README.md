@@ -203,6 +203,22 @@ More details here [README-UFT-and-two-slit.md](https://t2m.io/SfQAqo1)
 
 In the context of the Unified Field Theory (UFT), the Michelson-Morley experiment can be reinterpreted by considering that light (or any particle) does not need a medium like the luminiferous aether because each photon, or particle, radiates its own wave field. Here’s how UFT could explain the key findings: [README-Michelson-Morley.md](https://t2m.io/LuZQfMB)
 
+### Reexamine experiments
+
+Unified Field Theory (UFT), offers fresh interpretations for several key experiments in physics.
+These include:
+
+1. **The Double-Slit Experiment**
+2. **The Photoelectric Effect**
+3. **Atomic Emission Spectra**
+4. **Compton Scattering**
+5. **Quantum Tunneling**
+6. **Gravitational Lensing**
+7. **Bell’s Theorem and Quantum Entanglement**
+8. **Time Dilation and Relativistic Effects**
+
+More details here: [README-reexamine-experiments.md](https://t2m.io/Rf6m3yR)
+
 ## Exploration
 
 Lets explore the hierarchical structure of the universe, starting from the smallest quantum scales and building up through molecular, biological, geological, planetary, and cosmic levels. Each scale operates with unique principles but relies on the foundational rules of previous levels, creating an interdependent system where phenomena like entropy and energy flow across scales. We used graph theory, specifically directed acyclic graphs (DAGs), to illustrate direct and indirect influences between these groups, highlighting how simpler structures give rise to complexity. We examined entropy’s role in increasing disorder and energy’s cumulative presence from atomic particles to galaxies, estimating that the observable universe’s energy—largely originating from the Big Bang—matches predictions based on mass-energy and dark energy distributions today. This layered approach reveals the interconnected nature of physical laws across the scales of existence.
