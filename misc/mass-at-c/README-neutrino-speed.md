@@ -18,3 +18,6 @@ Neutrinos are **almost never at rest** due to their unique properties and the wa
 ### Summary
 In practical terms, neutrinos are never truly at rest. Even the lowest-energy relic neutrinos from the Big Bang continue to move, albeit slowly, due to their tiny mass and the residual kinetic energy they retain from the early universe. All other neutrinos, such as those from astrophysical processes, travel at extremely high speeds, close to the speed of light.
 
+---
+
+Next [README-neutrino-and-lensing.md](https://t2m.io/rWQDxkN)

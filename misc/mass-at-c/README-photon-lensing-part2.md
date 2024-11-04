@@ -29,3 +29,6 @@ In essence:
 
 So, while it may feel counterintuitive, there’s no additional internal property within the photon that makes it respond to gravity. Instead, it’s a fundamental consequence of spacetime's curvature acting on anything with energy or momentum, bending its path in accordance with the geometry of the universe.
 
+---
+
+Next [README-uft-photon-neutrino.md](https://t2m.io/2wYdSn0)

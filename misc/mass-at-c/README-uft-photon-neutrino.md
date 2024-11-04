@@ -37,3 +37,6 @@ In the UFT framework:
 
 In this light, UFT might offer a more fundamental understanding of gravity that unifies the behaviors of both massless photons and massive (but light) neutrinos, showing them as oscillatory entities responding to a spacetime medium shaped by energy density rather than mass alone.
 
+---
+
+Next [README-uft-mass-moving-at-c.md](https://t2m.io/433K1NJ)

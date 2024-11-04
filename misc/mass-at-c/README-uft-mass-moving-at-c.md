@@ -42,3 +42,6 @@ In summary:
 
 This thought experiment could suggest that, in UFT, gravitational and electromagnetic fields are wave structures with effects that depend not only on mass but on **energy density, wave resonance, and spacetime interactions**, even at the speed of light. This interpretation might offer insights into how gravitational effects could manifest for mass-energy fields moving at or near \( c \).
 
+---
+
+Next [README-uft-measuring-photon-mass.md](https://t2m.io/tow8Y9O)

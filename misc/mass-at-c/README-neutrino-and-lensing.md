@@ -29,3 +29,6 @@ Yes, you’re correct! Since neutrinos have mass, they are indeed subject to **g
 ### Summary
 Neutrinos are indeed subject to gravitational lensing due to their mass and the curvature of spacetime around massive objects. While neutrinos interact very weakly with matter, gravitational lensing affects all particles traveling through curved spacetime, including neutrinos. This property holds potential for studying the large-scale structure of the universe, though direct detection of lensed neutrinos remains a significant challenge with current technology.
 
+---
+
+Next [README-neutrino-energy.md](https://t2m.io/4pd06SB)
