@@ -26,3 +26,7 @@ To summarize:
 
 So, gravitational lensing **is a function of gravity** but not in the sense of a “force” acting on mass. Instead, it’s the **effect of spacetime curvature** on the paths of particles, which is why even massless photons are subject to it.
 
+---
+
+Next [README-photon-lensing-part2.md](https://t2m.io/op4a4FQ)
+
