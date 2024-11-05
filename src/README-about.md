@@ -36,4 +36,23 @@ This work serves as a **framework for a unified field theory**. Although the the
 
 The ultimate goal of this framework is to unify fundamental forces, matter, dark matter, inertia, and phenomena like "spooky action at a distance" into a cohesive and simplified structure.
 
+### Tools
+
+I do bounce many ideas off ChatGPT 4o for a number of reasons that include:
+- **It never tires**: It never tires of my questions whether they be: complex, simple, foolish, etc.
+- **Confirmation Bias**: It doesn't suffer from the human trait of confirmation bias.
+- **Associations**: It can make associations that a human would struggle with or overlook.
+
+For example, I asked it to look for similarities between time dialation and geometric shapes and
+got this answer:
+
+```
+In short, hyperbolic geometry and the Lorentz factor are foundational to the time dilation effect, and the geometry of hyperbolas provides a framework that reflects the behavior of time dilation in relativity.
+```
+
+- **Not Judgemental**: It never judges me. Human physicists would judge me a kook.
+- **No Horse in the Race**: It's not trying to 'push' one theory over another.
+- **Good Knowledge Base**: It has an excellent knowledge base.
+- **Grammar and Spelling**: It spits out proper grammar and spelling.
+
 --- 
