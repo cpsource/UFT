@@ -221,7 +221,7 @@ More details here: [README-reexamine-experiments.md](https://t2m.io/Rf6m3yR)
 
 ## Can photons travel at *c* yet have mass ?
 
-In this thought experiment, let’s consider **particle** * p_1 *, a particle with very small mass that, despite its mass, still travels at the speed of light *c*. This is an intriguing scenario because, under classical relativity, a particle with mass cannot reach *c*. However, in the framework of **Unified Field Theory (UFT)**, we can imagine it as a special case where *p_1* carries an energy density wave structure, similar to that of a photon but with a small mass component.
+In this thought experiment, let’s consider **particle** *p_1*, a particle with very small mass that, despite its mass, still travels at the speed of light *c*. This is an intriguing scenario because, under classical relativity, a particle with mass cannot reach *c*. However, in the framework of **Unified Field Theory (UFT)**, we can imagine it as a special case where *p_1* carries an energy density wave structure, similar to that of a photon but with a small mass component.
 
 Here's a chain of thinking (to be read in order) that gets **UFT** to this position. (We start out at neutrons but move on to photons.) [README-neutrinos.md](https://t2m.io/LBWfo9z)
 
