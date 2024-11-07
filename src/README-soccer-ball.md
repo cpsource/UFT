@@ -51,3 +51,6 @@ The shapes that cover a traditional **soccer ball** are a combination of **penta
 
 The tile shapes that cover a soccer ball are **20 hexagons** and **12 pentagons**, arranged in the form of a **truncated icosahedron**. This geometric structure is known for its even distribution of faces and near-spherical shape, making it ideal for sports equipment like soccer balls as well as being of interest in mathematical and scientific studies.
 
+---
+
+Next [README-tessellating-a-sphere.md](https://t2m.io/cDOfNOq)

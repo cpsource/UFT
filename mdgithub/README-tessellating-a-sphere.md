@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Tessellating a **sphere** is more complex than tessellating a flat plane due to its curvature. The types of shapes that can tessellate a sphere are limited and are known as **spherical polyhedra**. These shapes can be classified into regular and semi-regular polyhedra, as well as other special tessellations. Here are the main types of shapes and tiling patterns that can tessellate spheres:
 
 ### 1. **Platonic Solids**
@@ -48,13 +51,11 @@ Tessellating a **sphere** is more complex than tessellating a flat plane due to 
 ### Special Considerations
 
 - **Euler’s Polyhedron Formula**: For any convex polyhedron (including spherical tessellations), Euler’s formula applies:
-  \[
-  V - E + F = 2
-  \]
+  $$V - E + F = 2$$
   where:
-  - \( V \) is the number of vertices,
-  - \( E \) is the number of edges,
-  - \( F \) is the number of faces.
+  - $V$ is the number of vertices,
+  - $E$ is the number of edges,
+  - $F$ is the number of faces.
 - **Uniformity and Symmetry**: Some tessellations strive for uniformity and symmetry (e.g., Platonic and Archimedean solids), while others may be irregular or mixed.
 
 ### Summary
@@ -68,3 +69,6 @@ Tessellating a sphere can be achieved using various geometric shapes and structu
 
 These tessellations can be regular, semi-regular, or aperiodic and are used in diverse fields ranging from architecture to chemistry and biology.
 
+---
+
+Next [README-energy-levels.md](https://t2m.io/HQzhZV5)

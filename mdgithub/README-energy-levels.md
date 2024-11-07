@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Viewing these **geometric shapes and tessellations** on a sphere as representing **different energy levels** is a fascinating perspective that connects concepts from geometry, physics, and even quantum mechanics. Here's how we could interpret this idea:
 
 ### 1. **Energy Levels in Physics and Quantum Mechanics**
@@ -52,3 +55,6 @@ Viewing **geometric tessellations** on a sphere as **energy levels** is a compel
 
 This approach provides a visual and geometric way of understanding energy configurations, stability, and the behavior of systems in both **mathematics** and **physics**.
 
+---
+
+Next [README-eulers-poly-energy.md](https://t2m.io/pczdhZi)
