@@ -1,0 +1,35 @@
+Manipulate[
+ Module[{gamma, I0, Iobs},
+  (* Lorentz factor *)
+  gamma = 1/Sqrt[1 - (v/c)^2];
+  
+  (* Intrinsic intensity *)
+  I0 = 1; (* Normalized to 1 for simplicity *)
+  
+  (* Observed intensity formula *)
+  Iobs = I0 * (1 - (v/c) * Cos[theta]) / gamma^3;
+  
+  (* Display the results *)
+  Column[{
+    "Relativistic Beaming Effect",
+    "Lorentz Factor (γ) = " <> ToString[N[gamma]],
+    "Intrinsic Intensity (I₀) = " <> ToString[N[I0]],
+    "Observed Intensity (I(obs)) = " <> ToString[N[Iobs]],
+    Plot3D[
+     I0 * (1 - (v/c) * Cos[phi]) / (1/Sqrt[1 - (v/c)^2])^3, 
+     {phi, 0, Pi}, {v, 0.01, 0.99 c},
+     PlotRange -> All,
+     AxesLabel -> {"θ", "v/c", "I(obs)"},
+     ColorFunction -> "TemperatureMap",
+     MeshFunctions -> {#3 &},
+     MeshStyle -> {{Thick, Blue}}
+    ]
+   }]
+ ],
+ {{v, 0.1, "Velocity v (as a fraction of c)"}, 0.01, 0.99 c, ControlType -> Slider},
+ {{theta, Pi/4, "Angle θ (in radians)"}, 0, Pi, ControlType -> Slider},
+ Initialization :> (
+   c = 1; (* Speed of light placeholder *)
+ )
+]
+
