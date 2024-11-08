@@ -55,7 +55,7 @@ def main():
                         next_item = ordered_items[i + 1]
                         outfile.write(f'{result_dict[next_item]}\n')
                     else:
-                        outfile.write('[Home](https://t2m.io/VwvDcum)\n')
+                        outfile.write('[Home](https://t2m.io/VwvDcuw)\n')
 
                 # Rename the original file to <item>.md-sav and rename the .tmp file to the original name
                 os.rename(item, f"{item}-sav")

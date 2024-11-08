@@ -64,4 +64,4 @@ Lorentz contraction is an essential part of special relativity that shows how le
 
 ---
 
-[Home](https://t2m.io/VwvDcum)
+[Home](https://t2m.io/VwvDcuw)
