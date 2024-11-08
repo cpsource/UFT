@@ -73,6 +73,3 @@ These effects collectively shape the field as a function of acceleration and app
 
 [README-field-wolfram.md](https://t2m.io/sgupXSe)
 
----
-
-[README-field-wolfram.md](https://t2m.io/sgupXSe)

@@ -46,6 +46,3 @@ Let me know if you'd like further modifications or explanations for any part of 
 
 [README-field-wolfram-time.md](https://t2m.io/AeoSZ6D)
 
----
-
-[README-field-wolfram-time.md](https://t2m.io/AeoSZ6D)

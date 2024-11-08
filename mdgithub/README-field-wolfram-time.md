@@ -47,11 +47,6 @@ Manipulate[
 
 Let me know if you would like any additional modifications or further explanations!
 
-
----
-
-[README-field-shape-toward-c.md](https://t2m.io/G9ueVhz)
-
 ---
 
 [README-relativistic-beaming.md](https://t2m.io/5jA0pxd)
