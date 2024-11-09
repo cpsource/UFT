@@ -15,3 +15,7 @@ With this substitution, the formula for the radius \( r \) becomes more complex 
 
 In practical terms, \( \pi \) is generally retained in the formula because it is a real constant, whereas substituting \( e^{i \pi} = -1 \) is mostly used in complex analysis and theoretical contexts where the relationship \( e^{i \pi} + 1 = 0 \) is relevant.
 
+
+---
+
+[README-e-solar-distances.md](https://t2m.io/3SknVKF)

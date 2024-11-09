@@ -24,3 +24,7 @@ For example:
 - Neptune, at \( 30.05 \) AU, has \( \ln(30.05) \approx 3.40 \).
 
 This table shows that distances increase significantly in the outer solar system, as seen in the natural logarithmic scale.
+
+---
+
+[README-ellipse.md](https://t2m.io/CwcvJOe)

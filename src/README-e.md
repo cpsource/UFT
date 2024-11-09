@@ -61,3 +61,7 @@ e \approx 2.71828
 ### Summary
 The number \( e \) is central to mathematics, representing the base of natural growth and decay processes, linking calculus, complex numbers, and many natural phenomena. Its unique properties make it an indispensable constant in fields ranging from pure mathematics to applied sciences.
 
+
+---
+
+[README-e-circle.md](https://t2m.io/dLerkNy)

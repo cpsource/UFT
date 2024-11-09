@@ -33,3 +33,7 @@ To ensure the plot remains hyperbolic:
 
 An oval or elliptical shape for a hyperbola is not correct in a strict mathematical sense. If you observe this shape, it’s likely due to the values of \( c \) and \( a \) being close enough that \( b \) becomes very small or zero, causing the curve to resemble an ellipse. Keeping \( c \) larger than \( a \) should prevent this and maintain the true hyperbolic form.
 
+
+---
+
+[README-oval.md](https://t2m.io/JVKpwiP)

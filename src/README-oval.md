@@ -28,3 +28,7 @@ An **oval** is a general term for any rounded, closed curve resembling the shape
 ### Summary
 An **oval** is a general term for any smooth, closed, rounded shape that resembles an ellipse but may not have a precise mathematical definition or formula. It is often symmetrical and convex but doesn’t necessarily have the focal properties that define an ellipse. In mathematics, terms like "ellipse," "superellipse," or "Cassini oval" refer to specific shapes, while "oval" remains a more informal, descriptive term for an elliptical or egg-like shape.
 
+
+---
+
+[README-parabola.md](https://t2m.io/QxrK00f)

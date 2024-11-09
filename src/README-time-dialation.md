@@ -38,3 +38,7 @@ This results in \( \Delta t' \approx 2.29 \Delta t \), meaning time appears to p
 
 The time dilation formula shows that, as an object approaches the speed of light \( c \), the passage of time for that object (relative to an outside observer) slows down dramatically, approaching zero. This effect is a fundamental prediction of Einstein's theory of special relativity and has been experimentally confirmed through observations such as the decay rates of fast-moving particles and the synchronization of atomic clocks on fast-moving planes or satellites.
 
+
+---
+
+[README-time-dialation-and-geometric-shapes.md](https://t2m.io/sKUZfz5)

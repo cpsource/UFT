@@ -46,3 +46,7 @@ An **ellipse** is a specific type of **conic section** and can be thought of as 
 ### Summary
 An **ellipse** is a smooth, closed curve with two foci, defined by the constant sum of distances from any point on the curve to the two foci. It has a major and minor axis, is symmetric, and has an eccentricity between \( 0 \) and \( 1 \). When the eccentricity is \( 0 \), the ellipse is a circle. Ellipses appear naturally in various physical contexts, including planetary orbits and optics.
 
+
+---
+
+[README-hyperbola.md](https://t2m.io/ZkhfZUo)

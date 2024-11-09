@@ -51,3 +51,7 @@ This would plot the parabolic arc for \( f = 1 \) over the range \( x = -5 \) to
 
 By adjusting \( x \) and \( f \), you can define any point along the parabolic arc.
 
+
+---
+
+[README-parabola-and-circle.md](https://t2m.io/rMgjma7)
