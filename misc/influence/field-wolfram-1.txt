@@ -1,0 +1,27 @@
+Manipulate[
+ Module[{gamma, fieldIntensity, x, y, z, r, mRel},
+  gamma = 1/Sqrt[1 - (v/c)^2]; (* Lorentz factor *)
+  mRel = m1 * gamma; (* Relativistic mass *)
+  fieldIntensity[x_, y_, z_] := (G * mRel)/((x^2 + y^2 + z^2)^(3/2)); (* Field intensity with gamma *)
+  
+  Plot3D[
+   fieldIntensity[x, y, 0], {x, -5, 5}, {y, -5, 5},
+   PlotRange -> {0, G * m1 * 10},
+   ColorFunction -> "TemperatureMap",
+   AxesLabel -> {"x", "y", "Field Intensity"},
+   PlotLabel -> 
+    "Gravitational Field Intensity as a Function of v\n" <>
+    "Relativistic Mass (m_rel) = " <> ToString[N[mRel]] <> 
+    " | v/c = " <> ToString[N[v/c]],
+   MeshFunctions -> {#3 &},
+   MeshStyle -> {{Thick, Red}}
+  ]
+ ],
+ {{v, 0, "Velocity v"}, 0, 0.99 c, ControlType -> Slider},
+ Initialization :> (
+   G = 1; (* Gravitational constant placeholder *)
+   m1 = 1; (* Mass of the object *)
+   c = 1; (* Speed of light placeholder *)
+ )
+]
+
