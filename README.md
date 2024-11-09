@@ -231,6 +231,10 @@ Only certain shapes can completely cover a sphere. **UFT** assigns energy levels
 
 Read the chain starting here for the development of this concept. [README-tessellation.md](https://t2m.io/aBLTXUM)
 
+## A Random Walk Through Complexity
+
+Take a random walk through a chain examining pseudo-science, complexity, Conway's Game of Life, and the three body problem at [README-pseudo-science.md](https://t2m.io/9em340f)
+
 ## A Random Walk Through the Sub-Atomic
 
 Take a random walk (with some neat simulations for Mathematica) through a chain of the sub-atomic at [README-influence-sub-atomic.md](https://t2m.io/49ADkFq)
