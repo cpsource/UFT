@@ -81,3 +81,7 @@ Beta decay involves the transformation of a neutron into a proton or vice versa,
 
 ### Summary
 The variety in decay types reflects the complexity of nuclear stability and the ways in which unstable nuclei can transform to reach more stable configurations. Each decay process is governed by quantum mechanics and the conservation of energy, charge, and other quantum properties.
+
+---
+
+[README-fermions-etc.md](https://t2m.io/4gV5WpY)

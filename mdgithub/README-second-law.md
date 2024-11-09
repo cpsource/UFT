@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The **Second Law of Thermodynamics** states that in an isolated system, the total entropy—often interpreted as the degree of disorder or randomness—will tend to increase over time. This law highlights that energy spontaneously spreads out and disperses if not hindered, resulting in increased entropy. 
 
 ### Key Aspects of the Second Law:
@@ -20,3 +23,7 @@ In a classic example, when you put an ice cube in warm water, the heat flows fro
 
 The Second Law of Thermodynamics is foundational to understanding processes in physics, chemistry, biology, and even cosmology, as it essentially defines the "arrow of time" in the natural progression toward disorder.
 
+
+---
+
+[README-second-law-and-uft.md](https://t2m.io/fKg3Ymx)

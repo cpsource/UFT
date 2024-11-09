@@ -39,3 +39,7 @@ Thank you for catching that. Here is the corrected table with **Cr-45** properly
 - The list remains sorted by increasing half-life, with stable isotopes at the end, and includes columns for protons, neutrons, outer electrons, and atomic weights.
 
 This should now accurately reflect the requested order and details. Thank you for your assistance in refining this list!
+
+---
+
+[README-why-half-lives.md](https://t2m.io/5uSXkfA)

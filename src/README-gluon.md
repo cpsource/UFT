@@ -36,3 +36,7 @@ In quantum chromodynamics, the **strong force** binds quarks into protons, neutr
 ### Summary
 
 In summary, gluons are massless particles that carry the strong nuclear force, binding quarks together into protons, neutrons, and other particles. Their unique properties, including color charge and self-interaction, make gluons central to the structure and stability of matter in the universe.
+
+---
+
+[README-half-lives.md](https://t2m.io/gK3ZPnd)

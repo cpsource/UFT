@@ -47,3 +47,7 @@ The concept of particles and antiparticles is essential to understanding the **s
    - **Particle Colliders**: High-energy colliders produce antiparticles to study their properties and interactions with particles, helping us understand the Standard Model of particle physics.
 
 In summary, particles and antiparticles are paired entities with mirrored properties, providing a framework to explore symmetry, fundamental interactions, and the origin of the universe’s matter-antimatter imbalance.
+
+---
+
+[README-pauli-exclusion-principle.md](https://t2m.io/AQREjQ9)

@@ -42,3 +42,7 @@ The diverse half-lives of isotopes—from fractions of a second to billions of y
 
 ### Summary
 The variety of half-lives among isotopes is due to a combination of nuclear structure factors, energy release in decay, and quantum mechanical effects. Stable isotopes and those with longer half-lives typically exhibit higher binding energies, favorable proton-neutron ratios, magic numbers, and closed nuclear shells. Short-lived isotopes, on the other hand, generally have unstable configurations, high Q-values for decay, and in some cases, must overcome low-probability decay modes, such as forbidden decays.
+
+---
+
+[README-higgs-boson.md](https://t2m.io/vjis5Ne)

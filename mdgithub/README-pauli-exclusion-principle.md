@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The **Pauli Exclusion Principle** is a fundamental principle in quantum mechanics, formulated by physicist Wolfgang Pauli in 1925. It states that **no two identical fermions (particles with half-integer spin, such as electrons, protons, and neutrons) can occupy the same quantum state simultaneously within a quantum system**. In other words, two fermions cannot have identical sets of quantum numbers.
 
 ### Key Points of the Pauli Exclusion Principle:
@@ -38,3 +41,7 @@ The **Pauli Exclusion Principle** is a fundamental principle in quantum mechanic
 ### Why the Pauli Exclusion Principle Is Important
 
 The Pauli Exclusion Principle is essential for understanding the structure of matter, from atomic and molecular configurations to the properties of solids, the behavior of dense astrophysical objects, and the principles behind periodicity in chemistry. Without it, atomic structure would collapse, and the diverse forms of matter we observe would not exist.
+
+---
+
+[README-pions-kaions.md](https://t2m.io/o5Vsnn4)

@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 In particle physics, **fermions**, **leptons**, and **bosons** are categories that help organize subatomic particles based on their properties, especially their **spin** and **fundamental interactions**. Here’s an overview of each category:
 
 ### 1. **Fermions**
@@ -54,3 +57,7 @@ In particle physics, **fermions**, **leptons**, and **bosons** are categories th
 | **Hadrons**   | Integer or half-integer | Made of quarks, feel strong force | Protons, neutrons, pions   |
 
 These categories and properties define the fundamental particles and their interactions, forming the basis of the **Standard Model** of particle physics. The distinctions between fermions and bosons are essential, as they determine whether particles can make up matter (fermions) or mediate forces (bosons), and whether they obey exclusion principles or can occupy the same state.
+
+---
+
+[README-gluon.md](https://t2m.io/soo3Bq7)

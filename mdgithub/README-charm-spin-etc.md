@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 In particle physics, there are several "made-up" or derived terms—such as **charm**, **spin**, **strangeness**, and others—that scientists use to explain and classify the properties of particles in the **Standard Model**. These terms help physicists make sense of the observed behavior and interactions of subatomic particles, filling gaps in the model and addressing phenomena that classical physics could not explain.
 
 ### Key Terms in the Standard Model
@@ -59,3 +62,7 @@ The introduction of terms like charm, strangeness, color charge, and isospin hel
 
 ### Limitations and Current Gaps in the Standard Model
 Despite its successes, the Standard Model is not complete. It doesn’t incorporate **gravity**, **dark matter**, **dark energy**, or explain why the masses and charges of particles are what they are. Physicists continue to search for **extensions to the Standard Model**, such as **supersymmetry** and **grand unified theories (GUTs)**, to address these remaining questions.
+
+---
+
+[README-decay-types.md](https://t2m.io/yEF0B8h)

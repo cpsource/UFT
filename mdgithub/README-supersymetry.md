@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 **Supersymmetry (SUSY)** is a theoretical framework in particle physics that proposes a type of symmetry between two fundamental classes of particles: **fermions** (matter particles) and **bosons** (force-carrying particles). In supersymmetry, every particle has a heavier "superpartner" with a different spin. For example, fermions (like electrons) would have bosonic superpartners, and bosons (like photons) would have fermionic superpartners.
 
 ### Key Ideas Behind Supersymmetry
@@ -57,3 +60,7 @@ The superpartners of the known Standard Model particles include:
 ### Summary
 
 Supersymmetry is a proposed extension of the Standard Model that pairs each particle with a heavier superpartner, potentially solving problems like the hierarchy problem and providing candidates for dark matter. While theoretically elegant and beneficial for unifying fundamental forces, SUSY remains unconfirmed experimentally. The search for supersymmetric particles continues, as finding them could revolutionize our understanding of particle physics and the universe.
+
+---
+
+[README-second-law.md](https://t2m.io/cZD4b9M)
