@@ -74,3 +74,7 @@ In mathematical terms, if we start with a superposition of states, decoherence t
 
 Decoherence doesn’t "destroy" quantum mechanics but explains why we don’t see quantum effects in everyday life, allowing the classical world to emerge from quantum rules.
 
+
+---
+
+[README-complexity.md](https://t2m.io/Nw6dbiS)

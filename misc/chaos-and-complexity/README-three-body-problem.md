@@ -58,3 +58,7 @@ A practical example of a restricted three-body problem is the **Earth-Moon-satel
 ### Summary
 
 The three-body problem involves predicting the motion of three bodies interacting through gravity. While the two-body problem has a precise solution, the three-body problem generally does not, due to the complexity and chaotic nature of the interactions. Special cases (such as the restricted three-body problem) and numerical simulations help approximate solutions, but for most initial conditions, the system exhibits chaotic behavior that limits long-term predictability. The study of the three-body problem has led to significant developments in fields such as chaos theory, celestial mechanics, and space exploration.
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

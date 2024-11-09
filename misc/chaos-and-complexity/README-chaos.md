@@ -69,3 +69,7 @@ The **butterfly effect**, first described by meteorologist Edward Lorenz, illust
 
 Chaos describes systems that are deterministic but extremely sensitive to initial conditions, leading to unpredictable behavior over time. It often arises in nonlinear systems and is characterized by strange attractors and fractal structures. Though chaotic systems follow exact mathematical rules, their long-term behavior is effectively unpredictable due to the exponential growth of small differences in initial conditions. Chaos theory has broad applications across science and engineering, helping us understand the limits of predictability in complex systems.
 
+
+---
+
+[README-chaos-and-determinism.md](https://t2m.io/DUSOaJx)

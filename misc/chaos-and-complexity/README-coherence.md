@@ -73,3 +73,7 @@ Decoherence is a crucial concept in quantum mechanics, especially for understand
 
 Coherence is a fundamental concept that bridges the gap between wave-like behavior, quantum mechanics, and classical phenomena. It enables a wide range of technological applications and is essential for understanding the transition between quantum and classical physics.
 
+
+---
+
+[README-decoherence.md](https://t2m.io/y5coL1B)

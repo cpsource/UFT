@@ -87,3 +87,7 @@ Quantum mechanics is essential for understanding:
 
 Quantum mechanics is not only a theory about the very small; it has profound implications and applications across all of science and technology. Its principles are the foundation for much of modern physics, chemistry, and technology, shaping our understanding of the universe at the most fundamental level.
 
+
+---
+
+[README-conways-game-of-life-rules.md](https://t2m.io/fez8jPS)

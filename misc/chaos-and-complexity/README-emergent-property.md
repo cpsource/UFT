@@ -66,3 +66,7 @@ An **emergent property** is a characteristic or behavior that appears when indiv
 
 Emergent properties are seen in fields as diverse as biology, physics, sociology, and computing, and they challenge our understanding of complexity, predictability, and control in both natural and artificial systems. Studying emergent properties helps us understand complex systems on a holistic level and recognize the power of simple interactions to generate intricate and often surprising outcomes.
 
+
+---
+
+[README-quantum-chaos.md](https://t2m.io/bi1VMUE)

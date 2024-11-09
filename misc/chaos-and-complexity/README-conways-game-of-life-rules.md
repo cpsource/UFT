@@ -82,3 +82,7 @@ Conway’s Game of Life is a simple yet powerful cellular automaton with four ba
 
 Through these rules, complex and often unpredictable patterns emerge from simple initial configurations, making the Game of Life a classic model for studying emergent complexity in systems governed by simple, local interactions.
 
+
+---
+
+[README-conways-game-of-life.md](https://t2m.io/dJ7dOhC)

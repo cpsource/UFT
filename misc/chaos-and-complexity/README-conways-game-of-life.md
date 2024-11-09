@@ -39,3 +39,7 @@ The Game of Life is best understood as:
 
 In terms of **classification**, Conway's Game of Life sits within **complex systems and cellular automata** rather than true chaotic systems. It demonstrates how simple, deterministic rules can produce complexity and emergent behavior, but it is fundamentally different from chaotic systems that exhibit sensitivity to initial conditions and exponential divergence.
 
+
+---
+
+[README-three-body-problem.md](https://t2m.io/hFncAoW)

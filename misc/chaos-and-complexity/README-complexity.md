@@ -97,3 +97,7 @@ It’s important to distinguish between **complex** and **complicated**:
 - Can adapt and evolve over time.
 
 Complexity science aims to study these systems, providing insights into natural and human-made phenomena. It has applications in many fields, helping us understand ecosystems, economies, social behaviors, and more, and addressing the challenges of prediction, resilience, and management in our interconnected world.
+
+---
+
+[README-emergent-property.md](https://t2m.io/w9jrgT0)
