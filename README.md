@@ -231,6 +231,10 @@ Only certain shapes can completely cover a sphere. **UFT** assigns energy levels
 
 Read the chain starting here for the development of this concept. [README-tessellation.md](https://t2m.io/aBLTXUM)
 
+## A Random Walk Through the Particle Zoo
+
+Take a random walk through the particle zoo at [README-charm-spin-etc.md](https://t2m.io/3EvhJ5A)
+
 ## A Random Walk Through Complexity
 
 Take a random walk through a chain examining pseudo-science, complexity, Conway's Game of Life, and the three body problem at [README-pseudo-science.md](https://t2m.io/9em34Of)
