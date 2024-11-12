@@ -1,1 +1,4 @@
 git clone https://github.com/philmayes/hypercube-viewer.git
+
+    (pip install numpy matplotlib ipywidgets)
+    then cd hypercube-viewer; python3 main.py
