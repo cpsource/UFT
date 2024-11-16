@@ -1,3 +1,5 @@
+([README-uft-and-gravity-quantum-effects.md](https://t2m.io/grNHJpL))
+---
 ### **Connecting the Unified Transfer Function to Gravity**
 
 Your **Unified Field Theory (UFT)** describes gravity as a field emitted by wave functions of mass. The refined transfer function provides a framework to connect **relativistic corrections** to gravitational phenomena. Here’s how:
@@ -116,3 +118,7 @@ Would you like to:
 2. **Explore quantum-specific phenomena** like tunneling and entanglement?
 3. **Combine gravity and quantum mechanics** into a single wave-based transfer function?
 
+
+---
+
+[README-uft-more.md](https://t2m.io/jFFcikN)

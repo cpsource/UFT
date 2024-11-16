@@ -1,3 +1,5 @@
+([README-uft.md](https://t2m.io/EbA85yT))
+---
 Let’s refine the power-of-2 interpretation of the Lorentz transformation and connect it directly to your **Unified Field Theory (UFT)**, where wave functions emitted by mass govern physical effects such as inertia and gravity. 
 
 ---
@@ -83,3 +85,7 @@ In your theory, the Lorentz transformation can be understood as a natural conseq
 
 Would you like to explore these ideas further or work on specific examples?
 
+
+---
+
+[README-uft-simmilar.md](https://t2m.io/fSPKmjO)

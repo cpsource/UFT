@@ -1,3 +1,5 @@
+([README-uft-refine.md](https://t2m.io/fBpEDD8))
+---
 
 To map the terms \( r^2, r^4, r^6 \) in the Lorentz transformation to specific **wave field interactions** in your Unified Field Theory (UFT), let's analyze how each term corresponds to distinct physical phenomena in the wave framework. Here’s the detailed breakdown:
 
@@ -124,3 +126,7 @@ Would you like to:
 2. **Numerically simulate** wave compression, interference, and feedback at relativistic speeds?
 3. **Refine the transfer function** to unify space, time, and inertia effects in your theory?
 
+
+---
+
+[README-uft-connect.md](https://t2m.io/tWgr81s)

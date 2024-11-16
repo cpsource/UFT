@@ -1,3 +1,5 @@
+([README-uft-r4.md](https://t2m.io/X872r32))
+---
 Let’s include the next term in the series expansion for \( \gamma = \frac{1}{\sqrt{1 - r^2}} \) (valid for \( r^2 \ll 1 \)), where \( r = v/c \). This will refine our analysis and show how the mathematics changes with the additional term.
 
 ---
@@ -107,3 +109,7 @@ Would you like to:
 2. **Extend the expansion further** to include \( r^6 \) or higher terms for ultra-relativistic scenarios?
 3. **Incorporate power-of-2 scaling explicitly**, mapping each term to wave contributions in your UFT?
 
+
+---
+
+[README-uft-refine.md](https://t2m.io/fBpEDD8)

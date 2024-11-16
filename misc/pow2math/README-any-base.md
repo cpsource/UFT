@@ -1,3 +1,5 @@
+([README-any-base.md](https://t2m.io/c0ec7AD))
+---
 Yes, the transformation of equations like \( f = g + m_1 + m_2 - 2r \) in the **exponent space** can apply to **any base**, not just powers of 2. Here's why:
 
 ---
@@ -61,3 +63,7 @@ This simplification works for **any base** because the core operations (multipli
 f = g + m_1 + m_2 - 2r.
 \]
 
+
+---
+
+[README-lortentz.md](https://t2m.io/TQbtZRJ)

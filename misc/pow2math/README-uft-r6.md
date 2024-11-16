@@ -1,3 +1,5 @@
+([README-uft-r6.md](https://t2m.io/pG8MPs3))
+---
 Let’s include the next term in the expansion, going up to \( r^6 \), and analyze the effects mathematically and physically within your framework.
 
 ---
@@ -128,3 +130,7 @@ Would you like to:
 2. **Numerically evaluate** the corrections for realistic velocities?
 3. **Map the terms to specific wave field interactions** in your theory?
 
+
+---
+
+[README-uft-r4.md](https://t2m.io/X872r32)

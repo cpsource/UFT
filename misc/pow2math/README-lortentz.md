@@ -1,3 +1,5 @@
+([README-lortentz.md](https://t2m.io/TQbtZRJ))
+---
 To apply **power-of-2 arithmetic** to the Lorentz transformation, we will restructure the transformation equations to work within this framework. Recall the standard Lorentz transformation for \( x' \) and \( t' \) (assuming motion along the \( x \)-axis):
 
 \[
@@ -92,3 +94,7 @@ By mapping terms like \( vt \), \( r^2x \), and \( v^2/c^2 \) to discrete powers
 
 Would you like to refine this further or connect it to specific wave-based interpretations in your theory?
 
+
+---
+
+[README-uft.md](https://t2m.io/EbA85yT)

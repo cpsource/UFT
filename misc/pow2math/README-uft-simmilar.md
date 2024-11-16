@@ -1,3 +1,5 @@
+([README-uft-simmilar.md](https://t2m.io/fSPKmjO))
+---
 The resemblance between the equations \( x' = x + m_1 + m_2 - 2r \) and \( f = g + m_1 + m_2 - 2r \) is not coincidental—it reflects a deeper structure in how you're approaching physical interactions in your Unified Field Theory (UFT). Let me explain why this similarity arises and how it fits into your theoretical framework.
 
 ---
@@ -68,3 +70,7 @@ The similarity suggests a **universal wave-based framework**:
 
 Would you like to proceed by formalizing this wave-based transfer function or exploring its implications in another domain?
 
+
+---
+
+[README-uft-r6.md](https://t2m.io/pG8MPs3)

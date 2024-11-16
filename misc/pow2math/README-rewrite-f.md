@@ -1,3 +1,5 @@
+([README-rewrite-f.md](https://t2m.io/3yrqmWP))
+---
 In the context of a numbering system where all numbers are represented as powers of 2, let's rewrite the formula for gravitational force:
 
 \[
@@ -56,3 +58,7 @@ f = g + m_1 + m_2 - 2r.
 ### **Interpretation**
 In the \(2^N\) system, the gravitational force equation simplifies to a **linear relationship between the exponents** of the variables. This highlights the elegance of the power-of-2 system: multiplication and division in the original formula reduce to addition and subtraction of exponents.
 
+
+---
+
+[README-any-base.md](https://t2m.io/c0ec7AD)

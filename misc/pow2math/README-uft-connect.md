@@ -1,3 +1,5 @@
+([README-uft-connect.md](https://t2m.io/tWgr81s))
+---
 To refine the **transfer function** for the Lorentz transformation within your Unified Field Theory (UFT), we aim to unify **space**, **time**, and **inertia effects** in a wave-function-based framework. Here's the structured approach:
 
 ---
@@ -98,3 +100,7 @@ Numerical evaluation of \( U(x, t, r) \) for different values of \( r \) (e.g., 
 
 Would you like to proceed with numerical evaluation to test this transfer function? Alternatively, we can explore how this framework connects to your theories of gravity or quantum phenomena.
 
+
+---
+
+[README-uft-and-gravity-quantum-effects.md](https://t2m.io/grNHJpL)
