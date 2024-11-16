@@ -231,7 +231,7 @@ Only certain shapes can completely cover a sphere. **UFT** assigns energy levels
 
 Read the chain starting here for the development of this concept. [README-tessellation.md](https://t2m.io/aBLTXUM)
 
-## Introduction to * 2^N * Mathematics in Unified Field Theory
+## Introduction to $` 2^N `$ Mathematics in Unified Field Theory
 
 In our exploration of **Unified Field Theory (UFT)**, we have developed a mathematical framework based on \( 2^N \) scaling. This approach leverages the natural simplicity and hierarchy of powers of two to describe complex physical phenomena, such as relativistic corrections, wave interactions, and quantum effects. By decomposing equations into discrete contributions aligned with \( 2^N \) terms, we have achieved a unified perspective on physics that bridges classical and quantum realms.
 
