@@ -32,7 +32,10 @@ def main():
         with open(input_file, 'r') as infile:
             for line in infile:
                 item = line.strip()
-                if item and item in csv_data:
+                # Skip blank lines and lines starting with a #
+                if not item or item.startswith('#'):
+                    continue
+                if item in csv_data:
                     result_dict[item] = f'[{item}]({csv_data[item]})'
                     ordered_items.append(item)
 
