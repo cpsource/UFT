@@ -123,3 +123,7 @@ A reasonable estimate might be:
 ### **Conclusion**
 Refined values for tension (\( T \sim 10^{12} \, \text{N/m} \)) and inertia (\( \rho \sim 10^{-7} \, \text{J/m}^3 \)) provide a bridge between gravitational and electromagnetic phenomena, making **(point)** theory compatible with real-world physics. Would you like to explore how these values relate to quantum effects or test specific predictions? 😊
 
+
+---
+
+[README-quantum-effects.md](https://t2m.io/x9uKoWV)

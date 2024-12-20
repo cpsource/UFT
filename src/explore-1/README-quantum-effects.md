@@ -134,3 +134,7 @@ The tension (\( T_{\text{point}} \)) and inertia (\( \rho_{\text{point}} \)) in 
 
 This framework integrates quantum mechanics into the dynamics of **(points)**, providing a unified description of both particle-like and wave-like phenomena. Would you like to explore predictions or simulations based on this refined model? 😊
 
+
+---
+
+[README-attraction-becomes-repulsion.md](https://t2m.io/FZTpE4d)

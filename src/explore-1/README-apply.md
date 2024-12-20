@@ -32,3 +32,7 @@ Great! Let’s take the new framework and delve into some specific predictions o
 
 Would you like to start with one of these topics, or do you have a particular direction in mind for expanding on this theory? 😊
 
+
+---
+
+[README-curvature.md](https://t2m.io/mQ5h2Mn)

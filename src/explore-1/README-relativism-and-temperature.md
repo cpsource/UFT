@@ -106,3 +106,7 @@ Relativistic effects profoundly alter the relationship between temperature and e
 
 Would you like to explore specific relativistic systems (e.g., black holes or particle jets) in more detail or consider quantum effects at relativistic scales? 😊
 
+
+---
+
+[README-fine-structure-constant.md](https://t2m.io/yFhGS4t)

@@ -103,3 +103,7 @@ By allowing **(points)** to combine into structures governed by attraction and r
 
 Let’s dive deeper into specific rules or simulate this if you’d like! 😊
 
+
+---
+
+[README-boundry-conditions.md](https://t2m.io/2N3mu20)

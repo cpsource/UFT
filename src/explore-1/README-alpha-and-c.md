@@ -122,3 +122,7 @@ If you were traveling at \(\alpha \cdot c\), you would notice:
 
 Would you like to explore these effects at higher multiples of \(\alpha \cdot c\) (e.g., \(2\alpha \cdot c\) or \(10\alpha \cdot c\)) to see how they intensify as you approach relativistic regimes? 😊
 
+
+---
+
+[README-1divalpha-and-c.md](https://t2m.io/nPuRXJ6)

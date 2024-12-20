@@ -121,3 +121,7 @@ The effective mass \( m_{\text{eff}} \) in a system of **(points)** can dynamica
 
 Would you like to dive deeper into how this dynamic mass might influence specific phenomena, such as particle creation, black holes, or dark energy? 😊
 
+
+---
+
+[README-relativism-and-temperature.md](https://t2m.io/OQR4OLF)

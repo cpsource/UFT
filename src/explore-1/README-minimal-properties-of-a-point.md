@@ -94,3 +94,7 @@ Attraction and repulsion are indeed the minimal properties a **(point)** require
 
 From this foundation, we could develop a complete framework for the universe! Would you like to explore how these might lead to specific physical laws? 😊
 
+
+---
+
+[README-is-energy-intrinsic.md](https://t2m.io/hQ0FWjh)

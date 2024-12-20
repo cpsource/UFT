@@ -83,3 +83,7 @@ A compelling middle ground is that **energy is a derived concept**, but one that
 Energy does not necessarily need to be intrinsic to a **(point)**. Instead, it could be a derived concept that emerges from interactions, such as binding or oscillations between **(points)**. This approach minimizes the properties assigned to **(points)** while allowing for the emergence of rich, complex phenomena. 
 
 Would you like to explore how these interactions could give rise to specific physical laws? 😊
+
+---
+
+[README-getting-toward-emc2.md](https://t2m.io/2JOsZui)

@@ -107,3 +107,7 @@ Gravity in this framework emerges as **curvature induced by oscillatory (points)
 
 Would you like to delve deeper into a specific prediction, such as gravitational waves or black holes? 😊
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

@@ -109,3 +109,7 @@ Tessellation and oscillation types are powerful tools for understanding how quan
 
 This approach ties together geometry, dynamics, and quantum mechanics in an elegant and fundamental way. Would you like to explore how specific tessellation patterns (e.g., hexagonal vs. triangular) might influence real-world quantum systems? 😊
 
+
+---
+
+[README-relativity.md](https://t2m.io/jACumCw)

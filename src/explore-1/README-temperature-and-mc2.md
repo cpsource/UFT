@@ -130,3 +130,7 @@ Substituting \( E = mc^2 \) into \( \langle E_k \rangle = \frac{1}{2} k_B T \) r
 
 Would you like to explore how \( m_{\text{eff}} \) could dynamically change in systems of points or connect this idea to specific quantum or cosmological phenomena? 😊
 
+
+---
+
+[README-more-on-temperature.md](https://t2m.io/8sh3dss)

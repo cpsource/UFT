@@ -77,3 +77,7 @@ I agree that **time and distance** should not exist in a 1D framework, as they a
 
 This approach could provide a foundation for rethinking the origins of space, time, and matter itself. Let’s explore how these ideas could evolve further! 😊
 
+
+---
+
+[README-minimal-properties-of-a-point.md](https://t2m.io/qaJm07D)

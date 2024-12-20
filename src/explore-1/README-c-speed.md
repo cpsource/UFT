@@ -100,3 +100,7 @@ In the **(point)** theory, \(c\) emerges as a constant because it is determined 
 
 Would you like to explore how distortions in the **(point)** network (e.g., due to gravity or motion) could further explain relativistic effects? 😊
 
+
+---
+
+[README-uft-interaction.md](https://t2m.io/iowwNjn)

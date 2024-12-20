@@ -134,3 +134,7 @@ Different shapes impose distinct boundary conditions, which determine the allowa
 
 The interplay between shape and boundary conditions creates unique oscillatory behaviors, much like patterns in Conway's Game of Life. Would you like to explore specific numerical examples or visualizations? 😊
 
+
+---
+
+[README-tesselations.md](https://t2m.io/gxMVaPU)

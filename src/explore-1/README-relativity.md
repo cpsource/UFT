@@ -100,3 +100,7 @@ The **(point)** theory can potentially explain relativity by:
 
 This approach aligns well with the principles of relativity while grounding them in a simpler, emergent framework. Would you like to dive deeper into any specific aspect, such as how \(c\) might emerge or how gravity could be modeled? 😊
 
+
+---
+
+[README-c-speed.md](https://t2m.io/5vRFG5H)

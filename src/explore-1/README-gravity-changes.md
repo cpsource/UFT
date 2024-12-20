@@ -33,3 +33,7 @@ Gravity itself does not fundamentally change during nuclear reactions, as the fo
 
 These effects are governed by the same physical principles but vary in significance depending on the scale of the system.
 
+
+---
+
+[README-point-is-1d.md](https://t2m.io/NBbHKmh)

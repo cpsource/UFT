@@ -137,3 +137,7 @@ This expression captures:
 ### **Conclusion**
 By assigning only **attraction** and **repulsion** to **(points)**, energy naturally emerges as a system property, not an intrinsic one. The equation \( U(r) = \frac{A}{r^n} - \frac{B}{r^m} \) captures the balance of forces, and total energy \( E(r) \) combines potential and motion dynamically. This minimal approach can describe stable structures, motion, and interactions without introducing unnecessary complexity.
 
+
+---
+
+[README-conways.md](https://t2m.io/5OnA36d)

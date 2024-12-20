@@ -112,3 +112,7 @@ Using the two fundamental properties of **(points)**:
 
 Together, these properties set the constant \( c \), the universal speed of propagation. This approach not only grounds \( c \) in the behavior of **(points)** but also ties it naturally to the resistance to acceleration and the feedback loops in your UFT. Would you like to explore how this connects to specific relativistic phenomena like time dilation or energy propagation? 😊
 
+
+---
+
+[README-why-Prop.md](https://t2m.io/A5CtYmQ)

@@ -41,3 +41,7 @@ This distinction between energy release from fusion (up to iron) and fission (fo
 - Fission works after iron because energy is released by breaking apart large, unstable nuclei with lower binding energy per nucleon.  
 - Iron and nickel mark the "energy peak," making them the most stable nuclei.
 
+
+---
+
+[README-gravity-changes.md](https://t2m.io/7xTgHfC)

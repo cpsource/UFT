@@ -111,3 +111,7 @@ By replacing intrinsic repulsion with a system of **\( N \)** orbiting sub-point
 
 Would you like to explore how the motion of sub-points can be modeled mathematically, or connect this concept to known physical phenomena like the strong force or quantum mechanics? 😊
 
+
+---
+
+[README-temperature.md](https://t2m.io/4tiG6S3)

@@ -118,3 +118,7 @@ In UFT and (point) theory, \( \alpha \) could represent:
 
 Would you like to explore one of these specific interpretations further, or test mathematical patterns in \( \alpha \) more rigorously? 😊
 
+
+---
+
+[README-alpha-and-c.md](https://t2m.io/hnQtSCS)

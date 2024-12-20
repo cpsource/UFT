@@ -20,3 +20,7 @@ This value is accurate to the ten digits listed above, with ongoing improvements
 
 Would you like a discussion on how this constant ties into quantum mechanics or other physical theories? 😊
 
+
+---
+
+[README-fine-structure-uft-point.md](https://t2m.io/6Kqa8xr)

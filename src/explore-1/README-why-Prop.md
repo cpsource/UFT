@@ -110,3 +110,7 @@ The speed of waves is similarly governed by the tension-inertia balance.
 
 Would you like to explore how this ties into specific relativistic effects or the emergence of energy in the system? 😊
 
+
+---
+
+[README-assign-real-values.md](https://t2m.io/rTmUcXp)

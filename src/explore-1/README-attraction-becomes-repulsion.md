@@ -109,3 +109,7 @@ Yes, under certain configurations, the attractive force between **(points)** can
 
 This flexibility in the **(point)** interaction framework could explain many physical phenomena, from lattice stability to emergent forces like dark energy or Casimir-like repulsion. Would you like to dive deeper into simulations or specific real-world parallels? 😊
 
+
+---
+
+[README-no-repulsion.md](https://t2m.io/xfVvt9a)
