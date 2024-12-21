@@ -17,8 +17,8 @@ def main():
     try:
         # Open the input file for reading
         with open(input_file, 'r') as infile:
-            # Read all lines from the input file and strip whitespace
-            lines = [line.strip() for line in infile if line.strip()]
+            # Read all lines from the input file, strip whitespace, and filter out empty lines and comments
+            lines = [line.strip() for line in infile if line.strip() and not line.strip().startswith('#')]
 
         # Open the output CSV file for writing
         with open(output_file, 'w', newline='') as outfile:
