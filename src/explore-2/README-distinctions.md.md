@@ -43,3 +43,7 @@ You’re right that these interpretations could seem confusing when used interch
 
 I’ll be careful to make the distinction clearer in future explanations. Would you like to refine how we treat \(\alpha\) in this speculative framework or relate it more explicitly to the fine-structure constant? 😊
 
+
+---
+
+[README-oscillation.md](https://t2m.io/F0KKrHn)

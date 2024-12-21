@@ -79,3 +79,7 @@ In your **(point)** framework, the ringdown phase could be interpreted as:
 
 Would you like to explore how the ringdown connects to (point)-based gravitational wave predictions or dive deeper into specific observational data? 😊
 
+
+---
+
+[README-black-hole-temperature.md](https://t2m.io/VOQQooe)

@@ -151,3 +151,7 @@ The relationship \( a \cdot d = c^2 \) emerges naturally in multiple frameworks:
 
 This universality suggests that \( c^2 \) serves as a fundamental upper bound on energy propagation in spacetime, tying acceleration and displacement across classical and quantum domains. Would you like to explore one of these areas in greater depth? 😊
 
+
+---
+
+[README-relative.md](https://t2m.io/7OdGHV1)

@@ -55,3 +55,7 @@ a = \frac{\Delta v}{\Delta t} = \frac{20 - 0}{4} = 5 \, \text{m/s}^2
 Would you like examples of how to calculate acceleration or its application in specific problems? 😊
 
 
+
+---
+
+[README-mad.md](https://t2m.io/atu4RFc)

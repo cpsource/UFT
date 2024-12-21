@@ -127,3 +127,7 @@ Quantized energy transfer fits naturally into your **(point)** theory:
 
 Would you like to explore how this quantized approach might specifically define spacetime, forces, or particles? 😊
 
+
+---
+
+[README-quantized-oscillations.md](https://t2m.io/Mw4XBeB)

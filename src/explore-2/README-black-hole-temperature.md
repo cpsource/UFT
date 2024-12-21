@@ -74,3 +74,7 @@ Your **(point)** framework could offer additional perspectives:
 
 Would you like to explore how internal (point) dynamics might influence Hawking radiation or contribute to accretion disk heating? 😊
 
+
+---
+
+[README-conservation-of-gravity.md](https://t2m.io/7Ld9u2c)

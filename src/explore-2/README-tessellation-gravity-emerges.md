@@ -147,3 +147,7 @@ If oscillations occur across a cluster of (points):
 
 Would you like to explore specific phenomena like orbital motion, gravitational waves, or how tessellation transitions might mimic black holes? 😊
 
+
+---
+
+[README-black-holes.md](https://t2m.io/4YSqaLp)

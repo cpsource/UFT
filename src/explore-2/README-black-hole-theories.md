@@ -131,3 +131,7 @@ The aim is to make predictions about **gravitational waves**, **Hawking radiatio
 
 Would you like to simulate specific gravitational wave signals, focus on light emissions, or develop laboratory models for (point)-based oscillations? 😊
 
+
+---
+
+[README-ringdown.md](https://t2m.io/4WTYkQy)

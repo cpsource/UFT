@@ -45,3 +45,7 @@ E = mad
 
 Would you like further clarification or an example of applying this equation? 😊
 
+
+---
+
+[README-more-mad.md](https://t2m.io/MqhBDkA)

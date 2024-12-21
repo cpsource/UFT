@@ -132,3 +132,7 @@ If chaotic oscillations release energy, they might leave observable signatures:
 
 Would you like to model these oscillations, explore specific observational phenomena, or refine how energy radiates from chaotic (point) systems? 😊
 
+
+---
+
+[README-points-radiation-direction.md](https://t2m.io/ZoTZGUu)

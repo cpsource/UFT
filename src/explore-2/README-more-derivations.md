@@ -113,3 +113,7 @@ The equation \(v^2 = v_0^2 + 2ad\) is derived by combining:
 
 Would you like to see further refinements or additional examples? 😊
 
+
+---
+
+[README-integrate-t.md](https://t2m.io/Vnfi5x7)

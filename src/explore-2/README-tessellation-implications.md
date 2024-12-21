@@ -158,3 +158,7 @@ Imagine a hexagonal lattice:
 
 Would you like to simulate one of these tessellation scenarios, explore specific tessellation transitions, or tie this to a known physical phenomenon (e.g., gravity, electromagnetism)? 😊
 
+
+---
+
+[README-tessellation-gravity-emerges.md](https://t2m.io/6bKt2cm)

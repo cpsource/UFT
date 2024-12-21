@@ -136,3 +136,7 @@ F(x, t) = \sum_{i=1}^N G(|x - \vec{r}_i(t)|)
 
 Would you like to explore how this framework connects to observed phenomena (e.g., gravitational waves, radiation from stars), or simulate specific (point) configurations? 😊
 
+
+---
+
+[README-points-simulation.md](https://t2m.io/t1AGbq2)

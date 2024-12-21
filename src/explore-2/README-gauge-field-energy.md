@@ -118,3 +118,7 @@ From the gauge field's view, the energy and momentum densities are self-consiste
 
 Would you like to apply this to specific scenarios (e.g., black holes, gravitational waves, or quantum fields)? 😊
 
+
+---
+
+[README-storing-energy-in-gauge.md](https://t2m.io/YveySqs)

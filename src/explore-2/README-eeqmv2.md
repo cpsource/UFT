@@ -95,3 +95,7 @@ The equation \( E = \frac{1}{2}mv^2 \) is derived by combining:
 
 It describes the kinetic energy of an object in terms of its mass \( m \) and velocity \( v \). Would you like to see how this equation relates to other areas of physics, like relativity or quantum mechanics? 😊
 
+
+---
+
+[README-square-v.md](https://t2m.io/qaskyZi)

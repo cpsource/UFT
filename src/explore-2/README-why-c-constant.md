@@ -113,3 +113,7 @@ This perspective explains why \(c\) is constant and universal: it’s built into
 
 Would you like to explore the relationship between this view and modern physics, such as quantum field theory or relativity? 😊
 
+
+---
+
+[README-fine-structure-constant.md](https://t2m.io/KK3An6L)

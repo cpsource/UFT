@@ -119,3 +119,7 @@ From the perspective of the gauge field:
 
 Would you like to explore specific cases (e.g., black holes, waves, or quantum interpretations)? 😊
 
+
+---
+
+[README-gauge-field-energy.md](https://t2m.io/m2A88o5)

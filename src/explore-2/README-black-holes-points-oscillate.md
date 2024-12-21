@@ -142,3 +142,7 @@ While Hawking radiation has not yet been observed directly:
 
 Would you like to focus on specific observational tests or refine the theoretical framework to make predictions? 😊
 
+
+---
+
+[README-black-hole-theories.md](https://t2m.io/skFYSwy)

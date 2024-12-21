@@ -179,3 +179,7 @@ plt.show()
 
 Would you like to dive deeper into specific dynamics, simulate anisotropic radiation, or explore connections to observed physical phenomena? 😊
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

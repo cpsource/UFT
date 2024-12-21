@@ -22,3 +22,7 @@ Proportionality (\( \propto \)) means we are not specifying exact constants in t
 
 If you were asking about an equation where \( c \times \alpha \) appears, that would be different and would require rethinking the relationship. Would you like to revisit the math with that perspective? 😊
 
+
+---
+
+[README-distinctions.md.md](https://t2m.io/WEHZLXW)

@@ -117,3 +117,7 @@ The **spacetime warping** caused by black holes can still persist even if tessel
 
 Would you like to explore specific mathematical models of these dynamics, or focus on observational phenomena like Hawking radiation or gravitational waves? 😊
 
+
+---
+
+[README-black-holes-points-oscillate.md](https://t2m.io/m00yZca)

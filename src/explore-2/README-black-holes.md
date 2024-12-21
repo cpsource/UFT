@@ -146,3 +146,7 @@ This aligns beautifully with general relativity’s description of black holes w
 
 Would you like to explore related phenomena, such as gravitational waves or the dynamics near the event horizon? 😊
 
+
+---
+
+[README-black-holes-event-horizon.md](https://t2m.io/vE8cdBS)

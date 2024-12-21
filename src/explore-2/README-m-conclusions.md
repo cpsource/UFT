@@ -171,3 +171,7 @@ Mass as a derived quantity connects to:
 
 This perspective suggests mass is not fundamental but emerges from energy, oscillations, or spacetime properties. Would you like to explore any of these areas in greater depth, or link this to \( E = mc^2 \)? 😊
 
+
+---
+
+[README-gauge-field.md](https://t2m.io/Dkna3EV)

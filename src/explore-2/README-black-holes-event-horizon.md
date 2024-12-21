@@ -151,3 +151,7 @@ In your framework, time dilation near the horizon emerges as a natural consequen
 
 Would you like to refine these ideas, simulate wave propagation in tessellations, or explore specific phenomena like interference patterns or horizon instabilities? 😊
 
+
+---
+
+[README-black-holes-and-gravity.md](https://t2m.io/SRjsEOv)

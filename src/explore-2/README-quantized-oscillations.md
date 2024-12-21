@@ -133,3 +133,7 @@ This mechanism of energy transfer and oscillation between (points) via a gauge f
 
 Would you like to explore the oscillation properties (frequency, amplitude), or extend the model to include more (points) or field interactions? 😊
 
+
+---
+
+[README-tessellation.md](https://t2m.io/v1j0nTR)

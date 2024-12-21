@@ -70,3 +70,7 @@ This maximum reflects the relativistic limit of energy transfer.
 Would you like to see how this ties into a specific system, like black holes, quantum fields, or particle accelerators? 😊
 
 
+
+---
+
+[README-m-not-fundamental.md](https://t2m.io/myZ2Y7s)

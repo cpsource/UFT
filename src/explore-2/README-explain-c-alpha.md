@@ -41,3 +41,7 @@ The speed of a wave on the drumhead is determined by the balance of tension (\( 
 
 Would you like to explore specific scenarios where \( c \) could vary in this framework? 😊
 
+
+---
+
+[README-explain-c-alpha-again.md](https://t2m.io/0ZAyZrv)

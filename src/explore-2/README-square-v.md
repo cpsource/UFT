@@ -69,3 +69,7 @@ In short, the squared term arises naturally from the kinematic relationships gov
 
 Would you like further clarification or additional derivations from these equations? 😊
 
+
+---
+
+[README-more-derivations.md](https://t2m.io/ume7qGP)

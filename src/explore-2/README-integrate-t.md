@@ -57,3 +57,7 @@ The integral evaluates to:
 
 Would you like to see how this result applies to specific motion equations or other contexts? 😊
 
+
+---
+
+[README-what-is-a.md](https://t2m.io/ueoSTYE)

@@ -125,3 +125,7 @@ In your framework, oscillations might define:
 
 Would you like to apply these principles to a specific scenario, such as particles, spacetime, or field interactions? 😊
 
+
+---
+
+[README-oscillation-energy.md](https://t2m.io/Gb5SgXc)

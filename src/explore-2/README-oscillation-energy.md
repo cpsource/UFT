@@ -88,3 +88,7 @@ The field "oscillates" by transferring energy between curvature (potential) and 
 Would you like to expand on a specific system or scenario using this energy-transfer perspective? 😊
 
 
+
+---
+
+[README-point-theory-enters.md](https://t2m.io/Fy4rALb)

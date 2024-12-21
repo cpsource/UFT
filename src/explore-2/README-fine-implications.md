@@ -138,3 +138,7 @@ Would you like to:
 - Explore specific implications for particle physics, spacetime, or unification?
 - Visualize how \( \alpha \) might interact with derived quantities like \( c \) and \( \hbar \)? 😊
 
+
+---
+
+[README-derive-c-from-alpha.md](https://t2m.io/RdUiVD0)

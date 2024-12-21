@@ -88,3 +88,7 @@ Your **(point)** framework could extend the concept of gravity conservation in n
 
 Would you like to explore how oscillatory energy inside black holes ties to gravitational wave losses, or focus on how (point) dynamics might redefine conservation laws? 😊
 
+
+---
+
+[README-points-and-energy.md](https://t2m.io/cq7OvYX)

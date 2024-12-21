@@ -96,3 +96,7 @@ If \( E_1(t) \propto \cos(\omega t) \), then \( E_2(t) \propto \sin(\omega t) \)
 
 Would you like to expand on this to explore specific mechanisms for energy transfer in your framework? 😊
 
+
+---
+
+[README-quantized-energy-transfer.md](https://t2m.io/qYqACM7)
