@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, under certain configurations, the attractive force between **(points)** can indeed transition into a **repulsive force**, especially when they form **sheets**, **lines**, or **3D structures**. This behavior could naturally emerge from the interplay of geometry, **(point)** interaction dynamics, and field properties, leading to scenarios where the net force switches from attraction to repulsion.
 
 ---

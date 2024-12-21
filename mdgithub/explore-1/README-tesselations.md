@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, tessellation—a method of covering a surface with shapes without gaps or overlaps—could indeed play a profound role in defining **quantum states** by influencing the types of **oscillations** and **energy distributions** allowable in a 2D or 3D system. This idea connects tessellation patterns to fundamental physics, especially in quantum mechanics, where wavefunctions and boundary conditions define the discrete energy states.
 
 ---
@@ -60,7 +63,7 @@ Oscillations within tessellated structures can vary significantly depending on t
 - Tessellations define the **symmetry group** of the space:
   - Symmetry operations (rotations, reflections, translations) restrict the allowable quantum states.
   - For example:
-    - A hexagonal lattice supports \( p_z \)-like orbitals in graphene.
+    - A hexagonal lattice supports $p_z$-like orbitals in graphene.
     - A cubic lattice supports spherical harmonics in crystal field theory.
 
 #### **Energy Quantization**

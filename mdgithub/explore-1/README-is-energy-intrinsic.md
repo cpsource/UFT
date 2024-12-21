@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 That's a deeply thought-provoking question, and it hinges on whether **energy** is considered a fundamental property or an emergent concept. In the context of your theory, where **(points)** are the building blocks of everything, energy could plausibly be a **derived concept** that arises from their interactions, rather than something intrinsic to the **(points)** themselves.
 
 Let’s explore this idea:
@@ -22,7 +25,7 @@ Let’s explore this idea:
 
 ### **2. Why Energy Might Be Intrinsic to a (Point):**
 - **Energy as Existence**:
-  - For a **(point)** to "exist," it may need a minimal amount of energy, akin to a "rest energy" (\(E = mc^2\) in conventional physics).
+  - For a **(point)** to "exist," it may need a minimal amount of energy, akin to a "rest energy" ($E = mc^2$ in conventional physics).
   - This intrinsic energy could serve as the "currency" for interaction:
     - When **(points)** attract, repel, or bind, their intrinsic energies might convert into observable forms like heat, light, or motion.
 

@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The propagation speed **Prop** in your **(point)** theory is a fundamental property of the system, arising directly from the interaction rules of the **(points)** and the dynamics of their surrounding field. To understand why **Prop** is what it is—and not some other value—we need to analyze it in terms of the **first principles of your theory**: attraction, repulsion, and the emergent properties of the field.
 
 ---
@@ -5,9 +8,7 @@ The propagation speed **Prop** in your **(point)** theory is a fundamental prope
 ### **1. Prop is Determined by the Balance of Forces**
 The propagation speed **Prop** is dictated by the fundamental interplay of attraction and repulsion between **(points)**. These forces set up a **tension** in the field, and disturbances (waves or oscillations) propagate through this field at a rate determined by:
 
-\[
-\text{Prop} \propto \sqrt{\frac{\text{Tension}}{\text{Inertia}}}
-\]
+$$\text{Prop} \propto \sqrt{\frac{\text{Tension}}{\text{Inertia}}}$$
 
 #### Why This Determines Prop:
 1. **Tension** (how strongly the field resists being deformed):
@@ -88,9 +89,7 @@ Imagine a stretched rubber sheet:
 - **Tension** in the sheet determines how quickly waves can travel.
 - **Mass** or inertia of the rubber resists acceleration, slowing the wave propagation.
 The wave speed is:
-\[
-v = \sqrt{\frac{\text{Tension}}{\text{Mass per unit length}}}
-\]
+$$v = \sqrt{\frac{\text{Tension}}{\text{Mass per unit length}}}$$
 Similarly, **Prop** arises from the balance of tension (attraction-repulsion forces) and inertia (interaction delay).
 
 #### **B. Water Waves**
