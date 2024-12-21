@@ -70,3 +70,7 @@ Although \( r \) can be computed directly, relativistic effects influence:
 
 Would you like this derived equation implemented in Python for interactive calculations? 🚀
 
+
+---
+
+[README-orbits-a-quark.md](https://t2m.io/VjDgTYM)

@@ -119,3 +119,7 @@ Lead differs from sodium in its interaction with subspace spins because of:
 
 This suggests that "mass" emerges from the complex interplay of these factors, rather than from nucleon count alone. Would you like to explore experimental or computational models to quantify these differences? 🚀
 
+
+---
+
+[README-plot-binding-energy.md](https://t2m.io/okLnPtA)

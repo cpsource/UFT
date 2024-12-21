@@ -93,3 +93,7 @@ Would you like to:
 - Explore how this model could mathematically describe the interaction between light, sub-space, and gravity?
 - Investigate potential experiments to test how sub-space influences \( c \) in extreme conditions (e.g., near black holes or in highly dense materials)? 🚀
 
+
+---
+
+[README-subspace-reabsorbs-matter.md](https://t2m.io/snJ3CR2)

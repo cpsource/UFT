@@ -90,3 +90,7 @@ The extra energy in the platform’s frame comes from the fact that the ball (or
 
 Would you like me to calculate the exact energy difference for a specific setup? I can plug in numbers and show step-by-step results! 🚀
 
+
+---
+
+[README-no-at-rest-frame.md](https://t2m.io/oaYRvUN)

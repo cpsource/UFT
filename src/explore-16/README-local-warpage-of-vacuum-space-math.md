@@ -142,3 +142,7 @@ T(r) = e^{-\beta r^2}.
 
 Would you like a Python or Mathematica implementation to visualize these functions? 🚀
 
+
+---
+
+[README-quark-confinement.md](https://t2m.io/ESPrf7p)

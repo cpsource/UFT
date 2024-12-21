@@ -90,3 +90,7 @@ The SigmoLorentz Transfer Function could explain gravity if:
 
 Would you like to explore mathematical details further, such as deriving a potential field or investigating predictions for gravitational waves? 🚀
 
+
+---
+
+[README-gravitational-field.md](https://t2m.io/pCEjReK)

@@ -112,3 +112,7 @@ However, once you accelerate (change velocity), you feel forces, and relativisti
 
 Would you like a worked example of using **Doppler shift** or **time dilation** to measure your velocity? 🚀
 
+
+---
+
+[README-my-observations.md](https://t2m.io/bxZO4zn)

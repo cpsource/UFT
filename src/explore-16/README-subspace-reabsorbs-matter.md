@@ -101,3 +101,7 @@ Yes, it is plausible to extend the sub-space transfer function to describe matte
 
 Would you like to expand this idea mathematically or explore specific testable predictions? 🚀
 
+
+---
+
+[README-subspace-mass-increase.md](https://t2m.io/vKw26Rx)

@@ -108,3 +108,7 @@ In the **Unified Field Theory with Neural Networks (UFT-NN)** framework:
 
 Would you like to simulate or visualize the generation of EM waves? 🚀
 
+
+---
+
+[README-magnetic-generation.md](https://t2m.io/mr99XYJ)

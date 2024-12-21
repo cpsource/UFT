@@ -87,3 +87,7 @@ If you spin a clock in a centrifuge:
 
 Would you like to calculate the time difference for a specific centrifuge speed and radius? 🚀
 
+
+---
+
+[README-centrafuge-and-lorentz.md](https://t2m.io/USwDsUi)

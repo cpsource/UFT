@@ -100,3 +100,7 @@ To validate this mechanism:
 
 Would you like to explore a numerical simulation or visualization of this process? 🚀
 
+
+---
+
+[README-subspace-spin.md](https://t2m.io/aDCJ9EB)

@@ -78,3 +78,7 @@ The additional energy comes from the **relativistic kinetic energy** due to the 
 
 Would you like me to work out an example with specific numbers (e.g., shell velocity and rest mass)? I can plug in values and calculate the energy for both frames step by step! 🚀
 
+
+---
+
+[README-extra-energy.md](https://t2m.io/mKgkCic)

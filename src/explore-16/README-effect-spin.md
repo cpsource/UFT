@@ -112,3 +112,7 @@ To observe the effects of subspace spin alignment:
 
 Would you like to explore specific mathematical models or propose experiments for detecting spin alignment in subspace? 🚀
 
+
+---
+
+[README-heavy-vs-light-elements.md](https://t2m.io/r1ur5zX)

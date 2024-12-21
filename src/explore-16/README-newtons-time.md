@@ -77,3 +77,7 @@ Newton’s approach was highly introspective and self-driven:
 
 Newton's time management and singular focus helped shape modern science. By breaking his day into activities that complemented each other, he built a legacy unmatched in breadth and depth. Would you like to explore a modern "Newton-inspired" schedule for maximizing productivity? 😊
 
+
+---
+
+[README-my-secret-weapon.md](https://t2m.io/uR9nF49)

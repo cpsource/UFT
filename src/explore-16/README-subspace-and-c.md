@@ -98,3 +98,7 @@ If light's speed arises from sub-space transfer dynamics, we might test this ide
 
 Would you like to explore mathematical models of this transfer function or dive deeper into how this might unify with known physics? 🚀
 
+
+---
+
+[README-c-is-variable-in-subspace.md](https://t2m.io/yfoR63v)

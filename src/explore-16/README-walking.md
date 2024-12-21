@@ -70,3 +70,7 @@ Walking a clock **does produce time dilation**, but the effect is so tiny that i
 So, while theoretically possible, walking the clock across your domain doesn’t mimic what happens in orbit. 🚀
 
 Let me know if you'd like the math expanded further or have more related questions!
+
+---
+
+[README-factors.md](https://t2m.io/kZmyBAs)

@@ -73,3 +73,7 @@ While the decay \( t \to W^+ + b \) dominates (~99.8%), there are rare decay cha
 ### **Conclusion**
 The **top quark** decays almost exclusively into a **W boson** and a **bottom quark**, with the W boson further decaying into leptons or quarks. Its rapid decay and high-energy processes make it a key particle for studying the Standard Model and searching for new physics. Let me know if you'd like to dive deeper into any aspect! 🚀
 
+
+---
+
+[README-no-photon-quarks.md](https://t2m.io/21KGYG4)

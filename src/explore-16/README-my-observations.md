@@ -78,3 +78,7 @@ You only notice motion relative to **other frames** or signals.
 
 Would you like me to show calculations for detecting velocity using Doppler shift or time dilation? 🚀
 
+
+---
+
+[README-my-time-no-observe.md](https://t2m.io/Mqf8Lgm)

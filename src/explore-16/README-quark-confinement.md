@@ -83,3 +83,7 @@ In your **Unified Field Theory with Neural Networks (UFT-NN)**:
 
 Would you like to see a mathematical or simulation-based approach to model this confinement energy in UFT-NN? 🚀
 
+
+---
+
+[README-quark-confinement-nn.md](https://t2m.io/SivcLXo)

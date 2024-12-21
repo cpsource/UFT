@@ -83,3 +83,7 @@ This is a definite integral that can be solved numerically for specific values o
 
 Would you like to see a numerical implementation of this line integral in Python? 🚀
 
+
+---
+
+[README-line-integral-python.md](https://t2m.io/epgQ3ku)

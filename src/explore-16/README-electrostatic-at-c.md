@@ -66,3 +66,7 @@ From the **UFT-NN framework**:
 
 Would you like to explore this with a simulation or an example scenario? 🚀
 
+
+---
+
+[README-em-waves.md](https://t2m.io/kjo5MH9)

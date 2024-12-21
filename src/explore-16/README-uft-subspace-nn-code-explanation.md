@@ -28,3 +28,7 @@ Here’s a Python implementation of the **hybrid transfer function model** you r
 
 You can run this script, modify the test cases, or adjust \( \alpha \) and \( \gamma \) to observe how the hybrid model behaves under different conditions. Let me know if you'd like further extensions or optimizations! 🚀
 
+
+---
+
+[README-hybrid-transfer-function.md](https://t2m.io/ZwhVNK9)

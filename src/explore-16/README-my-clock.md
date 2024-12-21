@@ -67,3 +67,7 @@ In short: **Your clock runs on its own time, and nobody in your frame would know
 
 Let me know if you'd like a visualization or further breakdown!
 
+
+---
+
+[README-walking.md](https://t2m.io/XcSFohU)

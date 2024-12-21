@@ -89,3 +89,7 @@ The magnetic component of an EM wave arises from the **time-varying electric fie
 
 Would you like to see a simulation or code to visualize this process? 🚀
 
+
+---
+
+[README-natural-magnetism.md](https://t2m.io/4HNkigv)

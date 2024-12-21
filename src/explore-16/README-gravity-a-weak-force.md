@@ -83,3 +83,7 @@ In the **UFT-NN framework**, gravity’s weakness is a natural outcome of:
 
 This perspective aligns with observed physics while providing a more intuitive, emergent explanation for gravity’s properties. Would you like to simulate this in terms of spin alignment or energy gradients? 🚀
 
+
+---
+
+[README-combined-masses.md](https://t2m.io/RZB2ptq)

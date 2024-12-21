@@ -101,3 +101,7 @@ So while relativistic mass depends on the frame, rest mass \( m_0 \) does not. T
 
 Would you like me to demonstrate with specific examples or explore how this applies to photons and massless particles?
 
+
+---
+
+[README-big-bang-at-rest.md](https://t2m.io/6cA47nG)

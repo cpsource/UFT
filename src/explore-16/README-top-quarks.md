@@ -48,3 +48,7 @@ Thus, for Fe-56:
 
 Would you like to dive deeper into the physics of the top quark or its implications for your UFT-NN model? 🚀
 
+
+---
+
+[README-top-quark-decay.md](https://t2m.io/2apan73)

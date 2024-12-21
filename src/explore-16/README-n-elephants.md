@@ -109,3 +109,7 @@ v_{\text{rel}} = \frac{v_{\text{total}, n} - v_{\text{total}, n_1}}{1 - \frac{v_
 
 Let me know if you'd like further clarification or a code implementation! 🚀
 
+
+---
+
+[README-stationary-observer.md](https://t2m.io/QEreMqT)

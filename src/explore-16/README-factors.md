@@ -108,3 +108,7 @@ However, when you compare your clock to another (e.g., a clock on Earth after or
 
 Let me know if you'd like examples with actual numbers or further clarifications! 🚀
 
+
+---
+
+[README-centrafuge.md](https://t2m.io/CEJ1tS6)

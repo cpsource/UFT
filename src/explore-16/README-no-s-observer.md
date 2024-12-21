@@ -111,3 +111,7 @@ Thus, the **velocity of \( E_1 \) relative to \( E_3 \)** is approximately \( 0.
 
 This approach keeps everything **relative** between the moving frames and avoids depending on an absolute stationary observer \( S \). Let me know if you'd like me to write a Python script for these calculations! 🚀
 
+
+---
+
+[README-my-S.md](https://t2m.io/cAixtdi)

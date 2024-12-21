@@ -93,3 +93,7 @@ This model has profound implications for understanding the universe:
 
 Would you like to expand this into a mathematical model or a simulation framework? 🚀
 
+
+---
+
+[README-protons-and-neutrons.md](https://t2m.io/iWMe5F4)

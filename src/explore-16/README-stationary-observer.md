@@ -62,3 +62,7 @@ The **stationary observer \( S \)**:
 
 If you want a visual diagram or further clarification, let me know!
 
+
+---
+
+[README-no-s-observer.md](https://t2m.io/fSiGbgK)

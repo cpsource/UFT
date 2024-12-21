@@ -71,3 +71,7 @@ If photons were absorbed and re-emitted more significantly in the vacuum:
 
 Would you like to dive deeper into vacuum polarization, the Casimir effect, or related phenomena? 🚀
 
+
+---
+
+[README-subspace-and-c.md](https://t2m.io/EGFJXD9)

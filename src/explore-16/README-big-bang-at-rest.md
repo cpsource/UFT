@@ -78,3 +78,7 @@ In short:
 
 Let me know if you'd like me to expand on any part of this! 🚀
 
+
+---
+
+[README-big-bang-info.md](https://t2m.io/4Z59hf7)

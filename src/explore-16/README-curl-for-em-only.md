@@ -117,3 +117,7 @@ In the **Unified Field Theory with Neural Networks (UFT-NN)**:
 
 Would you like to explore a simulation of gravitational field dynamics under the UFT-NN framework? 🚀
 
+
+---
+
+[README-curl-no-maxwell.md](https://t2m.io/LRCmS2U)

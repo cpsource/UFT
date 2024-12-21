@@ -77,3 +77,7 @@ In the **UFT-NN framework**, the similarity could be interpreted as:
 
 Would you like to see how Coulomb's Law and gravity might unify under this framework? 🚀
 
+
+---
+
+[README-coulomb-and-distance.md](https://t2m.io/5Mc0Qwg)

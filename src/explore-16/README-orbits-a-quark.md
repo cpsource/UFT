@@ -67,3 +67,7 @@ Would you like to explore:
 - Different orbital velocities for the quark?
 - Consideration of non-gravitational forces like the strong interaction? 🚀
 
+
+---
+
+[README-diameter-of-quark.md](https://t2m.io/SP48eTC)

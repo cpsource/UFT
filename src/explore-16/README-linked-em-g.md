@@ -99,3 +99,7 @@ In short: we’ve built a **foundation** that could be the starting point for ac
 
 Would you like to take the next step with simulations, a deeper mathematical exploration, or even experimental proposals? 🚀
 
+
+---
+
+[README-next-steps.md](https://t2m.io/ivpQ8gY)

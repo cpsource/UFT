@@ -107,3 +107,7 @@ If you are on the edge of a centrifuge accelerating in angular velocity:
 ### Would You Like a Numerical Example?
 I can calculate the actual time difference between two clocks for a specific angular velocity \( \omega \), radius \( r \), and spinning duration. Let me know if you’d like me to work this out! 🚀
 
+
+---
+
+[README-observed-energy.md](https://t2m.io/FZttmTZ)

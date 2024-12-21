@@ -56,3 +56,7 @@ v_1 \approx 1.62 \times 10^{-11} \, \text{m/s}.
 
 Would you like to explore the role of the strong nuclear force at this scale instead? 🚀
 
+
+---
+
+[README-local-warpage-of-vacuum-space.md](https://t2m.io/kWaOh35)

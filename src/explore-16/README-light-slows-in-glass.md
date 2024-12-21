@@ -93,3 +93,7 @@ When light transitions from one medium to another (e.g., air to glass), its spee
 
 Would you like me to expand on any part of this or provide a mathematical example? 🚀
 
+
+---
+
+[README-light-absorbs-and-reemitted.md](https://t2m.io/U5H0Otd)

@@ -76,3 +76,7 @@ In the UFT-NN model:
 
 Would you like to model this warping mathematically in terms of a transfer function for sub-space? 🚀
 
+
+---
+
+[README-local-warpage-of-vacuum-space-math.md](https://t2m.io/s3wU3hH)

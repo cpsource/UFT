@@ -76,3 +76,7 @@ v_1 = \sqrt{\frac{(6.674 \times 10^{-11}) \cdot (5.972 \times 10^{24})}{7 \times
 
 Would you like to expand this to include elliptical orbits, relativistic effects, or numerical simulation of orbits? 🚀
 
+
+---
+
+[README-orbits-no-m1.md](https://t2m.io/P3YuMEs)

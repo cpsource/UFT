@@ -114,3 +114,7 @@ Understanding the nonlinearities in gravitational interactions is crucial for:
 
 Would you like to simulate these nonlinear effects using spin alignment fields in Python? 🚀
 
+
+---
+
+[README-effective-masses.md](https://t2m.io/Z7cXha4)

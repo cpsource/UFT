@@ -44,3 +44,7 @@ Print["The symbolic result of the line integral is: ", SymbolicResult]
 
 Would you like me to simplify the symbolic result or explore specific parameter values? 🚀
 
+
+---
+
+[README-sigmo-lorentz-function-gravity.md](https://t2m.io/cBwNJJB)

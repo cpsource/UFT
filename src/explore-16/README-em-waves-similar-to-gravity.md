@@ -97,3 +97,7 @@ The "pushback" effect for accelerating masses in gravitational fields and accele
 
 Would you like to explore this idea with simulations of accelerating charges and masses? 🚀
 
+
+---
+
+[README-curl-for-em-only.md](https://t2m.io/nZMvz0L)

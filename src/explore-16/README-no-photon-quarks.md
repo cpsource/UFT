@@ -55,3 +55,7 @@ Photons are fundamentally different from particles like protons, neutrons, and m
 
 Let me know if you'd like to explore photon interactions or their role in the universe further! 🚀
 
+
+---
+
+[README-all-quarks-summary.md](https://t2m.io/nbeEDEq)

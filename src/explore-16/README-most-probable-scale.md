@@ -74,3 +74,7 @@ Bulk matter interactions tend to average out individual subspace effects, making
 ### **Next Steps**
 If we are prioritizing **probability**, focusing on **subatomic and atomic scales** is key to understanding subspace spin interactions. Would you like to explore experimental setups or computational models for these scales? 🚀
 
+
+---
+
+[README-pb-and-na.md](https://t2m.io/EtoAWoS)

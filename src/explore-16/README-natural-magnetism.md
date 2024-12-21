@@ -97,3 +97,7 @@ Magnetism might arise from:
 
 Would you like to simulate a moving charge's interaction with sub-space spins to visualize how magnetism might emerge? 🚀
 
+
+---
+
+[README-em-waves-similar-to-gravity.md](https://t2m.io/peXWwRa)

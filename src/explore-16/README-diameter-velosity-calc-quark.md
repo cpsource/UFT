@@ -80,3 +80,7 @@ The orbital radius for an up quark, depending on the velocity:
 - These radii are extraordinarily small, emphasizing that gravitational effects are negligible compared to other forces (e.g., the strong nuclear force) at subatomic scales.
 
 Would you like to simulate this numerically or explore relativistic corrections further? 🚀
+
+---
+
+[README-capture-velosity-of-quark.md](https://t2m.io/0ehrkPk)

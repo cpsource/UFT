@@ -87,3 +87,7 @@ The UFT-NN framework provides insights that can be tested:
 
 Would you like to see this formalized into a mathematical or computational model for simulation? 🚀
 
+
+---
+
+[README-negative-energy.md](https://t2m.io/WxwR10N)

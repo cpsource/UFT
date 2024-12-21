@@ -100,3 +100,7 @@ Imagine sub-space as a **network** of nodes processing the particle’s state:
 
 Would you like to explore a mathematical model for this or discuss how sub-space might govern mass-energy equivalence? 🚀
 
+
+---
+
+[README-best-transfer-function.md](https://t2m.io/6AoKNrP)

@@ -83,3 +83,7 @@ In this analogy:
 - Light moves "straight" on the curved surface, but to us it appears to follow a curved path.
 
 Would you like me to demonstrate gravitational lensing with a diagram or expand further with equations? 🚀
+
+---
+
+[README-light-slows-in-glass.md](https://t2m.io/OCQEDkr)

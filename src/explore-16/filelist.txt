@@ -1,3 +1,5 @@
+# Note - this has been merged to UFT
+
 # Dec 17th
 README-derive-lorentz-transformation.md
 README-mass-increase.md

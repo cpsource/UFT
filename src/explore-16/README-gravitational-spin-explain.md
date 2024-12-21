@@ -67,3 +67,7 @@ If \( S \) represents the **gravitational field** or a **spin field** in sub-spa
 
 Would you like to explore divergence and curl through mathematical examples or simulations? 🚀
 
+
+---
+
+[README-explain-nabla.md](https://t2m.io/yex5vOC)

@@ -95,3 +95,7 @@ Spin might emerge in sub-space due to:
 
 Would you like to simulate sub-space spin interactions to visualize these ideas? 🚀
 
+
+---
+
+[README-subspace-spin-emerges-part2.md](https://t2m.io/WsdbhpM)

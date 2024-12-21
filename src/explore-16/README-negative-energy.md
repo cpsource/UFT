@@ -102,3 +102,7 @@ Yes, in vacuum space:
 
 Would you like a simulation or visualization of how energy wells might form in UFT-NN? 🚀
 
+
+---
+
+[README-energy-well.md](https://t2m.io/m6GYG0u)

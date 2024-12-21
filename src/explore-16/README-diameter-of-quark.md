@@ -43,3 +43,7 @@ This is purely speculative but aligns with current experimental constraints.
 
 Would you like to explore the experimental methods or theories that probe the size of quarks further? 🚀
 
+
+---
+
+[README-diameter-velosity-calc-quark.md](https://t2m.io/NiwTid7)

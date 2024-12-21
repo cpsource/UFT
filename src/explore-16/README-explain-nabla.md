@@ -98,3 +98,7 @@ In Cartesian coordinates:
 
 Would you like examples applied to a specific physical scenario, such as gravitational fields or electromagnetism? 🚀
 
+
+---
+
+[README-why-matter-interacts-with-subspace.md](https://t2m.io/Xdq4vFO)

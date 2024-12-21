@@ -106,3 +106,7 @@ Spin might emerge from the **interplay of charge, magnetism, and gravity**, medi
 
 Would you like to simulate or model these interactions numerically? 🚀
 
+
+---
+
+[README-subspace-spin-around-energy-well.md](https://t2m.io/CxHmVGu)

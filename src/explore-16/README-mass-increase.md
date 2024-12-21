@@ -101,3 +101,7 @@ To account for the mass increase as an object approaches \( c \):
 
 Would you like assistance implementing this in code or expanding on specific parts?
 
+
+---
+
+[README-time-dialation.md](https://t2m.io/vroTUne)

@@ -97,3 +97,7 @@ Would you like to:
 1. Simulate how \( \Delta m_\text{spin} \) varies with different spin alignments or transfer functions?
 2. Model how radiative asymmetries influence the gravitational force for nearby and far objects? 🚀
 
+
+---
+
+[README-charge-wire-and-electron.md](https://t2m.io/Z1anrPS)

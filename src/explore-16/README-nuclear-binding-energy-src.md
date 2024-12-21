@@ -59,3 +59,7 @@ The binding energy is stored in the nucleus as the **potential energy** of the n
 ### **Summary**
 The nuclear binding energy comes from the conversion of mass into energy as nucleons are bound by the **strong nuclear force**. It represents the energy required to separate a nucleus into its individual protons and neutrons. This energy is critical for understanding nuclear stability, reactions, and the massive energy release in stars and nuclear reactors.
 
+
+---
+
+[README-nuclear-binding-energy-src-no-mass.md](https://t2m.io/z6tq3sB)

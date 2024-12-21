@@ -46,3 +46,7 @@ Imagine two objects in space:
 ### **Summary**
 Nuclear binding energy is the **energy stored in the configuration of the strong nuclear force field** when nucleons are bound together. It represents the energy needed to overcome this field and separate the nucleons into an unbound state. This explanation relies solely on the dynamics of forces and energy, avoiding references to mass altogether.
 
+
+---
+
+[README-self-defined-mass.md](https://t2m.io/StkkuGW)

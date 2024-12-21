@@ -68,3 +68,7 @@ In the context of your **UFT sub-space model**:
 
 Would you like to experiment with specific parameter values or analyze the result further? 🚀
 
+
+---
+
+[README-line-integral-wolfram.md](https://t2m.io/yNcFvDR)

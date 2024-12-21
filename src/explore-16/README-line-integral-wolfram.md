@@ -48,3 +48,7 @@ Print["The result of the line integral is: ", LineIntegralResult]
 
 Would you like help tweaking the code for a more specific scenario? 🚀
 
+
+---
+
+[README-line-integral-symbolic.md](https://t2m.io/uYr906H)
