@@ -79,3 +79,7 @@ The **bond energy** is the amount of energy required to break a specific chemica
 
 Would you like a detailed calculation or example for either energy type?
 
+
+---
+
+[README-bond-emergu.md](https://t2m.io/j3KOJLs)

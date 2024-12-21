@@ -2,3 +2,7 @@ Mike's Toolbox is a C++ software library offering essential components for robus
 
 For more information, visit the GitHub repository: [Mike's Toolbox](https://github.com/mikestoolbox/mikestoolbox-1.2). 
 
+
+---
+
+[README-lapack.md](https://t2m.io/01ND7Np)

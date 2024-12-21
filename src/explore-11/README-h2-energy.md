@@ -59,3 +59,7 @@ E_{\text{total}} = 1877.566 \, \text{MeV} - 0.0317 \, \text{MeV} - 0.004478 \, \
 - At higher temperatures, rotational and vibrational energies become significant but remain small compared to the rest energy.
 
 Would you like to delve deeper into any specific component of \( \text{H}_2 \)’s energy, such as rotational-vibrational modes or electron interactions?
+
+---
+
+[README-o2-energy.md](https://t2m.io/HLfohVU)

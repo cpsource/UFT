@@ -141,3 +141,7 @@ If your simulator is highly graphical and game-like, you might consider using a 
 
 Would you like help setting up one of these libraries, or suggestions for integrating them into a project?
 
+
+---
+
+[README-eigen.md](https://t2m.io/LTsR7Os)

@@ -93,3 +93,7 @@ The system’s **total energy (mass + energy)** is conserved, but the energy cha
 
 Would you like to explore a specific reaction or binding process in detail?
 
+
+---
+
+[README-fission-energy.md](https://t2m.io/Jurg6xh)

@@ -85,3 +85,7 @@ The total energy of the \( \text{H}_2\text{O} \) molecule includes:
 
 Would you like to dive deeper into specific aspects, such as rotational-vibrational modes or how this compares to combustion energy?
 
+
+---
+
+[README-h2o-energy-summary.md](https://t2m.io/HCjVQYX)

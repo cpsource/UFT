@@ -40,3 +40,7 @@ Yes, I'm familiar with the Hubble prediction, which primarily refers to **Hubble
 
 Would you like to dive deeper into a specific aspect of the Hubble prediction, such as its implications for your Unified Field Theory (UFT), or explore related cosmological concepts?
 
+
+---
+
+[README-lambda-cdm.md](https://t2m.io/6t8UefW)

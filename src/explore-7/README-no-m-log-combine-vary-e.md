@@ -105,3 +105,7 @@ Precession rate becomes irrelevant in the absence of gravity.
 
 Would you like to explore scenarios where \(E_{rot}\) changes dynamically or incorporate other forces (e.g., electromagnetic)? 😊
 
+
+---
+
+[README-no-m-log-combine-vary-e-examined.md](https://t2m.io/YeGihRV)

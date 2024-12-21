@@ -81,3 +81,7 @@ External conditions can influence the degree of synchronization:
 
 Would you like to explore specific synchronized behaviors, such as phonon modes or dipole interactions, in more detail?
 
+
+---
+
+[README-ice-freezing-in-magnetic-field.md](https://t2m.io/ZNo4VY3)

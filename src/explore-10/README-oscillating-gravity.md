@@ -115,3 +115,7 @@ This force exhibits:
 
 Would you like to explore mathematical modeling, observational tests, or implications for unified field theory?
 
+
+---
+
+[README-standing-waves-electron-shells.md](https://t2m.io/4EzZM0i)

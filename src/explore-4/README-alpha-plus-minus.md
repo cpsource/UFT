@@ -85,3 +85,7 @@ Here, \(\ln(\alpha^{-1}) > 0\), so \(\log_{\alpha^{-1}}(x)\) grows more graduall
 
 Would you like to dive deeper into specific applications of these bases? 😊
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

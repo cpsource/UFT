@@ -94,3 +94,7 @@ E = \frac{i (9 \times 10^{16})}{\sqrt{3}} \approx i \cdot 5.20 \times 10^{16} \,
 ### **Conclusion**:
 If \(v > c\), the Lorentz factor and energy become complex, which is a mathematical indication that such speeds are **not physically possible** for objects with mass. This aligns with the principles of relativity.
 
+
+---
+
+[README-vgtc-integrate.md](https://t2m.io/1Xtrcyd)

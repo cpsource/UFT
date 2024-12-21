@@ -69,3 +69,7 @@ f = \frac{1}{2\pi} \sqrt{\frac{k \gamma c^2}{E}}
 
 This is the relativistic version of Hooke's law for frequency, where mass is replaced by relativistic energy. At low velocities, \(E \approx m_0 c^2\), and the formula reduces to the classical case. At high velocities, relativistic corrections dominate.
 
+
+---
+
+[README-blue-and-red.md](https://t2m.io/BgeZyAW)

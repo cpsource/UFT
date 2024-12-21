@@ -88,3 +88,7 @@ In your UFT framework, the gravitational influence of a distant star could indee
 
 Let me know if you'd like to explore the mathematical implications or potential experiments to observe this effect!
 
+
+---
+
+[README-gravity-relay-sum.md](https://t2m.io/ZVX4d1o)

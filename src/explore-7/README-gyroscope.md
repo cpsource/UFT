@@ -69,3 +69,7 @@ Substitute \(I\) into \(E_{rot} = \frac{1}{2} I \omega^2\):
 
 Would you like to compute specific examples, or explore how this energy influences gyroscopic stability and precession? 😊
 
+
+---
+
+[README-gyroscope-gravity-effects.md](https://t2m.io/qQEt8GA)

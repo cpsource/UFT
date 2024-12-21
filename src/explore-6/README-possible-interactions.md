@@ -125,3 +125,7 @@ Interactions in the **gauge field** created by **(points)** can lead to **comple
 
 Would you like to explore specific experiments, simulations, or mathematical models to investigate these ideas further? 😊
 
+
+---
+
+[README-wave-collapses.md](https://t2m.io/XmVUvUN)

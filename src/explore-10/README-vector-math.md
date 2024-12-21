@@ -154,3 +154,7 @@ for step in range(100):  # 100 time steps
 2. Use the simulation to observe emergent patterns, then analyze those patterns mathematically to refine the rules.
 
 Would you like help implementing a specific interaction rule or exploring how to incorporate emergent behaviors into your simulation?
+
+---
+
+[README-vector-math-sim.md](https://t2m.io/Pk3iQBy)

@@ -44,3 +44,7 @@ The emitted power of a laser often fluctuates slightly over time, usually follow
 
 If you're looking for highly precise values for a specific laser, these can be found in the datasheet provided by the manufacturer or measured experimentally with appropriate equipment. Would you like help with modeling this in terms of Gaussian distributions or performing further analysis?
 
+
+---
+
+[README-broadening.md](https://t2m.io/YurPa1B)

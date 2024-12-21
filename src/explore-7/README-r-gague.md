@@ -102,3 +102,7 @@ Would you like to:
 2. Explore how these oscillations could lead to macroscopic phenomena like gravity or mass?
 3. Investigate the implications of resonance or interference effects?
 
+
+---
+
+[README-gague-math.md](https://t2m.io/nf2xxKy)

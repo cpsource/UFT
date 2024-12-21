@@ -74,3 +74,7 @@ Adding these gives:
 
 Would you like further clarification or numerical verification? 😊
 
+
+---
+
+[README-alphaton-properties.md](https://t2m.io/X04kjHc)

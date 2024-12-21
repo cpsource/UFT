@@ -137,3 +137,7 @@ Here’s an outline for deriving gravity-like effects step by step:
 
 This approach keeps the framework clean and principled while allowing for rich emergent behaviors. Would you like to refine specific rules or test this with a practical simulation example?
 
+
+---
+
+[README-massive-gravity-theory.md](https://t2m.io/Deiz2Zd)

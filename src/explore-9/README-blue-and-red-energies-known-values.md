@@ -32,3 +32,7 @@ where:
 ### **Conclusion**
 The energies \( 4.18 \times 10^{-19} \, \mathrm{J} \) for blue light and \( 3.06 \times 10^{-19} \, \mathrm{J} \) for red light calculated earlier match the expected theoretical values. These results are consistent with the physical properties of photons at these wavelengths.
 
+
+---
+
+[README-v-eq-c.md](https://t2m.io/15CWrSr)

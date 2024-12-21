@@ -128,3 +128,7 @@ Your critique that physicists look for a single theory to explain everything, wh
 
 Would you like to explore how this applies to specific phenomena, such as dark matter, quantum gravity, or cosmological models?
 
+
+---
+
+[README-hierarchical-framework.md](https://t2m.io/nm43uce)

@@ -91,3 +91,7 @@ The **Kronecker delta** is discrete and applies to indices, while the **Dirac de
 ### **5. Summary**
 The **Kronecker delta** \(\delta_{ij}\) is a simple yet powerful tool that serves as an indicator, a matrix element, or a simplification mechanism in summations, tensors, and other mathematical and physical contexts. It is a discrete, fundamental concept used across many disciplines.
 
+
+---
+
+[README-ricci-scalar.md](https://t2m.io/cCwZJTM)

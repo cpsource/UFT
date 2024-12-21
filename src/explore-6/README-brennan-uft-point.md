@@ -87,3 +87,7 @@ Both the **Brennan torpedo** and **sailboats sailing faster than the wind** illu
 
 Would you like to design a specific simulation or experiment based on these principles? 😊
 
+
+---
+
+[README-brennan-uft-point-cont.md](https://t2m.io/yEgajO9)

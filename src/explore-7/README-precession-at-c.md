@@ -78,3 +78,7 @@ While \(\omega \to \infty\) creates intriguing theoretical scenarios (infinite a
 
 Would you like to explore a specific scenario (e.g., relativistic gyroscopes or gravitational effects at extreme angular momentum)? 😊
 
+
+---
+
+[README-r-to-zero.md](https://t2m.io/oHp2VTs)

@@ -69,3 +69,7 @@ The behavior depends on whether **moment of inertia (\(I\))** is allowed to chan
 
 Would you like to explore fixed or variable inertia scenarios further, or examine energy limits on spin? 😊
 
+
+---
+
+[README-no-m-log-combine-vary-and-compensate.md](https://t2m.io/s5WBW41)

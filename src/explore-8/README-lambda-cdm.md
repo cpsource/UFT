@@ -74,3 +74,7 @@ The Lambda-CDM model describes the energy density of the universe as being compo
 
 Would you like to explore the Lambda-CDM model in the context of your Unified Field Theory (UFT) or focus on any specific aspect, like the role of dark matter, dark energy, or the Hubble tension?
 
+
+---
+
+[README-sigma-eight.md](https://t2m.io/p6tsROv)

@@ -78,3 +78,7 @@ Freezing water in a spinning disc is analogous to:
 
 Would you like to explore simulations or mathematical models for such freezing dynamics?
 
+
+---
+
+[README-ice-hexagon.md](https://t2m.io/P8zPn8a)

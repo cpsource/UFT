@@ -106,3 +106,7 @@ A "less stable" system is like a compressed spring or a stretched rubber band—
 
 Would you like to see energy calculations or specific examples for stability transitions?
 
+
+---
+
+[README-freezing.md](https://t2m.io/f9jZOXN)

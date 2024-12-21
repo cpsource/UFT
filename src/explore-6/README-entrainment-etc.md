@@ -107,3 +107,7 @@ Both **entrainment** and **resonant frequencies** are highly relevant to the **(
 
 Would you like to incorporate these ideas into your simulation or explore specific scenarios where resonance and entrainment dominate? 😊
 
+
+---
+
+[README-entrainment-and-phase.md](https://t2m.io/qBqAHk8)

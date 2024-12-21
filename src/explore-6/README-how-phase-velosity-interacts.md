@@ -81,3 +81,7 @@ These effects arise because the phase velocity controls **how energy carried by 
 
 Would you like to explore how to model these interactions or simulate specific phenomena in your framework? 😊
 
+
+---
+
+[README-is-phase-velosity-real.md](https://t2m.io/b4t5a21)

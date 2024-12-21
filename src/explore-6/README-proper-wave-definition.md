@@ -13,3 +13,7 @@ Where:
 
 These terms fully define the wave's behavior, including its **phase velocity** (\(v_p = \frac{\omega}{k}\)) and **group velocity**.
 
+
+---
+
+[README-proper-wave-definition-part2.md](https://t2m.io/WOhegkL)

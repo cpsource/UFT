@@ -80,3 +80,7 @@ The observable universe was approximately **1 light-year across** about **0.0115
 
 Let me know if you'd like to dive deeper into the cosmological implications!
 
+
+---
+
+[README-regional-gravity.md](https://t2m.io/HfSsUaN)

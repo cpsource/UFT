@@ -105,3 +105,7 @@ Let’s explore how **phase velocity** and **group velocity** might relate to th
 
 Would you like to simulate specific scenarios where \(v_p > v_g\) in the gauge field or explore experimental setups to detect such effects? 😊
 
+
+---
+
+[README-superluminal.md](https://t2m.io/fMSzhMR)

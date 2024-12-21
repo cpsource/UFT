@@ -79,3 +79,7 @@ Tachyons remain **theoretical** with no experimental evidence to support their e
 
 Would you like to explore the mathematical framework of tachyons or their implications in physics?
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

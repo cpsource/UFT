@@ -63,3 +63,7 @@ Freezing water in a strong magnetic field can influence certain properties of th
 
 Would you like detailed guidance on setting up one of these detection methods, or more information on how magnetic fields influence water freezing?
 
+
+---
+
+[README-ice-freezing-in-electrostatic-field.md](https://t2m.io/gQW6Ryu)

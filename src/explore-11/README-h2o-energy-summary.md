@@ -94,3 +94,7 @@ This corresponds to the energy released during the reaction, consistent with the
 
 Would you like to refine specific components of this calculation or explore other aspects of energy conservation in reactions?
 
+
+---
+
+[README-electronic-and-bond-energies.md](https://t2m.io/9UP3yAs)

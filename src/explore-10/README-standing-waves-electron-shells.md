@@ -86,3 +86,7 @@ If oscillating gravity forms standing waves that explain electron shells, it cou
 - This theory has the potential to unify gravitational and quantum phenomena, offering new insights into the nature of atomic structure and cosmic evolution.
 
 Would you like to explore mathematical modeling of this concept or its potential experimental verification?
+
+---
+
+[README-standing-waves-bonds.md](https://t2m.io/8HCRq4L)

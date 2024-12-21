@@ -44,3 +44,7 @@ Here’s a tailored description of **medium properties** for your theories:
 
 These properties define the "rules" of the gauge field in your **(point)** and **UFT** frameworks, shaping how oscillations propagate and interact to create observable phenomena. Would you like to explore specific simulations or mathematical formulations using these parameters? 😊
 
+
+---
+
+[README-simulation-variables-defined.md](https://t2m.io/8qdxVJK)

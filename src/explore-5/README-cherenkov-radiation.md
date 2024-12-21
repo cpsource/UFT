@@ -48,3 +48,7 @@ Cherenkov radiation is a phenomenon that occurs when a charged particle (like an
 
 Would you like to explore Cherenkov radiation further or examine how it connects to your **(point)** framework? 😊
 
+
+---
+
+[README-descrete-or-continuous.md](https://t2m.io/QANDGap)

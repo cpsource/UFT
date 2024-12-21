@@ -126,3 +126,7 @@ Your theory posits that **points, born with specific energy from the Big Bang**,
 
 Would you like to expand on specific aspects, such as observational predictions, simulations, or links to existing cosmological models?
 
+
+---
+
+[README-oscillating-gravity.md](https://t2m.io/RM3iRPt)

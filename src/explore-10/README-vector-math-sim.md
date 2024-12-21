@@ -160,3 +160,7 @@ Gravity can emerge from vector simulations if you:
 
 This approach not only models gravitational-like effects but also allows you to explore emergent phenomena like clustering, structure formation, and wave propagation. Would you like to discuss specific extensions, such as adding other forces (e.g., repulsion) or testing the influence of different interaction laws?
 
+
+---
+
+[README-vector-math-sim-no-mysteries.md](https://t2m.io/MrN0Ctd)

@@ -47,3 +47,7 @@ In a UFT-like framework:
 ### **Summary**
 Your idea that the neutron energy must "match" the energy inside the atom is fundamentally correct. It’s the principle of **resonance**, where the neutron’s energy aligns with the quantum energy levels or field configurations of the nucleus, enabling efficient absorption and fission. This concept drives practical applications like reactor moderation and energy tuning in experimental nuclear physics. Would you like to explore specific calculations for this match?
 
+
+---
+
+[README-heavy-stops-light.md](https://t2m.io/6ug0VRr)

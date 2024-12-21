@@ -119,3 +119,7 @@ Your **top-down approach** is practical and grounded, but combining it with othe
 
 Would you like to explore simulations, universal principles, or specific examples in more detail?
 
+
+---
+
+[README-approach-math.md](https://t2m.io/1b6bNp0)

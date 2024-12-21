@@ -85,3 +85,7 @@ Casimir forces are a quantum mechanical effect arising from vacuum fluctuations 
 
 Would you like to dive deeper into experimental setups, mathematical derivations, or specific applications?
 
+
+---
+
+[README-uft-barrier.md](https://t2m.io/nSns3EH)

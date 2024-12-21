@@ -63,3 +63,7 @@ This equation shows that **energy (\(E\)) is inversely proportional to wavelengt
 ### **Summary**
 Short wavelengths carry more energy because energy is inversely proportional to wavelength. High-frequency (short-wavelength) waves oscillate more quickly, packing more energy into each photon. This principle underpins phenomena ranging from the electromagnetic spectrum to quantum physics!
 
+
+---
+
+[README-freq-and-energy.md](https://t2m.io/BRCPCiA)

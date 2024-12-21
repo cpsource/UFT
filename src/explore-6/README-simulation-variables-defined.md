@@ -60,3 +60,7 @@ Would you like to:
 
 We’re now at a point where the ideas can move from theory into action. 😊
 
+
+---
+
+[README-entrainment-etc.md](https://t2m.io/5Cq59mg)

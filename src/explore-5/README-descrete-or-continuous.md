@@ -93,3 +93,7 @@ If field effects are continuous:
 
 Would you like to explore specific experiments, simulations, or theoretical models to test discreteness in (point) fields? 😊
 
+
+---
+
+[README-circular-or-radial.md](https://t2m.io/wce9Ksq)

@@ -14,3 +14,7 @@ Engineering: Cymatics has helped design and develop instruments and devices that
 Medicine: Cymatic therapy uses specific frequencies to help heal the body's natural rhythms. [5]
 Art: Cymatics can be used to create art. Some see cymatics as evidence that all things are interconnected. [5]
 
+
+---
+
+[README-vector-calculus.md](https://t2m.io/wHyKWKk)

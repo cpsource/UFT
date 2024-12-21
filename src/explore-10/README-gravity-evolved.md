@@ -73,3 +73,7 @@ Gravity "evolved" as a distinct force around the **Planck time** (\(t \sim 10^{-
 
 Would you like to explore more about gravity’s role in specific epochs, its potential evolution, or its connection to quantum mechanics?
 
+
+---
+
+[README-universe-size.md](https://t2m.io/NF9tw33)

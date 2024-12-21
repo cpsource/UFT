@@ -157,3 +157,7 @@ Simplify:
 
 Would you like to simulate these dynamics or explore specific scenarios, such as the behavior as \(R \to 0\)? 😊
 
+
+---
+
+[README-no-m-log.md](https://t2m.io/zu781ku)

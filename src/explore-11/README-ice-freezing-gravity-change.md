@@ -52,3 +52,7 @@ While gravity remains constant, some other properties of the ice could be affect
 
 Would you like to explore gravitational effects in other scenarios, such as extreme densities or exotic materials?
 
+
+---
+
+[README-ice-angular-momentum.md](https://t2m.io/qdiRSJL)

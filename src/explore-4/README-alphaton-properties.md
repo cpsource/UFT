@@ -61,3 +61,7 @@ because the extra term \(\ln(-4.9205)\) modifies the result.
 
 Would you like to explore the complex-plane behavior or focus on a different aspect of this calculation? 😊
 
+
+---
+
+[README-log-X.md](https://t2m.io/ksB5JYm)

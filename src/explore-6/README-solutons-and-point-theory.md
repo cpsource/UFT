@@ -105,3 +105,7 @@ These conditions would allow soliton-like structures to form, explaining stable 
 
 Would you like to explore simulations of soliton behavior or focus on specific emergent properties, like mass or gravity? 😊
 
+
+---
+
+[README-cymatics.md](https://t2m.io/reKPexU)

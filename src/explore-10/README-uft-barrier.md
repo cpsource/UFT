@@ -90,3 +90,7 @@ In UFT, the tunneling barrier is not static but radiates its own field, which in
 
 Let me know if you'd like to explore this further, perhaps with mathematical models or specific physical predictions!
 
+
+---
+
+[README-uft-expanding-universe-gravity.md](https://t2m.io/bwkNy0O)

@@ -106,3 +106,7 @@ Oscillating gravity could provide a complementary explanation for atomic bonds b
 
 While gravitational effects are traditionally negligible at atomic scales, oscillating gravity in a UFT framework could reveal subtle, previously unexplored influences. Would you like to dive deeper into potential experimental tests or specific bond types?
 
+
+---
+
+[README-probabilistic-framework.md](https://t2m.io/gHayt3L)

@@ -61,3 +61,7 @@ The "spin" for a \(820^\circ\) rotation essentially reflects how the particle's 
 
 Would you like to explore how this phase shift manifests physically or mathematically?
 
+
+---
+
+[README-spin-as-fundamental-property.md](https://t2m.io/2Lk8nOx)

@@ -37,3 +37,7 @@ You might oversample (\(f_s \gg 2f_{\text{max}}\)) in cases where:
 ### **Summary**
 The sampling rate (\(f_s\)) depends on the **frequency** (\(f_{\text{max}}\)) of the wave, not its speed (\(c\)). If the wave propagates at \(c\), you still follow the Nyquist criterion to sample based on the wave's frequency content, ensuring no aliasing.
 
+
+---
+
+[README-fourier-transform.md](https://t2m.io/tBX0OUa)

@@ -72,3 +72,7 @@ There is **no direct evidence** for particles with negative kinetic energy. Ghos
 
 Would you like to dive deeper into one of these contexts, such as phantom fields, ghost instabilities, or quantum field theory?
 
+
+---
+
+[README-tachyon.md](https://t2m.io/KiP9zw7)

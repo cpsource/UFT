@@ -105,3 +105,7 @@ While the Lambda-CDM model remains the standard, modified gravity theories are i
 
 Would you like to explore how modified gravity might fit into your **Unified Field Theory (UFT)** framework, or discuss specific observational predictions of these theories?
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

@@ -78,3 +78,7 @@ The graviton's mass must be extremely small to match observations:
 ### **7. Summary**
 Massive gravity, particularly in the form of the **dRGT theory**, explores the possibility of modifying general relativity by giving the graviton a small mass. This leads to new gravitational behaviors at large distances, with implications for cosmology, gravitational waves, and the nature of spacetime. While theoretically intriguing and experimentally constrained, it remains an area of active research with unresolved questions.
 
+
+---
+
+[README-massive-gravity-theory-cont.md](https://t2m.io/byvtM2P)

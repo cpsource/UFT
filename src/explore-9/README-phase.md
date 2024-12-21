@@ -61,3 +61,7 @@ Here is the **phase spectrum** of the mixed signal, showing the phase (in radian
 
 This phase spectrum reveals the relative shifts between components that the amplitude spectrum cannot show. It demonstrates that phase does matter, particularly for interference and reconstruction of the signal. Let me know if you'd like further clarification!
 
+
+---
+
+[README-purity-of-laser-light.md](https://t2m.io/B1RRdTg)

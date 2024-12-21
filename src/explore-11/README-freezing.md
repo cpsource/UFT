@@ -46,3 +46,7 @@ Freezing releases energy because the system moves to a **more stable, lower-ener
 
 Would you like to explore related processes, like melting or vaporization?
 
+
+---
+
+[README-freezing-more.md](https://t2m.io/nP34KN1)

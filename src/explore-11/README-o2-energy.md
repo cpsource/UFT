@@ -77,3 +77,7 @@ E_{\text{total}} = 29801.4 \, \text{MeV} + 8.176 \, \text{MeV} - 0.15 \, \text{M
 
 Would you like to explore a specific component, such as electronic structure or vibrational modes, in more detail?
 
+
+---
+
+[README-h2o-energy.md](https://t2m.io/MXPe7Yc)

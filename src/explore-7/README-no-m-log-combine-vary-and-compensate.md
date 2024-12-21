@@ -84,3 +84,7 @@ In the context of your **(point)** model:
 
 Would you like to simulate the behavior of such a system or explore the physical constraints in more detail? 😊
 
+
+---
+
+[README-r-gague.md](https://t2m.io/xSiVMbR)

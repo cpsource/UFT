@@ -5,3 +5,7 @@ The energies for the photons of blue light (\( \lambda = 475 \, \mathrm{nm} \)) 
 
 These values align with the fact that blue light photons carry more energy than red light photons due to their shorter wavelength.
 
+
+---
+
+[README-blue-and-red-energies-known-values.md](https://t2m.io/h7zenD0)

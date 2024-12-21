@@ -83,3 +83,7 @@ These additions ensure a complete description of the wave, allowing us to fully 
 
 Would you like to explore specific implications of phase velocity or simulate its role in your framework? 😊
 
+
+---
+
+[README-proper-wave-definition.md](https://t2m.io/4xbzZPO)

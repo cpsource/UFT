@@ -13,3 +13,7 @@ Here is the updated analysis where the blue light has a 30° phase shift relativ
 
 This demonstrates how introducing a phase difference affects the time-domain interference while maintaining the same frequency-domain amplitude representation. Let me know if you'd like a closer look at the phase spectrum or additional details!
 
+
+---
+
+[README-nonlinear-mixing.md](https://t2m.io/9Chmr1e)

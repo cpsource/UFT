@@ -147,3 +147,7 @@ This hybrid approach balances simplicity, flexibility, and explanatory power, en
 
 Would you like help defining simulation rules or deriving equations for a specific aspect of your model?
 
+
+---
+
+[README-vector-math.md](https://t2m.io/wBNqjJZ)

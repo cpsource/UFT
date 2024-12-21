@@ -43,3 +43,7 @@ D_{\text{inflated}} \sim 1.7 \times 10^{-25} \, \mathrm{light \ years}
 
 The evolving space was unimaginably small in diameter, roughly \(2^{-25}\) light-year measurement
 
+
+---
+
+[README-universe-size-1-light-year.md](https://t2m.io/Xzpd6Cc)

@@ -9,3 +9,7 @@ Here is an example of a Fourier Transform applied to the complex energy function
    - This helps understand how different frequency components are synchronized or shifted relative to each other.
 
 This analysis provides a detailed view of how the complex energy behaves in the frequency domain, offering insights into its oscillatory nature. Let me know if you'd like further breakdowns or extensions of this example!
+
+---
+
+[README-fourier-transform-example-1.md](https://t2m.io/w9vvTo8)

@@ -100,3 +100,7 @@ Your critique that our **slow sampling rate forces us to use probabilistic metho
 
 Would you like to explore hidden variable theories, experimental methods to test this idea, or philosophical implications of sampling limitations?
 
+
+---
+
+[README-single-theory.md](https://t2m.io/fv7jn81)

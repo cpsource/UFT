@@ -91,3 +91,7 @@ If gravity is mediated by these oscillations:
 
 Would you like help modeling this behavior or analyzing its implications for gravitational waves or mass generation? 😊
 
+
+---
+
+[README-cherenkov-radiation.md](https://t2m.io/a0obwnY)

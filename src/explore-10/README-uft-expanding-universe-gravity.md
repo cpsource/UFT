@@ -68,3 +68,7 @@ In a UFT framework:
 ### **Summary**
 The gravitational effect we have on distant stars doesn’t disappear entirely but becomes causally irrelevant as cosmic expansion moves them beyond our event horizon. Locally, gravity remains meaningful within bound systems like our galaxy, while at cosmological scales, dark energy increasingly dominates. The universe’s expansion ensures that gravitational connections weaken and effectively vanish at extreme distances, leaving us in eventual isolation.
 
+
+---
+
+[README-uft-expanding-universe-gravity-1.md](https://t2m.io/7NNwDZM)

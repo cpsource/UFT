@@ -87,3 +87,7 @@ The interaction term \(S_{\text{int}}\) is usually constructed to avoid the Boul
 
 Would you like to dive deeper into the mathematical details, experimental tests, or cosmological implications of bimetric gravity?
 
+
+---
+
+[README-quadra-pole.md](https://t2m.io/Frrr5jd)

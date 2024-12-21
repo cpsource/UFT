@@ -72,3 +72,7 @@ A **quadrupole** is a system characterized by a second-order multipole moment th
 
 Would you like to explore specific quadrupole applications, such as gravitational wave physics or quadrupole magnets?
 
+
+---
+
+[README-kronecker-delta.md](https://t2m.io/F3GFWMT)

@@ -84,3 +84,7 @@ To expand an area of the Higgs field while maintaining the same density:
 
 Would you like to explore how this ties into cosmic inflation, field theory, or quantum excitations?
 
+
+---
+
+[README-space-lumpyness.md](https://t2m.io/UndBhKE)

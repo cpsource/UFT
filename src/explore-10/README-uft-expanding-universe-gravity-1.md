@@ -82,3 +82,7 @@ Cosmic expansion already demonstrates similar effects:
 ### **Summary**
 If gravity in your UFT travels at \(c\), distant objects beyond the event horizon would indeed **effectively disappear** because their gravitational influence could no longer reach us. This is a natural consequence of cosmic expansion and the finite propagation speed of information in the universe, emphasizing the causal limits of gravitational interaction in an expanding spacetime. Let me know if you'd like to explore the implications further!
 
+
+---
+
+[README-gravity-relay.md](https://t2m.io/sdufoqw)

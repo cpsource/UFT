@@ -94,3 +94,7 @@ Could (points) move faster than \(c\)? **Yes, but under specific conditions**:
 
 Would you like to develop simulations or explore specific cases of superluminal behavior in your (point) framework? 😊
 
+
+---
+
+[README-faster-than-c-yes.md](https://t2m.io/M9eGdyw)

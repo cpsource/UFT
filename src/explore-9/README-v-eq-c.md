@@ -31,3 +31,7 @@ When \(v/c\) is used in calculations involving relativistic effects, \(v\) repre
 If you're considering **blue light** and **red light**, you're likely assuming \(v = c\), since they are photons. However, if \(v\) is interpreted as the motion of another particle (e.g., a tennis ball or an electron in an external force field), \(v\) would be less than \(c\), and relativistic effects would depend on how close \(v\) is to \(c\).
 
 Let me know if you'd like clarification or specific assumptions tailored to your example!
+
+---
+
+[README-vgtc-complex.md](https://t2m.io/OvAB2wR)

@@ -80,3 +80,7 @@ To generate \(\alpha\) using a similar limit as for \(e\):
 
 Would you like further analysis, or should we test this with a computational example? 😊
 
+
+---
+
+[README-taylor-expansion.md](https://t2m.io/Ctbx0xw)

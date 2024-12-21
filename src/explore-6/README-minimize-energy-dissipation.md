@@ -104,3 +104,7 @@ In your **(point)** framework, these principles could describe how oscillating (
 
 Would you like to explore simulations incorporating these ideas or focus on one phenomenon, such as solitons in the gauge field? 😊
 
+
+---
+
+[README-solutons-and-point-theory.md](https://t2m.io/veSDDFk)

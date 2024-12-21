@@ -77,3 +77,7 @@ Mathematically:
 ### Summary
 The principle "heavy stops light and vice versa" reflects the physics of energy and momentum transfer. Heavy particles retain energy during interactions with light particles, while light particles efficiently absorb energy from heavy ones. This concept is central to many fields, from nuclear reactor design to understanding cosmic processes. Would you like specific examples or calculations for a particular scenario?
 
+
+---
+
+[README-tunneling.md](https://t2m.io/WTkdB9v)

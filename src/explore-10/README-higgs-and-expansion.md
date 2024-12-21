@@ -96,3 +96,7 @@ In the expanding universe, the Higgs field remains constant on large scales due 
 
 Would you like to explore speculative scenarios, such as Higgs interactions with dark energy or its potential instability?
 
+
+---
+
+[README-higgs-thingies.md](https://t2m.io/Fw7RUGJ)

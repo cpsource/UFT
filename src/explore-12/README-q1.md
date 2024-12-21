@@ -26,3 +26,7 @@ If "Wernstein radius" is indeed what you are asking about, it might be a special
 
 Feel free to clarify, and I’ll do my best to help!
 
+
+---
+
+[README-q2.md](https://t2m.io/ppFb3eN)

@@ -101,3 +101,7 @@ As \(r \to 0\):
 
 Would you like to explore the implications of this scenario in quantum or relativistic contexts, or simulate a compact spinning system? 😊
 
+
+---
+
+[README-no-m.md](https://t2m.io/C9OSNO8)

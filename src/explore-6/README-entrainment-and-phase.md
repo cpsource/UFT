@@ -77,3 +77,7 @@ In your **(point)** and **UFT** theories, entrainment with varying phase relatio
 
 Would you like to explore phase dynamics in your simulation or focus on how phase differences influence emergent phenomena? 😊
 
+
+---
+
+[README-minimize-energy-dissipation.md](https://t2m.io/c6BH18i)

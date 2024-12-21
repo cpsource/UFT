@@ -101,3 +101,7 @@ In this fully simplified form:
 
 Would you like to explore dynamic scenarios where these parameters are allowed to vary? 😊
 
+
+---
+
+[README-no-m-log-combine-vary-g.md](https://t2m.io/JC7EbEY)

@@ -110,3 +110,7 @@ Your observation touches on the philosophy of science:
 
 Would you like to explore specific interpretations of quantum mechanics, or the philosophical implications of theory-building further?
 
+
+---
+
+[README-slow-sampling-rate.md](https://t2m.io/yePLQ7D)

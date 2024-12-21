@@ -82,3 +82,7 @@ In the early universe, gravity was initially **regional** due to the finite spee
 
 Would you like to explore how this regional-to-global transition impacts specific phenomena, such as dark energy or structure formation?
 
+
+---
+
+[README-higgs-and-expansion.md](https://t2m.io/dCZx0aX)

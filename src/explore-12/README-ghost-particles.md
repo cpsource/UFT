@@ -60,3 +60,7 @@ In broader discussions, "ghost particle" can refer to **hypothetical or elusive 
 
 Would you like a deeper dive into one of these interpretations?
 
+
+---
+
+[README-ghost-particles-are-artifacts.md](https://t2m.io/eP1EA6b)

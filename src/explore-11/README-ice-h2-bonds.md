@@ -77,3 +77,7 @@ Temperature changes affect hydrogen bonds because thermal energy competes with t
 
 Would you like to explore the role of hydrogen bonds in other phenomena, such as water’s anomalous properties or its heat capacity?
 
+
+---
+
+[README-ice-h2-synchronize.md](https://t2m.io/Nn7RaMo)

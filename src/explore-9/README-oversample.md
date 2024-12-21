@@ -47,3 +47,7 @@ Suppose you have a signal with a maximum frequency of \(f_{\text{max}} = 1 \, \m
 ### Summary
 To represent a wave accurately, you must sample it at least **twice the highest frequency** present in the signal. This ensures no loss of information and prevents aliasing, enabling perfect reconstruction of the original wave.
 
+
+---
+
+[README-oversample-frequency.md](https://t2m.io/O13ON4R)

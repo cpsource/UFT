@@ -104,3 +104,7 @@ You can compute this numerically or let me evaluate it for you.
 ### **6. Final Notes**
 The **circumference of the intersected area** depends solely on the arc lengths from both circles. If you'd like a Python or C++ implementation for this calculation, let me know!
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

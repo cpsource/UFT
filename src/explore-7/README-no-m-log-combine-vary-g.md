@@ -95,3 +95,7 @@ Thus, precession rate depends directly on \(g\):
 
 Would you like to explore specific values for \(g\) (e.g., Moon vs. Earth) or simulate precession rate variations? 😊
 
+
+---
+
+[README-no-m-log-combine-vary-e.md](https://t2m.io/cjro2sv)

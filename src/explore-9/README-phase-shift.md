@@ -68,3 +68,7 @@ The **imaginary energy** resulting from \(v > c\) could be interpreted as:
 
 In either case, while the result is not "real" in classical terms, it provides a mathematical framework for understanding energy in extended systems, potentially offering insights into multi-dimensional or phase-dependent physics.
 
+
+---
+
+[README-oversample.md](https://t2m.io/LSP9YVC)

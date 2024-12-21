@@ -36,3 +36,7 @@ To check if it relates to a known radius concept, here are some examples:
 
 If "Van Stein" refers to something specific, feel free to share more details, and I’ll help clarify!
 
+
+---
+
+[README-q3.md](https://t2m.io/VPMLVsN)

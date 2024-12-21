@@ -67,3 +67,7 @@ The field equations in bimetric gravity involve both metrics, leading to additio
 **Multi-gravity** generalizes Einstein's general relativity by introducing multiple interacting spacetimes or gravitational fields, often motivated by the quest to explain dark energy, unify forces, or probe quantum gravity. While rich in theoretical potential, multi-gravity faces challenges in mathematical complexity and experimental validation. It remains an exciting area of research for physicists exploring the frontiers of gravity and cosmology.
 
 
+
+---
+
+[README-bimetric-gravity.md](https://t2m.io/CpV3CRY)

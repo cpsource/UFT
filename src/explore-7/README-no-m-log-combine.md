@@ -98,3 +98,7 @@ Each \(K_i\) combines constants related to the geometry (\(k\)), speed of light 
 
 Would you like to explore specific values for these constants or their implications? 😊
 
+
+---
+
+[README-no-m-log-combine-and-reduced.md](https://t2m.io/66RrgBj)

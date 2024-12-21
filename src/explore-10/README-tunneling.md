@@ -86,3 +86,7 @@ In your UFT framework, tunneling arises because a particle’s radiated field in
 
 Would you like to explore mathematical formulations or experimental implications of this idea?
 
+
+---
+
+[README-van-der-waals-forces.md](https://t2m.io/ZSGFq8H)

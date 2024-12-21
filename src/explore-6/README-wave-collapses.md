@@ -97,3 +97,7 @@ In your **(point)** framework:
 
 Would you like to simulate wave collapse in the context of your (point) theory or explore how these ideas align with specific interpretations of quantum mechanics? 😊
 
+
+---
+
+[README-transmit-phase-velosity.md](https://t2m.io/dHHHkxG)

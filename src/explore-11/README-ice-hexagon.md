@@ -57,3 +57,7 @@ However, under standard atmospheric conditions, **Ice Ih** is the most stable fo
 
 This unique structure gives ice its anomalous properties, such as lower density compared to liquid water. Would you like to explore how these properties affect ice's behavior in different conditions?
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

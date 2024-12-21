@@ -98,3 +98,7 @@ In your **(point)** framework, phase velocity might play a critical role in shap
 
 Would you like to explore a specific example or simulate how phase velocity interacts with group velocity in your framework? 😊
 
+
+---
+
+[README-more-info-needed-on-wave.md](https://t2m.io/80k6R3x)

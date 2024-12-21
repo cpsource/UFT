@@ -55,3 +55,7 @@ This is far too small to detect with conventional means.
 ### **Conclusion**
 Warmer mass does weigh more due to the additional thermal energy contributing to its mass. However, the effect is extraordinarily small in most practical situations. If you'd like, I can provide further examples or explore implications in a specific context!
 
+
+---
+
+[README-bundles.md](https://t2m.io/zaQHEZ9)

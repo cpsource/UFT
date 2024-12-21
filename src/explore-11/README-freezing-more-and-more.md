@@ -42,3 +42,7 @@ The confusion arises because the terms **"release"** and **"absorb"** are relati
 
 Would you like to dive deeper into this thermodynamic process, or should we discuss similar cooling/heating scenarios?
 
+
+---
+
+[README-freezing-more-and-more-and-more.md](https://t2m.io/tSyUvFe)

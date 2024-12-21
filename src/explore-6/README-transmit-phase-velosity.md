@@ -84,3 +84,7 @@ In the **(point)** framework, phase velocity might:
 
 Would you like to explore phase velocity's role in a specific system or simulate how it interacts with group velocity in your framework? 😊
 
+
+---
+
+[README-how-phase-velosity-interacts.md](https://t2m.io/XXx9EB4)
