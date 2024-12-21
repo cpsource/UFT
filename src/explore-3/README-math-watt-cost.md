@@ -106,3 +106,7 @@ The energy cost to factorize a number grows **sub-exponentially** (or faster) wi
 
 Would you like to dive deeper into specific algorithms, their energy implications, or cryptographic relevance? 😊
 
+
+---
+
+[README-p-vs-np-problems.md](https://t2m.io/vp11HMq)

@@ -94,3 +94,7 @@ The power originates from the laser's **gain medium**:
 
 Would you like to explore the interaction of laser power with matter, how power changes with wavelength, or something else? 😊
 
+
+---
+
+[README-length-of-wave-packet.md](https://t2m.io/rZWNUru)

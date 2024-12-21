@@ -101,3 +101,7 @@ Here’s a typical scenario:
 
 Would you like to model this mathematically or explore specific applications like sum-frequency generation in crystals? 😊
 
+
+---
+
+[README-frequency-re-mixing.md](https://t2m.io/Y8XqnNY)

@@ -88,3 +88,7 @@ In practice, several factors make the process irreversible:
 
 Would you like to explore related concepts, such as how energy is partitioned in nonlinear systems or the role of entropy in irreversibility? 😊
 
+
+---
+
+[README-irreversibility.md](https://t2m.io/Qb4Brwo)

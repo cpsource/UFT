@@ -102,3 +102,7 @@ The chaotic nature of the three-body problem is intrinsic to its nonlinear dynam
 
 Chaos in the three-body problem highlights the limits of determinism in complex systems, even when all variables are known. Would you like to explore simulations, probabilistic approaches, or other extensions of this idea? 😊
 
+
+---
+
+[README-three-body-problem-points.md](https://t2m.io/McSOvTh)

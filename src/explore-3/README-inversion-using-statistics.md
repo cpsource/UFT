@@ -99,3 +99,7 @@ Probabilistic inverses are already used in fields where chaotic systems are prev
 
 Would you like to explore specific probabilistic methods, such as Monte Carlo simulations, or apply this idea to a real-world chaotic system? 😊
 
+
+---
+
+[README-monty-carlo.md](https://t2m.io/yGkcf3t)

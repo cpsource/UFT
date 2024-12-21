@@ -70,3 +70,7 @@ The entropy change associated with multiplication in physical systems aligns wit
 
 Would you like to explore this deeper in a specific mathematical or physical context? 😊
 
+
+---
+
+[README-math-watt-cost.md](https://t2m.io/T9OdYw3)

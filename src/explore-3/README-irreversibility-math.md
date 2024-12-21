@@ -97,3 +97,7 @@ Just as frequency mixing connects to the arrow of time, multiplication can metap
 
 Would you like to explore these parallels further, perhaps in the context of entropy, computation, or quantum mechanics? 😊
 
+
+---
+
+[README-irreversibility-math-entropy.md](https://t2m.io/ZN7pnG1)

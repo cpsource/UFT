@@ -119,3 +119,7 @@ Reducing the problem to **2D space** simplifies the dynamics without losing key 
 
 Would you like to explore specific 2D simulations, such as emergent properties in a tessellation, or analyze a simplified three-body system? 😊
 
+
+---
+
+[README-three-body-comp-sci.md](https://t2m.io/62YDH4s)

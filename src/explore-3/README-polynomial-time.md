@@ -88,3 +88,7 @@ These are considered **intractable** for large input sizes.
 
 Would you like to explore more about polynomial time, such as specific algorithms, reductions, or its role in \( P \) vs. \( NP \)? 😊
 
+
+---
+
+[README-polynomial-time-explained.md](https://t2m.io/GM3iUzZ)

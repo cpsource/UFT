@@ -106,3 +106,7 @@ You can approach chaotic transfer functions probabilistically by focusing on **d
 
 Would you like to explore specific chaotic systems or delve into probabilistic tools like Monte Carlo simulations? 😊
 
+
+---
+
+[README-inversion-using-statistics.md](https://t2m.io/W754XDO)

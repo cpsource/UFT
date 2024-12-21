@@ -107,3 +107,7 @@ By treating **mass as a derived quantity**:
 
 Would you like to explore how this reformulation could apply to specific systems, like black holes or quantum fields? 😊
 
+
+---
+
+[README-three-body-problem-points-2d.md](https://t2m.io/mqygA7G)

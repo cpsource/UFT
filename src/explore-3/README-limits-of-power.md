@@ -68,3 +68,7 @@ L_c \approx 30 \, \text{cm}
 
 Would you like to explore how this duration might change in different systems (e.g., molecular vs. atomic transitions) or how it connects to observable spectra? 😊
 
+
+---
+
+[README-non-linear.md](https://t2m.io/J3kLk8g)

@@ -103,3 +103,7 @@ Some real-world systems exemplify transformations without meaningful inverses:
 
 Would you like to explore specific chaotic systems or their applications in physics, math, or computational problems? 😊
 
+
+---
+
+[README-probability-into-the-mix.md](https://t2m.io/rpD5MLH)

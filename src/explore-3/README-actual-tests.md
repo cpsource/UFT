@@ -96,3 +96,7 @@ While the Schwinger effect has not been directly observed, some experimental res
 
 Would you like to explore more about the technologies involved, related physical processes, or implications for quantum field theory? 😊
 
+
+---
+
+[README-other-particles.md](https://t2m.io/Tm2oSUb)

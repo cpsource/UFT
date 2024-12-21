@@ -149,3 +149,7 @@ Monte Carlo simulations are a powerful tool for solving problems involving rando
 
 Would you like to see a code example of a Monte Carlo simulation or explore a specific application? 😊
 
+
+---
+
+[README-table-of-functions.md](https://t2m.io/fchEDKB)

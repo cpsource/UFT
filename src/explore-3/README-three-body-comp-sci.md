@@ -122,3 +122,7 @@ This approach is entirely feasible and can produce **useful results** in many sc
 
 Would you like assistance implementing a prototype for this fixed-point simulation or exploring a specific use case? 😊
 
+
+---
+
+[README-design-the-problem.md](https://t2m.io/VmGL9VA)

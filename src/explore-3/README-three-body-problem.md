@@ -119,3 +119,7 @@ The three-body problem is an archetype of chaotic systems:
 
 Would you like to explore specific examples of chaotic three-body systems or their probabilistic solutions? 😊
 
+
+---
+
+[README-three-body-problem-variables.md](https://t2m.io/qaq6xMu)

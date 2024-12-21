@@ -41,3 +41,7 @@ Here’s a table summarizing **common mathematical operations**, their **chaotic
 
 Would you like a deeper dive into any specific function or domain? 😊
 
+
+---
+
+[README-hashing-and-chaos.md](https://t2m.io/9YRkqeT)

@@ -122,3 +122,7 @@ Using a time step \(\Delta t\), update the positions and velocities iteratively:
 
 Would you like help implementing this in code or exploring specific scenarios? 😊
 
+
+---
+
+[README-sim-code.md](https://t2m.io/7m0vhh6)

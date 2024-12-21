@@ -114,3 +114,7 @@ Yes, particles can and have been created from "space and energy alone" in the fo
 
 Would you like to dive deeper into any specific phenomenon, or explore applications like particle accelerators or astrophysical observations? 😊
 
+
+---
+
+[README-frequency-mixing.md](https://t2m.io/qbDtHQ2)

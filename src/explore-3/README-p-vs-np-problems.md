@@ -76,3 +76,7 @@ Most computer scientists believe \( P \neq NP \), but it remains unproven.
 
 Would you like to explore specific NP-complete problems, reductions, or their implications in real-world scenarios? 😊
 
+
+---
+
+[README-polynomial-time.md](https://t2m.io/ozou92X)
