@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 This distinction between energy release from fusion (up to iron) and fission (for heavier elements) lies in the interplay of nuclear forces and the binding energy of atomic nuclei.
 
 ---

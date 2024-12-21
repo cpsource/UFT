@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, the structures formed by **(point)s** can oscillate, travel, vanish, or even self-create under certain conditions—much like patterns in Conway's Game of Life. The behavior of these structures depends on the rules governing the **attraction** and **repulsion** of the **(point)s**, as well as the emergent dynamics of their combinations. Here's how we can think about this:
 
 ---

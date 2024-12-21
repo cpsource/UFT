@@ -1,10 +1,13 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The gravitational force during nuclear reactions—whether fusion or fission—remains unchanged in its fundamental nature, but there can be slight indirect effects due to changes in the mass and energy distribution of the system.
 
 ---
 
 ### **Key Considerations:**
 1. **Mass-Energy Equivalence**:
-   - According to Einstein’s equation \( E = mc^2 \), the energy released or absorbed during a nuclear reaction corresponds to a very small change in mass.
+   - According to Einstein’s equation $E = mc^2$, the energy released or absorbed during a nuclear reaction corresponds to a very small change in mass.
    - For example:
      - **Fusion**: When two nuclei fuse to form a heavier nucleus, a tiny amount of mass is lost as energy (binding energy) is released. This "lost mass" slightly reduces the total gravitational pull of the system.
      - **Fission**: Similarly, in fission, the mass of the fragments is slightly less than the original nucleus, with the missing mass converted into energy.

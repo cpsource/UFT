@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Assigning the minimal properties to a **(point)** while still allowing them to combine and form higher-dimensional structures is an elegant challenge. I agree that **attraction** and **repulsion** are key candidates, as they provide the fundamental mechanisms for interaction and structure formation.
 
 Here’s how I’d approach it:
@@ -58,16 +61,12 @@ The exact nature of attraction and repulsion could depend on distance:
 
 #### **Inverse-Square Attraction (Long-Range)**
 - Attraction could follow an inverse-square law:
-  \[
-  F_{\text{attraction}} \propto \frac{1}{r^2}
-  \]
+  $$F_{\text{attraction}} \propto \frac{1}{r^2}$$
   - This ensures that attraction weakens as **(points)** move farther apart, mimicking gravitational or electrostatic forces.
 
 #### **Exponential Repulsion (Short-Range)**
 - Repulsion could follow an exponential decay:
-  \[
-  F_{\text{repulsion}} \propto e^{-r}
-  \]
+  $$F_{\text{repulsion}} \propto e^{-r}$$
   - This creates a steep rise in force as **(points)** get very close, ensuring they don’t collapse into a singularity.
 
 The combination of these two forces forms a **potential well**, where **(points)** can settle into stable configurations, just like atoms in a molecule.

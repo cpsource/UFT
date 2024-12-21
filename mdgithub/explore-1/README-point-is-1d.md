@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, I find that an intriguing and logically consistent approach! If **(points)** are truly 1D entities with no spatial dimensions beyond their own intrinsic "position," then the concepts of time and distance become inherently meaningless within their native framework. Let’s explore why this idea makes sense and its implications:
 
 ---
