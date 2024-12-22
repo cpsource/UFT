@@ -278,6 +278,12 @@ For more on this, take the walk at: [README-UFT-nn-introduction.md](https://t2m.
 
 In this section, we delve into the unification of electromagnetism with the broader framework of the Unified Field Theory (UFT), demonstrating how electromagnetic phenomena emerge naturally from the sub-space dynamics of our model. The journey begins [here](https://t2m.io/dB43xNJ), where we explore foundational concepts such as spin alignment, energy wells, and field interference within sub-space. Through iterative exploration, we connect electric and magnetic fields to distortions and feedback mechanisms in the fabric of sub-space. The path is non-linear and occasionally wanders into speculative territory, but ultimately culminates [here](https://t2m.io/Z1anrPS) with a coherent explanation of how Maxwell's equations and electromagnetic waves arise as macroscopic manifestations of sub-space interactions, aligning electromagnetism with gravity and other fundamental forces.
 
+## Magnetism Becomes a Derived Property
+
+In this discussion, we reexamine the foundations of electromagnetism and propose a radical simplification: magnetism, rather than being an intrinsic force, is a derived property of charge motion and field interactions. By dropping magnetism as a fundamental concept, we explore a model where only a single piece of information—the electric field or charge distribution—is transmitted across space. This information, encoded in the dynamics of the field, allows observers to reconstruct what we traditionally recognize as magnetic effects through mathematical transformations akin to Maxwell’s equations. This perspective challenges the conventional dual-field framework and opens the door to a more unified understanding of charge and motion.
+
+Follow this derivation [here](https://t2m.io/qy1jSds)
+
 ## Define the Speed of Light $c$ Using UFT
 
 This morning, we redefined the speed of light $c$ within the framework of the Unified Field Theory (UFT), linking it to the dynamics of sub-space. By conceptualizing $c$ as the result of energy propagation around the rim of a spinning vortex in sub-space, we derived it as $$c = \frac{2\pi r}{T}$$, where $r$ is the vortex's radius and $T$ the transit time of energy along the rim. This interpretation frames $c$ as a function of the geometry and dynamics of sub-space rather than an intrinsic constant, offering fresh insights into how physical limits arise from sub-space interactions. Take a walk through this derivation [here](https://t2m.io/5MSJk3A).
