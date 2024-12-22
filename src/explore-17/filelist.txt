@@ -1,3 +1,5 @@
+# Note - this has been merged to UFT
+
 README-top.md
 README-spinning-vortex.md
 README-spinning-diameter.md
