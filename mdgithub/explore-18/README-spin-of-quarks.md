@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Charge may **not directly come from the spin of the quarks** but instead arises from the **interactions between quarks and the fields they generate**, including their **motion, spin, and configuration** within particles like protons and neutrons. Here's a detailed look at how **spin**, **charge**, and **quark interactions** are related:
 
 ---
@@ -6,8 +9,8 @@ Charge may **not directly come from the spin of the quarks** but instead arises 
 Quarks have two primary properties relevant to charge:
 1. **Intrinsic Charge**:
    - Each quark carries a **fractional electric charge**:
-     - Up quark (\(u\)): \( +2/3 \)
-     - Down quark (\(d\)): \( -1/3 \)
+     - Up quark ($u$): $+2/3$
+     - Down quark ($d$): $-1/3$
      - Other quarks also have fractional charges but are less common in ordinary matter.
    - The sum of these charges in a particle (e.g., proton or neutron) determines its **net electric charge**.
 
@@ -40,7 +43,7 @@ While **spin** is a separate quantum property, it indirectly influences charge b
 ### **3. Neutrons and Charge Neutrality**
 Neutrons are neutral despite containing charged quarks because:
 1. **Charge Cancellation**:
-   - The \( +2/3 \) charge of the up quark cancels with the two \( -1/3 \) charges of the down quarks, resulting in a net charge of \( 0 \).
+   - The $+2/3$ charge of the up quark cancels with the two $-1/3$ charges of the down quarks, resulting in a net charge of $0$.
 
 2. **Spin and Internal Structure**:
    - The internal motion and spin of the quarks create charge **distributions** within the neutron, but these distributions balance each other, leading to no overall charge.

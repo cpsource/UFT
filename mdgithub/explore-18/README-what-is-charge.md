@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 To define **charge** without relying on "magical constants" or predefined theories, we must approach it as an observable property of interactions, emerging from the underlying behavior of energy, motion, and sub-space distortions. Here's an exploration of how we might define charge, its range, and its forces:
 
 ---
@@ -25,7 +28,7 @@ To define **charge** without relying on "magical constants" or predefined theori
 ### **2. Range of Charge**
 #### **A. Effective Range**
 - The range of the charge's influence depends on how far its distortion propagates in the surrounding medium before it dissipates:
-  - Charges interact through fields that decrease in strength with distance (e.g., \( 1/r^2 \)).
+  - Charges interact through fields that decrease in strength with distance (e.g., $1/r^2$).
   - The effective range is theoretically infinite in an ideal vacuum, but in real systems, the medium (sub-space) imposes limits based on energy dissipation and interference.
 
 #### **B. Factors Affecting Range**
@@ -44,12 +47,10 @@ To define **charge** without relying on "magical constants" or predefined theori
 
 #### **B. Mathematical Relationship**
 - Without invoking Coulomb's Law, the force can be thought of as proportional to:
-  \[
-  F \propto \frac{\Delta D}{r^2}
-  \]
+  $$F \propto \frac{\Delta D}{r^2}$$
   where:
-  - \( \Delta D \): Difference in the distortion gradient caused by the interacting charges.
-  - \( r^2 \): Distance between the charges, as the medium's influence spreads out over an area.
+  - $\Delta D$: Difference in the distortion gradient caused by the interacting charges.
+  - $r^2$: Distance between the charges, as the medium's influence spreads out over an area.
 
 ---
 

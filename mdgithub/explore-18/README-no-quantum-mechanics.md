@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 If we strip away current theories like quantum mechanics and attempt to define magnetic properties without invoking "magical properties," we must start from fundamental principles of motion, energy, and interaction in a framework that could be universally observable. Let’s explore magnetism through the lens of **interaction dynamics in a physical medium**, such as sub-space.
 
 ---

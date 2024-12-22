@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, magnetism primarily **emerges at the scale of the atom** due to the behavior of electrons, rather than being a direct consequence of interactions at the **quark scale**. Here's why:
 
 ---

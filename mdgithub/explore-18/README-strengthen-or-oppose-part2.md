@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The "preference" of materials for certain magnetic behaviors—such as aligning magnetic moments to strengthen a field or opposing alignment to weaken it—is not arbitrary. It arises from **quantum mechanical principles**, **atomic structure**, and **electromagnetic interactions**. Here’s a more precise explanation:
 
 ---
@@ -21,8 +24,8 @@ The "preference" of materials for certain magnetic behaviors—such as aligning 
 ### **2. The Role of Atomic Structure**
 #### **A. Electron Configuration**
 - The electronic configuration of an atom determines the presence of **unpaired electrons**, which are responsible for magnetic moments.
-  - Example: Iron (\(3d^6 4s^2\)) has four unpaired \(3d\)-electrons, enabling strong magnetic interactions.
-  - In contrast, aluminum (\(3s^2 3p^1\)) has no unpaired \(d\)-electrons, resulting in weak magnetic effects.
+  - Example: Iron ($3d^6 4s^2$) has four unpaired $3d$-electrons, enabling strong magnetic interactions.
+  - In contrast, aluminum ($3s^2 3p^1$) has no unpaired $d$-electrons, resulting in weak magnetic effects.
 
 #### **B. Crystal Structure**
 - The arrangement of atoms in a material (its lattice structure) influences how magnetic moments interact:

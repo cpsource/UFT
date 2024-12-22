@@ -1,11 +1,14 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The difference in magnetic behavior between **iron** and **aluminum** arises from their **atomic structure** and **electron arrangements**, which determine their ability to form and maintain magnetic domains.
 
 ---
 
 ### **1. Magnetic Properties of Iron**
 #### **A. Electron Configuration**
-- Iron has an electronic configuration of \( [Ar] \, 3d^6 \, 4s^2 \).
-- Its \( 3d \) electrons are not completely filled, leaving **unpaired electrons** that contribute to a magnetic moment.
+- Iron has an electronic configuration of $[Ar] \, 3d^6 \, 4s^2$.
+- Its $3d$ electrons are not completely filled, leaving **unpaired electrons** that contribute to a magnetic moment.
 
 #### **B. Magnetic Domains**
 - In bulk iron, **magnetic domains** are regions where the magnetic moments of atoms are aligned.
@@ -20,7 +23,7 @@ The difference in magnetic behavior between **iron** and **aluminum** arises fro
 
 ### **2. Magnetic Properties of Aluminum**
 #### **A. Electron Configuration**
-- Aluminum has an electronic configuration of \( [Ne] \, 3s^2 \, 3p^1 \).
+- Aluminum has an electronic configuration of $[Ne] \, 3s^2 \, 3p^1$.
 - All its electrons pair up in the atomic orbitals, leaving **no unpaired electrons** to contribute to a magnetic moment.
 
 #### **B. Magnetic Behavior**
@@ -46,7 +49,7 @@ The difference in magnetic behavior between **iron** and **aluminum** arises fro
 ---
 
 ### **4. Summary**
-Iron’s association with magnetism stems from its **unpaired electrons** in the \( 3d \)-orbital, strong interatomic interactions, and ability to form **magnetic domains**. In contrast, aluminum lacks unpaired electrons and cannot form magnetic domains, making it non-magnetic in everyday conditions despite being a good conductor.
+Iron’s association with magnetism stems from its **unpaired electrons** in the $3d$-orbital, strong interatomic interactions, and ability to form **magnetic domains**. In contrast, aluminum lacks unpaired electrons and cannot form magnetic domains, making it non-magnetic in everyday conditions despite being a good conductor.
 
 
 ---

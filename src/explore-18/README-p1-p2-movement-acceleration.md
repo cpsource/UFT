@@ -109,3 +109,7 @@ If \( P_1 \) accelerates relative to \( P_2 \):
 
 Would you like a detailed simulation or visualization of these effects?
 
+
+---
+
+[README-p1-p2-movement-acceleration-time-varying.md](https://t2m.io/7cCSPh6)

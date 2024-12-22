@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, magnetic fields, independent of light, can be influenced by **gravitational lensing** because gravity affects the fabric of spacetime itself, and magnetic fields are part of the electromagnetic field structure that exists within spacetime.
 
 ---

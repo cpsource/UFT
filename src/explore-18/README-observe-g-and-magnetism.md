@@ -76,3 +76,7 @@ In the **UFT-NN** model:
 
 Would you like to see mathematical formulations or simulations for these scenarios?
 
+
+---
+
+[README-p1-p2-thought-experiment.md](https://t2m.io/PjfGp4O)

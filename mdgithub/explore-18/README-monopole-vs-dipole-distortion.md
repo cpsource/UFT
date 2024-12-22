@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The difference between **monopole** and **dipole** distortions lies in the **geometry** of the source and how it interacts with the surrounding medium (such as space or sub-space). Here's a breakdown:
 
 ---
@@ -12,14 +15,14 @@ A **monopole distortion** arises from a single point source, which creates a sym
   
 - **Field Geometry**:
   - The field spreads isotropically (equally in all directions), forming spherical shells around the source.
-  - Field strength diminishes with the square of the distance (\( 1/r^2 \)) because the surface area of a sphere increases as \( 4\pi r^2 \).
+  - Field strength diminishes with the square of the distance ($1/r^2$) because the surface area of a sphere increases as $4\pi r^2$.
 
 - **Force Behavior**:
   - The interaction between monopole sources is simple: Like sources repel, and opposite sources attract (e.g., positive and negative charges in electrostatics).
 
 #### **Examples**
 - **Gravitational Field**:
-  - A mass generates a monopole distortion in spacetime, leading to a gravitational field that follows the \( 1/r^2 \) law.
+  - A mass generates a monopole distortion in spacetime, leading to a gravitational field that follows the $1/r^2$ law.
 - **Electric Field**:
   - A point charge creates a monopole electric field, with field lines radiating outward (positive charge) or converging inward (negative charge).
 
@@ -36,7 +39,7 @@ A **dipole distortion** arises when there are two closely spaced sources of oppo
 
 - **Field Geometry**:
   - The field lines emerge from one source (e.g., the north pole or positive charge) and terminate at the other (e.g., the south pole or negative charge).
-  - At large distances, the fields from the two sources partially cancel, leading to a steeper decrease in strength (\( 1/r^3 \)).
+  - At large distances, the fields from the two sources partially cancel, leading to a steeper decrease in strength ($1/r^3$).
 
 - **Force Behavior**:
   - The field exhibits directional dependence:
@@ -46,7 +49,7 @@ A **dipole distortion** arises when there are two closely spaced sources of oppo
 #### **Examples**
 - **Magnetic Field**:
   - A bar magnet creates a dipole magnetic field with north and south poles.
-  - The field strength diminishes as \( 1/r^3 \) at distances far from the magnet.
+  - The field strength diminishes as $1/r^3$ at distances far from the magnet.
 - **Electric Dipole**:
   - Two opposite charges separated by a small distance generate an electric dipole field.
   - The field's strength and orientation depend on the position relative to the dipole axis.
@@ -58,7 +61,7 @@ A **dipole distortion** arises when there are two closely spaced sources of oppo
 |---------------------------|---------------------------------------|-----------------------------------------|
 | **Source**                | Single source                        | Two opposing sources                   |
 | **Field Geometry**        | Spherically symmetric                | Directional, with distinct axis        |
-| **Field Strength**        | Decreases as \( 1/r^2 \)             | Decreases as \( 1/r^3 \)               |
+| **Field Strength**        | Decreases as $1/r^2$             | Decreases as $1/r^3$               |
 | **Field Lines**           | Radiate outward or converge inward   | Loop from one source to the other      |
 | **Examples**              | Gravity, electric point charge       | Magnetism, electric dipole             |
 
@@ -70,7 +73,7 @@ A **dipole distortion** arises when there are two closely spaced sources of oppo
    - Dipoles involve two interacting sources, leading to more complex behavior.
 
 2. **Field Cancellation**:
-   - For dipoles, the opposing nature of the two sources causes partial cancellation of the field, especially at large distances, leading to a steeper falloff (\( 1/r^3 \)).
+   - For dipoles, the opposing nature of the two sources causes partial cancellation of the field, especially at large distances, leading to a steeper falloff ($1/r^3$).
 
 3. **Interaction Dynamics**:
    - Dipoles introduce directionality and complexity because the field depends on the orientation and distance between the two sources.
@@ -86,8 +89,8 @@ A **dipole distortion** arises when there are two closely spaced sources of oppo
 ---
 
 ### **6. Summary**
-- A **monopole distortion** is simple, symmetric, and decreases with \( 1/r^2 \) due to spherical spreading.
-- A **dipole distortion** involves two sources with opposing effects, leading to directional fields that decrease with \( 1/r^3 \).
+- A **monopole distortion** is simple, symmetric, and decreases with $1/r^2$ due to spherical spreading.
+- A **dipole distortion** involves two sources with opposing effects, leading to directional fields that decrease with $1/r^3$.
 - The difference lies in geometry, interaction dynamics, and the symmetry of the source, providing a natural explanation for their distinct behaviors.
 
 

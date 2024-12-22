@@ -84,3 +84,7 @@ In this framework:
 
 This interpretation offers a fresh perspective on electromagnetism while preserving its predictive power. Would you like to explore a numerical or visual simulation based on this hypothesis?
 
+
+---
+
+[README-information-theory-data-transmission.md](https://t2m.io/muHkWz7)

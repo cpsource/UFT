@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The behavior of magnetic moments—whether they align to produce stronger fields or oppose to weaken fields—depends on the **atomic structure** of the material, the **interactions between magnetic moments**, and the presence of an **external magnetic field**. These factors determine the material's **magnetic ordering** and properties.
 
 ---
@@ -51,8 +54,8 @@ Several factors dictate whether magnetic moments align or oppose:
 #### **A. Atomic Structure**
 - The number and arrangement of unpaired electrons in an atom determine its magnetic moment.
 - Example:
-  - Iron (\(3d^6\)) has unpaired electrons, allowing strong magnetic interactions.
-  - Bismuth (\(6p^3\)) has paired electrons, leading to weak diamagnetic behavior.
+  - Iron ($3d^6$) has unpaired electrons, allowing strong magnetic interactions.
+  - Bismuth ($6p^3$) has paired electrons, leading to weak diamagnetic behavior.
 
 #### **B. Exchange Interaction**
 - The exchange interaction is the quantum mechanical interaction between neighboring atoms' magnetic moments.

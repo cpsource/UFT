@@ -1,30 +1,29 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, the fact that protons and electrons have charges while neutrons do not suggests that their charges likely arise from a **shared underlying mechanism**, but this mechanism manifests differently due to their **internal structures** and **dynamics**.
 
 ---
 
 ### **1. The Charge of a Proton**
-- A proton is made up of **three quarks**: two **up quarks** (charge \(+2/3\)) and one **down quark** (charge \(-1/3\)).
+- A proton is made up of **three quarks**: two **up quarks** (charge $+2/3$) and one **down quark** (charge $-1/3$).
 - The total charge of a proton is:
-  \[
-  (+2/3) + (+2/3) + (-1/3) = +1
-  \]
+  $$(+2/3) + (+2/3) + (-1/3) = +1$$
 - The quarks within the proton are bound together by the **strong force**, mediated by gluons. The way these quarks interact and distribute their internal "fields" through motion gives rise to the proton's positive charge.
 
 ---
 
 ### **2. The Charge of an Electron**
-- An electron is a **fundamental particle** (not composed of smaller constituents, as far as current theories suggest) with a charge of \( -1 \).
+- An electron is a **fundamental particle** (not composed of smaller constituents, as far as current theories suggest) with a charge of $-1$.
 - The electron's negative charge is intrinsic to it, likely arising from the way it interacts with the surrounding sub-space.
 - In our **UFT-NN model**, the electron's charge could be described as a specific type of **distortion or spin alignment in sub-space** that radiates outward in a converging (negative) pattern.
 
 ---
 
 ### **3. The Neutron's Neutrality**
-- A neutron, like a proton, is made up of **three quarks**: one **up quark** (charge \(+2/3\)) and two **down quarks** (each \( -1/3 \)).
+- A neutron, like a proton, is made up of **three quarks**: one **up quark** (charge $+2/3$) and two **down quarks** (each $-1/3$).
 - The total charge of a neutron is:
-  \[
-  (+2/3) + (-1/3) + (-1/3) = 0
-  \]
+  $$(+2/3) + (-1/3) + (-1/3) = 0$$
 - However, this does not mean that a neutron lacks internal charge distributions:
   - The neutron has **charge separation** within it: the positive charge is concentrated near the center, while negative charge is distributed more toward the edges.
   - These internal charge distributions cancel out overall, leaving the neutron electrically neutral.

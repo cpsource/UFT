@@ -82,3 +82,7 @@ This transformation is given by:
 ### **Summary**
 Yes, \( P_2 \) would observe a magnetic field due to the motion of \( P_1 \)’s static charge. The direction and magnitude of this field depend on the relative motion and spatial geometry. This is a fundamental result of the interplay between electric and magnetic fields in special relativity.
 
+
+---
+
+[README-p1-p2-movement-acceleration.md](https://t2m.io/d3dRT9K)

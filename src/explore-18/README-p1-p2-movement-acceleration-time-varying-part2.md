@@ -70,3 +70,7 @@ For **uniform acceleration**, \( P_2 \) would see:
 
 Oscillations are tied directly to the nature of \( P_1 \)’s motion, not merely the fact that it accelerates. Would you like to explore a mathematical example of these cases?
 
+
+---
+
+[README-no-magnetism.md](https://t2m.io/A5O0XVc)

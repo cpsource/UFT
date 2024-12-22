@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 **Diamagnetic materials** are materials that exhibit a weak, negative response to a magnetic field. When exposed to an external magnetic field, they create an induced magnetic field that opposes the applied field. Here's how they work:
 
 ---
@@ -20,7 +23,7 @@ Diamagnetism arises due to the behavior of **electrons in atoms**:
 
 ### **2. Characteristics of Diamagnetic Materials**
 1. **Weak and Negative Susceptibility**:
-   - Diamagnetic materials have a small, negative magnetic susceptibility (\( \chi < 0 \)), meaning they are weakly repelled by magnetic fields.
+   - Diamagnetic materials have a small, negative magnetic susceptibility ($\chi < 0$), meaning they are weakly repelled by magnetic fields.
 
 2. **No Permanent Magnetic Moments**:
    - Diamagnetic materials do not have permanent magnetic moments because their electron spins and orbital moments are fully paired.
@@ -58,7 +61,7 @@ When an external magnetic field is applied:
 ### **5. Differences from Other Magnetic Behaviors**
 | **Property**           | **Diamagnetic**            | **Paramagnetic**           | **Ferromagnetic**         |
 |-------------------------|----------------------------|-----------------------------|----------------------------|
-| Magnetic Susceptibility | Negative (\( \chi < 0 \)) | Positive but small (\( \chi > 0 \)) | Large and positive (\( \chi \gg 1 \)) |
+| Magnetic Susceptibility | Negative ($\chi < 0$) | Positive but small ($\chi > 0$) | Large and positive ($\chi \gg 1$) |
 | Magnetic Moments        | Induced, weak, opposing   | Unpaired electrons, aligns with field | Domains align spontaneously |
 | Example Materials       | Bismuth, graphite, water  | Aluminum, oxygen            | Iron, cobalt, nickel       |
 

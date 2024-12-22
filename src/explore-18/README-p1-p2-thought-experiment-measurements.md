@@ -95,3 +95,7 @@ As you rotate the wire:
 
 Would you like a Python simulation of this scenario?
 
+
+---
+
+[README-p1-p2-thought-experiment-measurements-part-2.md](https://t2m.io/)

@@ -94,3 +94,7 @@ Since \( P_2 \) doesn’t know the distance to \( P_1 \):
 
 Would you like a Python simulation to visualize this?
 
+
+---
+
+[README-p1-p2-thought-experiment-measurements.md](https://t2m.io/vND5HJy)
