@@ -280,7 +280,7 @@ In this section, we delve into the unification of electromagnetism with the broa
 
 ## Define the Speed of Light $c$ Using UFT
 
-This morning, we redefined the speed of light \( c \) within the framework of the Unified Field Theory (UFT), linking it to the dynamics of sub-space. By conceptualizing \( c \) as the result of energy propagation around the rim of a spinning vortex in sub-space, we derived it as \( c = \frac{2\pi r}{T} \), where \( r \) is the vortex's radius and \( T \) the transit time of energy along the rim. This interpretation frames \( c \) as a function of the geometry and dynamics of sub-space rather than an intrinsic constant, offering fresh insights into how physical limits arise from sub-space interactions. Take a walk through this derivation [here](https://t2m.io/5MSJk3A).
+This morning, we redefined the speed of light $c$ within the framework of the Unified Field Theory (UFT), linking it to the dynamics of sub-space. By conceptualizing $c$ as the result of energy propagation around the rim of a spinning vortex in sub-space, we derived it as $$c = \frac{2\pi r}{T}$$, where $r$ is the vortex's radius and $T$ the transit time of energy along the rim. This interpretation frames $c$ as a function of the geometry and dynamics of sub-space rather than an intrinsic constant, offering fresh insights into how physical limits arise from sub-space interactions. Take a walk through this derivation [here](https://t2m.io/5MSJk3A).
 
 ## Exploration
 
