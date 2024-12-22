@@ -91,3 +91,7 @@ If we view sub-space as a dynamic, spinning medium, the concept of events propag
 
 Would you like to explore specific phenomena arising from this model or delve into numerical simulations? 🚀
 
+
+---
+
+[README-spinning-diameter.md](https://t2m.io/n10UMae)

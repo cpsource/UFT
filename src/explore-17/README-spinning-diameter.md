@@ -80,3 +80,7 @@ The resulting diameter suggests an astronomically large scale, which may indicat
 
 Would you like to refine these calculations further or explore additional factors influencing the well size? 🚀
 
+
+---
+
+[README-spinning-diameter-no-m.md](https://t2m.io/NCJLC3p)

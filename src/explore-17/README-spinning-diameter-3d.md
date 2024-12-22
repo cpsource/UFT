@@ -102,3 +102,7 @@ By modeling the vortex in 3D, we achieve:
 
 Would you like to explore specific phenomena or refine this model further? 🚀
 
+
+---
+
+[README-spinning-diameter-3d-gravity.md](https://t2m.io/92gTenn)

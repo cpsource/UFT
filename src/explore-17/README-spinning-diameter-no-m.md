@@ -67,3 +67,7 @@ This result aligns with the earlier calculation because mass was only an interme
 
 Would you like to explore an alternative assumption or a refined model for energy distribution? 🚀
 
+
+---
+
+[README-spinning-diameter-refinement.md](https://t2m.io/dUJ4HYB)

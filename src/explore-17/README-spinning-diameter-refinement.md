@@ -93,3 +93,7 @@ Here, \( N \) is reasonable, suggesting propagation involves just a few vortex c
 
 Would you like to refine any specific assumption or explore further? 🚀
 
+
+---
+
+[README-spinning-diameter-3d.md](https://t2m.io/iNrdGMk)

@@ -127,3 +127,7 @@ By analyzing gravitational wave data for these signatures, it may be possible to
 
 Would you like to explore simulations, experiment design, or further refine the mathematical formalism? 🚀
 
+
+---
+
+[README-spin-and-lorentz.md](https://t2m.io/0Tvc3vk)

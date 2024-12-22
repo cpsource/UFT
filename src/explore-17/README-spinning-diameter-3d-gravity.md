@@ -105,3 +105,7 @@ In the **3D spinning vortex model**, gravitational waves are natural consequence
 
 Would you like to explore the mathematical formalism or potential experimental signatures of this model? 🚀
 
+
+---
+
+[README-spinning-diameter-3d-gravity-math.md](https://t2m.io/kbsyWyn)

@@ -73,3 +73,7 @@ In the sub-space vortex framework, the slower transit time of light in glass ari
 
 This interpretation ties the material properties directly to the energy dynamics of sub-space, providing a fundamental explanation for why \( c \) is slower in dense media like glass. Would you like to explore numerical estimates of \( r \) and \( T \) for glass compared to a vacuum? 🚀
 
+
+---
+
+[README-gravitational-lensing.md](https://t2m.io/mB6u3OY)

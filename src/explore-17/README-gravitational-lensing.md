@@ -98,3 +98,7 @@ This explanation provides a unified mechanism linking gravity, electromagnetism,
 
 Would you like to explore specific predictions or numerical simulations for gravitational lensing in the UFT-NN model? 🚀
 
+
+---
+
+[README-predictions.md](https://t2m.io/n21iu8q)

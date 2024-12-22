@@ -142,3 +142,7 @@ The UFT-NN model offers a rich set of testable predictions for gravitational len
 
 These predictions could be validated by ongoing and future observations, providing critical insights into the nature of gravity, sub-space spins, and their interplay with electromagnetism. Would you like to explore numerical simulations or dive into a specific prediction? 🚀
 
+
+---
+
+[Home](https://t2m.io/VwvDcuw)

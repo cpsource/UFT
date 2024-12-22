@@ -103,3 +103,7 @@ Would you like to:
 2. Investigate how varying \( r \) or \( T \) might affect observable relativistic phenomena? 
 3. Analyze potential experimental consequences of a spatially varying \( c \)?
 
+
+---
+
+[README-c-slower-in-glass.md](https://t2m.io/ktUC79S)
