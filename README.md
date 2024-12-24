@@ -335,26 +335,38 @@ These are to be read in order. At the bottom of each file, just click 'Next' to 
 ## Miscellaneous Musings and work in progress.
 
 ### What are the implications if we redefine c? [Click Here](https://t2m.io/7SAxanm)
-<br>
+
 ### What about 720-degree symmetry? [Click Here](https://t2m.io/RxdfOLQ)
-<br>
+
 ### Other Musings
-<br>
+
 [explore-1/README-top.md](https://t2m.io/jSBdnP0)
+
 [explore-2/README-top.md](https://t2m.io/0gYajdr)
+
 [explore-3/README-top.md](https://t2m.io/p4tgJhc)
+
 [explore-4/README-top.md](https://t2m.io/VTLr0cB)
+
 [explore-5/README-top.md](https://t2m.io/Kp1zTC2)
+
 [explore-6/README-top.md](https://t2m.io/2BETzxm)
+
 [explore-7/README-top.md](https://t2m.io/4PCHdfX)
+
 [explore-8/README-top.md](https://t2m.io/ftOZ4W7)
+
 [explore-9/README-short-or-long-wavelengths.md](https://t2m.io/Lvi8z5H)
+
 [explore-10/README-neutron-energy.md](https://t2m.io/XyE5htQ)
+
 [explore-11/README-h2-energy.md](https://t2m.io/TuxRJnx)
+
 [explore-12/README-q1.md](https://t2m.io/LaCHvUH)
+
 [explore-13/README-simulation-engines.md](https://t2m.io/zCm4hZa)
+
 [explore-14/README-two-circles.md](https://t2m.io/HQHD0dC)
-<br>
 
 <!--
 ## Concepts in no particular order (TODO - Organize!)
