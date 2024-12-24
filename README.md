@@ -284,6 +284,10 @@ In this discussion, we reexamine the foundations of electromagnetism and propose
 
 Follow this derivation [here](https://t2m.io/qy1jSds)
 
+## Time is highly variable
+
+This morning, we explored the fascinating variability of time as an emergent property, influenced by gravitational fields, relative velocities, and the structure of energy wells in sub-space. Drawing on concepts from Unified Field Theory (UFT), we discussed how time is not static but arises from wave function dynamics and the transit time around the lip of energy wells, which simultaneously create gravity. We imagined practical applications, such as dual-dial clocks for interstellar missions, and considered how time dilation near massive objects or in high-velocity scenarios reveals the malleability of time. These ideas challenge traditional notions of time, offering a unified framework for understanding its flow across the cosmos. For more information, follow the thread [here](https://t2m.io/KHdT2oK).
+
 ## Define the Speed of Light $c$ Using UFT
 
 This morning, we redefined the speed of light $c$ within the framework of the Unified Field Theory (UFT), linking it to the dynamics of sub-space. By conceptualizing $c$ as the result of energy propagation around the rim of a spinning vortex in sub-space, we derived it as $$c = \frac{2\pi r}{T}$$, where $r$ is the vortex's radius and $T$ the transit time of energy along the rim. This interpretation frames $c$ as a function of the geometry and dynamics of sub-space rather than an intrinsic constant, offering fresh insights into how physical limits arise from sub-space interactions. Take a walk through this derivation [here](https://t2m.io/5MSJk3A).
