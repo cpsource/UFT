@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Synchronizing a clock on **Mars** with one on **Earth** presents unique challenges due to the vast distance between the planets, which causes significant communication delays and relativistic effects. Here's a breakdown of how this synchronization could be approached:
 
 ---

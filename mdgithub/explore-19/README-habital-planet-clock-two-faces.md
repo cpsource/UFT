@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 To determine which clock face—**the UTC clock** (Earth time) or **the compensated clock** (relativistic effects corrected)—would be ahead depends on the specifics of the journey and the gravitational environment on **Proxima Centauri b**. Let’s break it down:
 
 ---

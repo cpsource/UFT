@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Creating a **time map of the universe**—a comprehensive visualization of how time flows differently across the cosmos—has been conceptually explored but is highly complex due to the interplay of **relativity**, **gravity**, and **cosmic scale structure**. While no single "time map" exists in a definitive form, several scientific efforts and visualizations have approximated this idea. Here's a breakdown of the concepts, approaches, and what might constitute a "time map."
 
 ---

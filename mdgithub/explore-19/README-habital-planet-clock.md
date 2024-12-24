@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 Yes, it would be possible to send a robot to **Proxima Centauri b** with a dual-dial clock as you described, provided the clock is carefully designed to account for relativistic and gravitational effects over the journey and on the planet's surface. Here’s how it could be implemented:
 
 ---
@@ -23,7 +26,7 @@ Implementing such a clock is challenging but feasible with current and near-futu
 1. **Relativistic Corrections**:
    - Use precise calculations based on **Special Relativity** to adjust for time dilation during the journey:
      - At high speeds (e.g., 10% the speed of light), time on the spacecraft would slow relative to Earth.
-     - The correction factor is \( \sqrt{1 - v^2 / c^2} \), where \( v \) is the velocity and \( c \) is the speed of light.
+     - The correction factor is $\sqrt{1 - v^2 / c^2}$, where $v$ is the velocity and $c$ is the speed of light.
    - Similarly, apply **General Relativity** corrections to account for Proxima Centauri b’s weaker gravitational field compared to Earth.
 
 2. **Journey Duration**:

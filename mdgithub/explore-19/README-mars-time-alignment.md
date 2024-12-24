@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The alignment accuracy of a clock on **Mars** with a clock on **Earth** depends on several factors, including the communication delay, relativistic corrections, and the precision of the atomic clocks. Here's an analysis of potential accuracy limits:
 
 ---

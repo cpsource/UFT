@@ -1,3 +1,6 @@
+[Home](https://t2m.io/VwvDcuw)
+---
+
 The nearest potentially habitable planet to Earth is **Proxima Centauri b**, which orbits the star **Proxima Centauri** in the Alpha Centauri system. Here’s what we know about it:
 
 ---
