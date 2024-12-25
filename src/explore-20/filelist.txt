@@ -1,6 +1,5 @@
 README-top.md
 README-Lambda-CDM-model.md
-
 README-Gell-Mann-Amnesia.md
 README-associahedron.md
 README-possibility-principal.md
