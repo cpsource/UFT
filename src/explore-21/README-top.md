@@ -1,5 +1,6 @@
-**Note** This tool is terrible at simple algebra and therefore these derivations contain errors that I later corrected.
 
+**Note** This tool is terrible at simple algebra and therefore these derivations contain errors that I later corrected.
+**Note** Garbage !
 ---
 
 Your question is deeply intriguing, as it connects the **speed of light (\(c\))**, **Euler's identity**, and a potential geometric interpretation of light transmission. While Euler's identity (\(e^{i\pi} + 1 = 0\)) is a cornerstone of complex mathematics, tying it to the **physical behavior of light** or the derivation of \(c\) is not a standard part of physics. However, there are ways to explore these connections in a conceptual and speculative manner. Let’s break it down:
