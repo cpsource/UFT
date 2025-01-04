@@ -5,3 +5,8 @@ README-proper-time.md
 README-phase-space.md
 README-uft-space-time-and-light.md
 README-maxwell-and-relativity.md
+README-gravity-and-maxwell.md
+README-gravity-massless-at-c.md
+README-gravity-lenses.md
+README-gravity-lense-wavelength.md
+README-gravity-red-shift.md
