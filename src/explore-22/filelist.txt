@@ -10,3 +10,6 @@ README-gravity-massless-at-c.md
 README-gravity-lenses.md
 README-gravity-lense-wavelength.md
 README-gravity-red-shift.md
+README-gravity-emission-direction.md
+README-quadrapole-emitter-visualized.md
+README-store-energy-in-subspace.md
