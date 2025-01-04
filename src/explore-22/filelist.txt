@@ -14,3 +14,8 @@ README-gravity-emission-direction.md
 README-quadrapole-emitter-visualized.md
 README-store-energy-in-subspace.md
 README-is-time-created-by-reference-frame.md
+README-time-response-1.md
+README-time-response-2.md
+README-energy-carried-off.md
+README-temperature-time.md
+README-total-energy.md
