@@ -19,3 +19,5 @@ README-time-response-2.md
 README-energy-carried-off.md
 README-temperature-time.md
 README-total-energy.md
+README-total-dark-energy-density.md
+README-total-dark-energy-density-ev.md
