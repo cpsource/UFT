@@ -6,3 +6,14 @@ README-information-not-shared.md
 README-collapse.md
 README-collapse-more-info.md
 README-is-matter-collapsed.md
+README-entangled-nutrinos.md
+README-nutrinos-correlation.md
+README-entangled-energy.md
+README-measuring-energy.md
+README-measuring-energy-asking-again.md
+README-measuring-energy-clarification.md
+README-measuring-energy-quantum.md
+README-collapsed-state-energy.md
+README-uncollapse.md
+README-collapse-position.md
+README-collapse-position-long.md
